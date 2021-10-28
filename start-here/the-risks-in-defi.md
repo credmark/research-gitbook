@@ -16,4 +16,4 @@ Credit Risk is the risk of a counterparty not meeting their financial obligation
 
 ### Operational Risk
 
-Operational Risk is the risk that a protocol is mismanaged by it's core contributors.
+Operational Risk is the risk that a protocol is mismanaged by it's core contributors. This includes centralization and regulatory risk.

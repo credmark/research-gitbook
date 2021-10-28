@@ -13,7 +13,6 @@
     * [Contributors](readme/aave-and-compound-defi-protocols/contributors.md)
     * [Disclaimer](readme/aave-and-compound-defi-protocols/disclaimer.md)
     * [References](readme/aave-and-compound-defi-protocols/references.md)
-* [Compliance & Legal Risk Overview](compliance-and-legal-risk-overview.md)
 
 ## Stablecoins
 
