@@ -9,6 +9,7 @@
     * [Market Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/market-risk.md)
     * [Financial Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/financial-risk.md)
     * [Operational Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/operational-risk.md)
+  * [Aave](lending-protocols/aave.md)
 
 ## Stablecoins
 
