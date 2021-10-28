@@ -6,11 +6,12 @@ As an example, we computed the VaR for a theoretical holding of $1M worth of Eth
 
 Based on 99% confidence level, 10-day holding period, and 1-year historical sampling window, the VaR of this position as of 6 October 2021 is equal to $379k. Table 3 shows other VaR estimates for other historical windows and holding periods.
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+_Table 3 – 1 Day and 10 Day VaR Based on Last Year and All-Time History_
+
+| Metrics    | Last year | All-time |
+| ---------- | --------- | -------- |
+| 1 Day VaR  | 139,908   | 150,148  |
+| 10 Day VaR | 379,003   | 377,376  |
 
 The distribution in Figure 1 compares the VaR during a 10-day holding using data from the past year as well as all the historical data. The past year’s values are more skewed and platykurtic than the ones for the whole history.
 
