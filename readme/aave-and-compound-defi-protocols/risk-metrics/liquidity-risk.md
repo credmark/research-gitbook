@@ -22,11 +22,12 @@ To parameterize LCR, we came up with the following assumptions on the stress sce
 
 Table 4 lists a comparative analysis of Aave2 and Compound protocol LCR with the breakdown of its components. Aave2 LCR is assumed to be the same for all Aave protocols.
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|                                 | AAVE2      | Compound   | Diff      |
+| ------------------------------- | ---------- | ---------- | --------- |
+| **LCR**                         | **42.03%** | **35.80%** | **6.23%** |
+| Assets Net Outflows, in $M      | **752**    | **568**    | 33%       |
+| Liabilities Net Outflows, in $M | **3,553**  | **3,111**  | 14%       |
+| Safety Module, in $M            | **1,809**  | **1,317**  | 37%       |
 
 Aave has an LCR 42.03%, which is 6.23% higher than Compound’s. Aave’s liquidity management is clearly more robust than Compound’s. This is primarily explained by Aave’s Safety Module being 37% higher than Compound’s.&#x20;
 
