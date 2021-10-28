@@ -1,13 +1,12 @@
 # Table of contents
 
 * [Lending Protocols](README.md)
-  * [Quantitative Assessment of Aave & Compound](lending-protocols/quantitative-assessment-of-aave-and-compound/README.md)
-    * [Investment Metrics](lending-protocols/quantitative-assessment-of-aave-and-compound/investment-metrics.md)
-    * [Risk Metrics](lending-protocols/quantitative-assessment-of-aave-and-compound/risk-metrics.md)
-    * [Market Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/market-risk.md)
-    * [Financial Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/financial-risk.md)
-    * [Operational Risk](lending-protocols/quantitative-assessment-of-aave-and-compound/operational-risk.md)
-  * [Aave](lending-protocols/aave.md)
+  * [Aave and Compound DeFi Protocols](readme/aave-and-compound-defi-protocols/README.md)
+    * [Investment Metrics](readme/aave-and-compound-defi-protocols/investment-metrics.md)
+    * [Risk Metrics](readme/aave-and-compound-defi-protocols/risk-metrics.md)
+    * [Contributors](readme/aave-and-compound-defi-protocols/contributors.md)
+    * [Disclaimer](readme/aave-and-compound-defi-protocols/disclaimer.md)
+    * [References](readme/aave-and-compound-defi-protocols/references.md)
 * [Compliance & Legal Risk Overview](compliance-and-legal-risk-overview.md)
 
 ## Stablecoins
