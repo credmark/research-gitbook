@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Lending Protocols](README.md)
+* [Start Here](README.md)
+  * [What's a Risk Library?](start-here/whats-a-risk-library.md)
+  * [The Risks in DeFi](start-here/the-risks-in-defi.md)
+* [Lending Protocols](<README (1).md>)
   * [Aave and Compound DeFi Protocols](readme/aave-and-compound-defi-protocols/README.md)
     * [Investment Metrics](readme/aave-and-compound-defi-protocols/investment-metrics.md)
     * [Risk Metrics](readme/aave-and-compound-defi-protocols/risk-metrics.md)
