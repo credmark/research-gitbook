@@ -10,3 +10,22 @@ From a token holder’s perspective, Aave is more attractive than Compound. Aave
 
 Aave’s NIM is 58 basis points (0.58%) higher than Compound’s, therefore representing a better investment opportunity since NIM is expected to be distributed to token holders.
 
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Table 2 provides information on the protocols’ borrowing and lending rates. As could be seen from the data as of 13 October 2021, the weighted average borrowing rate for Aave is 2.85%, while the one for Compound is 1.43%, which is lower by 1.42%. For depositors (lenders) Aave is more attractive, but for borrowers, Compound is more attractive.
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### **Summary**
+
+Because Aave has a higher net cash inflow, it is a more attractive protocol from a token investment standpoint.&#x20;
+
+Aave & Compound have the same business model: both protocols attract deposits by offering interest payments, then lend out those same deposits at a higher rate. Profit to the protocol comes from the difference of interest paid out to lenders and interest paid by borrowers (the spread).
