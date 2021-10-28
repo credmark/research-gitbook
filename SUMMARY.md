@@ -3,7 +3,7 @@
 * [Lending Protocols](README.md)
   * [Aave and Compound DeFi Protocols](readme/aave-and-compound-defi-protocols/README.md)
     * [Investment Metrics](readme/aave-and-compound-defi-protocols/investment-metrics.md)
-    * [Risk Metrics](readme/aave-and-compound-defi-protocols/risk-metrics/README.md)
+    * [Risk Metrics](readme/aave-and-compound-defi-protocols/risk-metrics.md)
       * [Market Risk](readme/aave-and-compound-defi-protocols/risk-metrics/market-risk.md)
       * [Liquidity Risk](readme/aave-and-compound-defi-protocols/risk-metrics/liquidity-risk.md)
       * [Operational Risk](readme/aave-and-compound-defi-protocols/risk-metrics/operational-risk.md)
