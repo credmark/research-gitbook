@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [The Risks in DeFi](welcome/the-risks-in-defi.md)
+* [Introduction](README.md)
+  * [The Risks in DeFi](introduction/the-risks-in-defi.md)
 
 ## Lending Protocols
 
