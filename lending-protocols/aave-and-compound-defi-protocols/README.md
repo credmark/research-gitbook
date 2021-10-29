@@ -18,5 +18,5 @@ This report is a comparative analysis of the Compound and Aave protocols. We ass
 
 ### Context&#x20;
 
-This report was commissioned by Coinshift.
+This report was commissioned by [Coinshift](https://coinshift.xyz).
 
