@@ -1,17 +1,19 @@
 # Table of contents
 
-* [Start Here](README.md)
-  * [The Risks in DeFi](start-here/the-risks-in-defi.md)
-* [Lending Protocols](<README (1).md>)
-  * [Aave and Compound DeFi Protocols](readme/aave-and-compound-defi-protocols/README.md)
-    * [Investment Metrics](readme/aave-and-compound-defi-protocols/investment-metrics.md)
-    * [Risk Metrics](readme/aave-and-compound-defi-protocols/risk-metrics.md)
-      * [Market Risk](readme/aave-and-compound-defi-protocols/risk-metrics/market-risk.md)
-      * [Liquidity Risk](readme/aave-and-compound-defi-protocols/risk-metrics/liquidity-risk.md)
-      * [Operational Risk](readme/aave-and-compound-defi-protocols/risk-metrics/operational-risk.md)
-    * [Contributors](readme/aave-and-compound-defi-protocols/contributors.md)
-    * [Disclaimer](readme/aave-and-compound-defi-protocols/disclaimer.md)
-    * [References](readme/aave-and-compound-defi-protocols/references.md)
+* [Welcome](README.md)
+  * [The Risks in DeFi](welcome/the-risks-in-defi.md)
+
+## Lending Protocols
+
+* [Aave and Compound DeFi Protocols](lending-protocols/aave-and-compound-defi-protocols/README.md)
+  * [Investment Metrics](lending-protocols/aave-and-compound-defi-protocols/investment-metrics.md)
+  * [Risk Metrics](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/README.md)
+    * [Market Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/market-risk.md)
+    * [Liquidity Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/liquidity-risk.md)
+    * [Operational Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/operational-risk.md)
+  * [Contributors](lending-protocols/aave-and-compound-defi-protocols/contributors.md)
+  * [Disclaimer](lending-protocols/aave-and-compound-defi-protocols/disclaimer.md)
+  * [References](lending-protocols/aave-and-compound-defi-protocols/references.md)
 
 ## Stablecoins
 
