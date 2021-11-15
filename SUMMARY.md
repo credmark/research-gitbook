@@ -27,3 +27,8 @@
 
 * [Idle Finance](yield-aggregators/idle-finance/README.md)
   * [Smart Contract Financial Risk](yield-aggregators/idle-finance/smart-contract-risk.md)
+
+## Risk Tools
+
+* [Page 1](risk-tools/page-1.md)
+* [Value at Risk (VAR)](risk-tools/value-at-risk-var.md)
