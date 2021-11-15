@@ -30,5 +30,5 @@
 
 ## Risk Tools
 
-* [Page 1](risk-tools/page-1.md)
+* [Liquidity Coverage Ratio (LCR)](risk-tools/liquidity-coverage-ratio-lcr.md)
 * [Value at Risk (VAR)](risk-tools/value-at-risk-var.md)
