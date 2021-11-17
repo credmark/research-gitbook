@@ -28,6 +28,11 @@
 * [Idle Finance](yield-aggregators/idle-finance/README.md)
   * [Smart Contract Financial Risk](yield-aggregators/idle-finance/smart-contract-risk.md)
 
+## Legal Risk
+
+* [Introduction](legal-risk/introduction.md)
+* [Investor Risk](legal-risk/investor-risk.md)
+
 ## Risk Tools
 
 * [Liquidity Coverage Ratio (LCR)](risk-tools/liquidity-coverage-ratio-lcr.md)
