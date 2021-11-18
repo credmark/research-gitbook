@@ -32,6 +32,9 @@
 
 * [Introduction](legal-risk/introduction.md)
 * [Investor Risk](legal-risk/investor-risk.md)
+* [Protocol Risk](legal-risk/protocol-risk.md)
+* [Tax Risk](legal-risk/tax-risk.md)
+* [Regulatory Risk](legal-risk/regulatory-risk.md)
 
 ## Risk Tools
 

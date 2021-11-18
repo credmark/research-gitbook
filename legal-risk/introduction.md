@@ -12,7 +12,7 @@ We are currently dividing legal risk into four categories:
 
 * investor risk,&#x20;
 * protocol risk,
-* regulatory risk, and
-* tax risk.
+* tax risk, and
+* regulatory risk.
 
 We're look at each of these in more detail.
