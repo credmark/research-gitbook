@@ -6,7 +6,7 @@ VaR is commonly used in TradFi to calculate potential losses. By aggregating por
 
 Because VaR is applicable to any group that holds assets subject to market fluctuations, it can easily, and usefully, be applied to Crypto as a financial primitive.
 
-There are three primary types of VaR modelling: the historical, the variance-covariance method and the Monte Carlo simulation.
+There are three primary types of VaR modeling: the historical, the variance-covariance method and the Monte Carlo simulation.
 
 For simplicity, below is the formula for the Historical 10-day VaR of the Trading book based on the last year sampling.
 
@@ -18,7 +18,9 @@ For simplicity, below is the formula for the Historical 10-day VaR of the Tradin
 
 where:&#x20;
 
-Lossn - portfolio loss on the observation date n; m - the number of crypto assets in the trading book;&#x20;
+Lossn - portfolio loss on the observation date n;
+
+m - the number of crypto assets in the trading book;&#x20;
 
 n - the observation number applied retrospectively, for example, 30th of June 2021 is n and n+1 is 29th of June 2021;&#x20;
 
