@@ -18,9 +18,9 @@ For simplicity, below is the formula for the Historical 10-day VaR of the Tradin
 
 where:&#x20;
 
-Lossn - portfolio loss for on the observation date n; m - the number of crypto assets in the trading book;&#x20;
+Lossn - portfolio loss on the observation date n; m - the number of crypto assets in the trading book;&#x20;
 
-n - the observation number applied retrospectively, for example 30th of June 2021 is n and n+1 is 29th of June 2021;&#x20;
+n - the observation number applied retrospectively, for example, 30th of June 2021 is n and n+1 is 29th of June 2021;&#x20;
 
 Xm - the quantity of the asset m in the book;&#x20;
 
@@ -40,6 +40,6 @@ There are several ways to go about calculating VaR. The first is by looking at h
 
 A second methodology utilizes the standard deviation and correlations of assets- in other words the potential losses are assumed to be normally distributed and applied against the mean price of an asset with calculated correlations.
 
-Lastly, complex simulations can be built to calculate potential gains, losses and their likelihood of occurring based on anticipated behaviour
+Lastly, complex simulations can be built to calculate potential gains, losses, and likelihood of occurring based on anticipated behavior.
 
 While VaR can be a useful tool, it is important to consider its limitations. Because VaR often relies on historical data it can be a poor predictor of edge-case, or extreme market fluctuations.
