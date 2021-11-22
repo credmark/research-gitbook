@@ -19,6 +19,7 @@
 
 * [Introduction](stablecoins/introduction.md)
 * [Token Details](stablecoins/token-details/README.md)
+  * [USDP (paxos)](stablecoins/token-details/usdp-paxos.md)
   * [USDC](stablecoins/token-details/usdc.md)
   * [USDT](stablecoins/token-details/usdt.md)
   * [DAI](stablecoins/token-details/dai.md)

@@ -15,4 +15,4 @@ We are currently dividing legal risk into four categories:
 * tax risk, and
 * regulatory risk.
 
-We're look at each of these in more detail.
+In the coming weeks we'll be looking at each of these in more detail.
