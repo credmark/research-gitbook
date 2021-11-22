@@ -3,17 +3,17 @@
 * [Introduction](README.md)
   * [The Risks in DeFi](introduction/the-risks-in-defi.md)
 
-## Lending Protocols
+## REPORTS
 
-* [Aave and Compound DeFi Protocols](lending-protocols/aave-and-compound-defi-protocols/README.md)
-  * [Investment Metrics](lending-protocols/aave-and-compound-defi-protocols/investment-metrics.md)
-  * [Risk Metrics](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/README.md)
-    * [Market Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/market-risk.md)
-    * [Liquidity Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/liquidity-risk.md)
-    * [Operational Risk](lending-protocols/aave-and-compound-defi-protocols/risk-metrics/operational-risk.md)
-  * [Contributors](lending-protocols/aave-and-compound-defi-protocols/contributors.md)
-  * [Disclaimer](lending-protocols/aave-and-compound-defi-protocols/disclaimer.md)
-  * [References](lending-protocols/aave-and-compound-defi-protocols/references.md)
+* [Aave and Compound DeFi Risk Report](reports/aave-and-compound-defi-risk-report/README.md)
+  * [Investment Metrics](reports/aave-and-compound-defi-risk-report/investment-metrics.md)
+  * [Risk Metrics](reports/aave-and-compound-defi-risk-report/risk-metrics/README.md)
+    * [Market Risk](reports/aave-and-compound-defi-risk-report/risk-metrics/market-risk.md)
+    * [Liquidity Risk](reports/aave-and-compound-defi-risk-report/risk-metrics/liquidity-risk.md)
+    * [Operational Risk](reports/aave-and-compound-defi-risk-report/risk-metrics/operational-risk.md)
+  * [Contributors](reports/aave-and-compound-defi-risk-report/contributors.md)
+  * [Disclaimer](reports/aave-and-compound-defi-risk-report/disclaimer.md)
+  * [References](reports/aave-and-compound-defi-risk-report/references.md)
 
 ## Stablecoins
 
@@ -37,7 +37,7 @@
 * [Tax Risk](legal-risk/tax-risk.md)
 * [Regulatory Risk](legal-risk/regulatory-risk.md)
 
-## Risk Tools
+## Risk Metrics
 
-* [Liquidity Coverage Ratio (LCR)](risk-tools/liquidity-coverage-ratio-lcr.md)
-* [Value at Risk (VAR)](risk-tools/value-at-risk-var.md)
+* [Liquidity Coverage Ratio (LCR)](risk-metrics/liquidity-coverage-ratio-lcr.md)
+* [Value at Risk (VAR)](risk-metrics/value-at-risk-var.md)
