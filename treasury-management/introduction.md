@@ -20,6 +20,9 @@ Over time, decision making will be transferred to our community and will be subj
 
 Eventually, execution will be transferred to our community as well.&#x20;
 
-Objectives&#x20;
+**Objectives**&#x20;
 
-Manage financial risk safely and soundly within the boundaries set by the core team or community. Maintain sufficient liquidity to meet all payment obligations, both under normal conditions and in case of liquidity stress. Generate returns in line with expectations set by the core team or community. Monitor risk exposure in line with industry best practices. (These are being developed starting from traditional finance industry best practices.)
+* Manage financial risk safely and soundly within the boundaries set by the core team or community.&#x20;
+* Maintain sufficient liquidity to meet all payment obligations, both under normal conditions and in case of liquidity stress.&#x20;
+* Generate returns in line with expectations set by the core team or community.&#x20;
+* Monitor risk exposure in line with industry best practices. (These are being developed starting from traditional finance industry best practices.)
