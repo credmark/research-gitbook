@@ -6,9 +6,9 @@ To measure this risk, we use a metric called liquidity coverage ratio (LCR). LCR
 
 ![](<../../../.gitbook/assets/Screen Shot 2021-10-28 at 2.34.50 PM.png>)
 
-**Net cash outflows – **net outflows from depositors removing funds and early loans liquidations under stress.
+**Net cash outflows –** net outflows from depositors removing funds and early loans liquidations under stress.
 
-**Liquidity buffer – **the funds held in the safety module for each protocol.
+**Liquidity buffer –** the funds held in the safety module for each protocol.
 
 Aave and Compound have similar business models. They borrow funds from depositors and lend these funds at a higher rate. This margin is then distributed to the token holders.
 

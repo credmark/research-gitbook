@@ -5,7 +5,7 @@ We verified historical events that have resulted in a loss of funds from decentr
 *   **Oracle manipulation flash loan attacks.** In these attacks, malicious attackers use liquidity from flash loans to manipulate the price of an asset on pricing oracles used by a lending protocol. This enables the attacker to take out an under-collateralized loan on a protocol. Even though the collateral is lost, the lending protocol still loses money because of the under-collateralized nature of the loan.
 
     Based on historical events, flash loan attacks can steal up to 2.3% of the total value locked of the protocol.
-*   **Smart Contract Bugs. **In this instance, an individual with an in-depth understanding of smart contract logic can find and exploit a vulnerability in the protocol.
+*   **Smart Contract Bugs.** In this instance, an individual with an in-depth understanding of smart contract logic can find and exploit a vulnerability in the protocol.
 
     Based on historical events, Smart Contract bug exploits can steal up to 4% of the total value locked of the platform
 

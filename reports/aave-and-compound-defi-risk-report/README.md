@@ -2,7 +2,7 @@
 description: A Quantitative Assessment
 ---
 
-# Aave and Compound DeFi Protocols
+# Aave and Compound DeFi Risk Report
 
 ### **Executive Summary**
 
@@ -14,7 +14,7 @@ This report is a comparative analysis of the Compound and Aave protocols. We ass
 
 **Section 1** - covers investment metrics, specifically net interest margin (NIM) and annualized rate of return, in other words, yield associated with investment into the protocol.&#x20;
 
-**Section 2 - ** covers risk metrics including market risk, liquidity risk, and operational risk. Credit risk is out of scope. Based on the conducted analysis, Aave showed better results compared to Compound, subject to a disclaimer.
+**Section 2 -** covers risk metrics including market risk, liquidity risk, and operational risk. Credit risk is out of scope. Based on the conducted analysis, Aave showed better results compared to Compound, subject to a disclaimer.
 
 ### Context&#x20;
 

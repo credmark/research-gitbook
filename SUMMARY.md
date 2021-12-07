@@ -45,5 +45,6 @@
 
 ## Treasury Management
 
-* [Introduction](treasury-management/introduction.md)
-* [Credmark Treasury Management Cycle I](treasury-management/credmark-treasury-management-cycle-i.md)
+* [Credmark](treasury-management/credmark/README.md)
+  * [Introduction](treasury-management/credmark/introduction.md)
+  * [Credmark Treasury Management Cycle I](treasury-management/credmark/credmark-treasury-management-cycle-i.md)

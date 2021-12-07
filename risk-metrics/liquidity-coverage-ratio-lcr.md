@@ -16,13 +16,13 @@ To measure this risk, we use a metric called liquidity coverage ratio (LCR). LCR
 
 ![](<../.gitbook/assets/LCR calculation.png>)
 
-**Liquidity buffer – **Highly liquid funds that that can be used to meet short-term obligations
+**Liquidity buffer –** Highly liquid funds that that can be used to meet short-term obligations
 
-**Net cash outflows - **net cash outflows from protocol users in a stress situation
+**Net cash outflows -** net cash outflows from protocol users in a stress situation
 
 ****
 
-**DATA NEEDED & CONSIDERATIONS: **
+**DATA NEEDED & CONSIDERATIONS:**&#x20;
 
 To create an LCR model you will need two base-level data points:
 
