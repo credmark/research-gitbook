@@ -1,5 +1,5 @@
 ---
-description: By Joey Hirsh
+description: By Joey Hirsh, 30 December 2021
 ---
 
 # Historical VaR Analysis
@@ -214,41 +214,41 @@ As can be seen, the majority of the VaR is driven by historically simulated loss
 &#x20;​​To compute the 1-day VaR, we apply these to each protocol’s 2 November, 2021 portfolio to obtain the Total Simulated Loss for each
 
 | **Token**               | **Aave (5 Feb, 2021)** | **Compound (3 May, 2021)** |
-| ----------------------- | ---------------------- | -------------------------- |
-| BTC                     | 163,530,347            | 188,988,772                |
-| ETH                     | 307,607,878            | 864,147,910                |
-| USDC                    | 28,017                 | 63,063                     |
-| USDT                    | -31,027                | -10,788                    |
-| GUSD                    | -118,799               | -                          |
-| SUSD                    | 137,054                | -                          |
-| TUSD                    | -7,449                 | -45,618                    |
-| USDP                    | -46,770                | -                          |
-| BAL                     | 5,716,087              | -                          |
-| LINK                    | 18,922,968             | 12,248,425                 |
-| MKR                     | 71,686,404             | 437,446                    |
-| RAI                     | 2,360,123              | -                          |
-| UNI                     | 66,614,666             | 48                         |
-| SUSHI                   | -                      | 226,257                    |
-| XSUSHI                  | 125,746,986            | -                          |
-| YFI                     | 2,757,772              | 117,501                    |
-| BUSD                    | -12,891                | -                          |
-| FEI                     | 1,754,752              | -                          |
-| FRAX                    | -32,812                | -                          |
-| COMP                    | -                      | 77,203,936                 |
-| AAVE                    | 424,661,773            | 1,474,580                  |
-| BAT                     | 121,131                | 12,891,910                 |
-| CRV                     | 9,988,048              | -                          |
-| DPI                     | 35,917,730             | -                          |
-| ENJ                     | -3,602,560             | -                          |
-| KNC                     | 204,483                | -                          |
-| MANA                    | 419,900                | -                          |
-| REN                     | 12,438,939             | -                          |
-| RENFIL                  | 19,214                 | -                          |
-| SNX                     | 2,507,739              | -                          |
-| ZRX                     | 1,158,592              | 30,300,998                 |
-| SAI                     | -                      | 17,219,266                 |
-| DAI                     | 467,626                | 4,320,060                  |
-| **Total Loss in Value** | **1,250,915,920**      | **1,209,583,767**          |
+| ----------------------- | ---------------------: | -------------------------: |
+| BTC                     |            163,530,347 |                188,988,772 |
+| ETH                     |            307,607,878 |                864,147,910 |
+| USDC                    |                 28,017 |                     63,063 |
+| USDT                    |                -31,027 |                    -10,788 |
+| GUSD                    |               -118,799 |                          - |
+| SUSD                    |                137,054 |                          - |
+| TUSD                    |                 -7,449 |                    -45,618 |
+| USDP                    |                -46,770 |                          - |
+| BAL                     |              5,716,087 |                          - |
+| LINK                    |             18,922,968 |                 12,248,425 |
+| MKR                     |             71,686,404 |                    437,446 |
+| RAI                     |              2,360,123 |                          - |
+| UNI                     |             66,614,666 |                         48 |
+| SUSHI                   |                      - |                    226,257 |
+| XSUSHI                  |            125,746,986 |                          - |
+| YFI                     |              2,757,772 |                    117,501 |
+| BUSD                    |                -12,891 |                          - |
+| FEI                     |              1,754,752 |                          - |
+| FRAX                    |                -32,812 |                          - |
+| COMP                    |                      - |                 77,203,936 |
+| AAVE                    |            424,661,773 |                  1,474,580 |
+| BAT                     |                121,131 |                 12,891,910 |
+| CRV                     |              9,988,048 |                          - |
+| DPI                     |             35,917,730 |                          - |
+| ENJ                     |             -3,602,560 |                          - |
+| KNC                     |                204,483 |                          - |
+| MANA                    |                419,900 |                          - |
+| REN                     |             12,438,939 |                          - |
+| RENFIL                  |                 19,214 |                          - |
+| SNX                     |              2,507,739 |                          - |
+| ZRX                     |              1,158,592 |                 30,300,998 |
+| SAI                     |                      - |                 17,219,266 |
+| DAI                     |                467,626 |                  4,320,060 |
+| **Total Loss in Value** |      **1,250,915,920** |          **1,209,583,767** |
 
 Visualizing the data we see again that while BTC and ETH dominate the VaR for Compound, Aave’s VaR has more diverse contributions (including a large component coming from an almost overnight doubling of their token value):
 
