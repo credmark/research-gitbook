@@ -5,6 +5,7 @@
 
 ## REPORTS
 
+* [Historical VaR Analysis](reports/historical-var-analysis.md)
 * [Aave and Compound DeFi Risk Report](reports/aave-and-compound-defi-risk-report/README.md)
   * [Investment Metrics](reports/aave-and-compound-defi-risk-report/investment-metrics.md)
   * [Risk Metrics](reports/aave-and-compound-defi-risk-report/risk-metrics/README.md)

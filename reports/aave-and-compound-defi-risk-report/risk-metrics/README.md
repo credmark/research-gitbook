@@ -10,6 +10,6 @@ Credit risk is the possibility of a loss resulting from a borrower’s failure t
 
 Risk assessment of a protocol is helpful in decision-making for all counterparties involved: token holders, depositors, and borrowers.
 
-### Summary&#x20;
+## Summary&#x20;
 
 Credmark maintains a register of market, liquidity and operational risks in DeFi. We quantify and monitor these risks and recommend appropriate risk mitigating strategies.

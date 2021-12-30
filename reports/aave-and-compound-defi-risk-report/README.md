@@ -4,7 +4,7 @@ description: A Quantitative Assessment
 
 # Aave and Compound DeFi Risk Report
 
-### **Executive Summary**
+## **Executive Summary**
 
 This report is a comparative analysis of the Compound and Aave protocols. We assessed  profitability and risk metrics of both. The report assesses characteristics from three different perspectives
 

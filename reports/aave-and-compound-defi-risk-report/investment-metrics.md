@@ -26,7 +26,7 @@ _Table 2 - Weighted Average Funding and Lending Rates Comparison_
 | AAVE     | 2.85%          | 7.50%        | 4.65%  |
 | Compound | 1.43%          | 4.45%        | 3.02%  |
 
-### **Summary**
+## **Summary**
 
 Because Aave has a higher net cash inflow, it is a more attractive protocol from a token investment standpoint.&#x20;
 
