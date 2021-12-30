@@ -2,7 +2,7 @@
 description: By Joey Hirsh, 30 December 2021
 ---
 
-# Historical VaR Analysis
+# 👍 Aave and Compound Historical VaR
 
 ### Executive Summary
 
