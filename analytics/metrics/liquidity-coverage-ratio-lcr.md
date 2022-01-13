@@ -14,7 +14,7 @@ Liquidity risk is the risk that a business will have insufficient funds to meet 
 
 To measure this risk, we use a metric called liquidity coverage ratio (LCR). LCR is defined as the proportion of highly liquid assets held by an organization to ensure that they maintain an ongoing ability to meet their short-term obligations (cash outflows for 30 days) in a stress situation. It is one of the essential liquidity risk measures in traditional finance. The mathematical formula is:
 
-![](<../.gitbook/assets/LCR calculation.png>)
+![](<../../.gitbook/assets/LCR calculation.png>)
 
 **Liquidity buffer –** Highly liquid funds that that can be used to meet short-term obligations
 

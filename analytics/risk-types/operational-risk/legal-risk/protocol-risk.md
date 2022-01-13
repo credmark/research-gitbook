@@ -64,4 +64,3 @@ If you get sued because your protocol caused harm, your company or DAO could go 
 Most corporate structures isolate officers and shareholders from most liabilities. Similarly, a company can isolate a related company from liability.
 
 Protocol risk can only be incurred by the entity developing and deploying the protocol. That entity does not need to be the same as the one controlling a company or project's treasury. Keeping those separate can limit the amount of financial damage caused by user lawsuits due to protocol failures.&#x20;
-

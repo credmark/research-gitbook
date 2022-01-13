@@ -14,7 +14,7 @@ For simplicity, below is the formula for the Historical 10-day VaR of the Tradin
 
 **CALCULATION:**
 
-![](<../.gitbook/assets/VAR calculation.png>)
+![](<../../.gitbook/assets/VAR calculation.png>)
 
 where:&#x20;
 

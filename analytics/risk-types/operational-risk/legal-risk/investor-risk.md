@@ -31,4 +31,3 @@ The best way to minimize this risk is to scrupulously follow every possible rule
 As every trader knows, returns tend to be correlated to risk. Tesla isn't successful because it avoided risk. It is successful (so far) because it has taken enormous risks. Needless to say, Tesla is constantly being sued by unhappy investors.&#x20;
 
 Managing investor risk ultimately depends on an accurate assessment of the likelihood  that unhappy investors will use a particular attack vector if they come to regret their investment. Crypto companies are unlikely to be sued for making false claims about their products. They are far more likely to be attacked for issues related to their token.&#x20;
-
