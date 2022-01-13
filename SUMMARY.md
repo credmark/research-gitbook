@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [What is the Risk Library](introduction/what-is-the-risk-library.md)
+  * [What is the Risk Library?](introduction/what-is-the-risk-library.md)
   * [What is Credmark?](introduction/what-is-credmark.md)
-  * [How can I contribute to the Risk Library](introduction/how-can-i-contribute-to-the-risk-library.md)
+  * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
   * [Why should I contribute to the Risk Library?](introduction/why-should-i-contribute-to-the-risk-library.md)
 * [Reports](reports/README.md)
   * [👍 Aave and Compound Historical VaR](reports/aave-and-compound-historical-var.md)
@@ -58,19 +58,28 @@
 
 ## DeFi Protocol Taxonomy
 
-* [Page 1](defi-protocol-taxonomy/page-1.md)
-
-## Stablecoins
-
-* [Introduction](stablecoins/introduction.md)
-* [Token Details](stablecoins/token-details/README.md)
-  * [USDP (paxos)](stablecoins/token-details/usdp-paxos.md)
-  * [TUSD](stablecoins/token-details/tusd.md)
-  * [USDC](stablecoins/token-details/usdc.md)
-  * [USDT](stablecoins/token-details/usdt.md)
-  * [DAI](stablecoins/token-details/dai.md)
-
-## Yield Aggregators
-
-* [Idle Finance](yield-aggregators/idle-finance/README.md)
-  * [Smart Contract Financial Risk](yield-aggregators/idle-finance/smart-contract-risk.md)
+* [Tokens](defi-protocol-taxonomy/tokens/README.md)
+  * [Stablecoins](defi-protocol-taxonomy/tokens/stablecoins/README.md)
+    * [USDT](defi-protocol-taxonomy/tokens/stablecoins/usdt.md)
+    * [USDC](defi-protocol-taxonomy/tokens/stablecoins/usdc.md)
+    * [DAI](defi-protocol-taxonomy/tokens/stablecoins/dai.md)
+    * [TUSD](defi-protocol-taxonomy/tokens/stablecoins/tusd.md)
+    * [USDP (paxos)](defi-protocol-taxonomy/tokens/stablecoins/usdp-paxos.md)
+  * [Protocol Token](defi-protocol-taxonomy/tokens/protocol-token.md)
+  * [Memecoins](defi-protocol-taxonomy/tokens/memecoins.md)
+* [Lending](defi-protocol-taxonomy/lending/README.md)
+  * [Aave](defi-protocol-taxonomy/lending/aave.md)
+  * [Compound](defi-protocol-taxonomy/lending/compound.md)
+* [Dexes](defi-protocol-taxonomy/dexes/README.md)
+  * [Uniswap](defi-protocol-taxonomy/dexes/uniswap/README.md)
+    * [Uniswap V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v3.md)
+    * [Uniswap V2](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2.md)
+  * [Sushiswap](defi-protocol-taxonomy/dexes/sushiswap.md)
+* [Yield Aggregators](defi-protocol-taxonomy/yield-aggregators/README.md)
+  * [Idle Finance](defi-protocol-taxonomy/yield-aggregators/idle-finance/README.md)
+    * [Smart Contract Financial Risk](defi-protocol-taxonomy/yield-aggregators/idle-finance/smart-contract-risk.md)
+* [Indexes](defi-protocol-taxonomy/indexes.md)
+* [Staking](defi-protocol-taxonomy/staking.md)
+* [Options and Derivatives](defi-protocol-taxonomy/options-and-derivatives.md)
+* [L2s and Bridges](defi-protocol-taxonomy/l2s-and-bridges.md)
+* [Wallets, Custodians, and Multisigs](defi-protocol-taxonomy/wallets-custodians-and-multisigs.md)

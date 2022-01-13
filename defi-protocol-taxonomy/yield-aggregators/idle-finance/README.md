@@ -1,2 +1,3 @@
 # Idle Finance
 
+Coming soon...
