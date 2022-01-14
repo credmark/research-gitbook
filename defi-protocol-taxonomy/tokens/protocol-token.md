@@ -4,6 +4,6 @@
 
 Coming soon...
 
-## Governance Toke
+## Governance Token
 
 Coming soon...
