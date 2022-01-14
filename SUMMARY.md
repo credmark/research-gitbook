@@ -58,6 +58,7 @@
 
 ## DeFi Protocol Taxonomy
 
+* [Introduction](defi-protocol-taxonomy/introduction.md)
 * [Tokens](defi-protocol-taxonomy/tokens/README.md)
   * [Stablecoins](defi-protocol-taxonomy/tokens/stablecoins/README.md)
     * [USDT](defi-protocol-taxonomy/tokens/stablecoins/usdt.md)
