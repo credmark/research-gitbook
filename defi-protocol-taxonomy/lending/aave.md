@@ -124,11 +124,17 @@ Aave’s governance power rests with the community where Aave token holders (sta
 
 Profits from uncollateralized loans (Flash Loans) are 100% deposited to the Aave organization.
 
-How is this exposed to layers in DeFi:
+## 15. How is this exposed to layers in DeFi:
 
-What layers are upstream (built on top of the protocol)? Are there other protocols that use it as a source of data/pricing oracle, or put funds into it? Since Aave is a lending protocol, no layers are currently built on top of Aave and currently, no other known protocols use Aave as a source of data pricing, while Aave itself relies on Chain Link Data Oracle for pricing. While a substantial number of smart contracts are known to use Aave for the purpose of taking Flash Loans.\[25] What layers are downstream (protocols/assets built on or put into the platform). For example, yield farms are built on top of lending protocols Aave recently announced its plans to scale its DeFi platform on Layer 2 networks beyond the Ethereum Blockchain but currently only incorporates Polygon network. It foresees building on other chains in the future. Since Aave is a lending pool and not a p2p lending platform, yields are given to depositors whether or not their assets are loaned out to borrowers so it also behaves as a yield farm.\[24]
+### What layers are upstream (built on top of the protocol)?
 
-References
+Are there other protocols that use it as a source of data/pricing oracle, or put funds into it? Since Aave is a lending protocol, no layers are currently built on top of Aave and currently, no other known protocols use Aave as a source of data pricing, while Aave itself relies on Chain Link Data Oracle for pricing. While a substantial number of smart contracts are known to use Aave for the purpose of taking Flash Loans.\[25]
+
+### What layers are downstream (protocols/assets built on or put into the platform)? For example, yield farms are built on top of lending protocols.
+
+Aave recently announced its plans to scale its DeFi platform on Layer 2 networks beyond the Ethereum Blockchain but currently only incorporates Polygon network. It foresees building on other chains in the future. Since Aave is a lending pool and not a p2p lending platform, yields are given to depositors whether or not their assets are loaned out to borrowers so it also behaves as a yield farm.\[24]
+
+## References
 
 1. AAVE, https://aave.com/
 2. AAVE, https://docs.aave.com/portal/
