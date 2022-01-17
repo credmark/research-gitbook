@@ -16,6 +16,7 @@
     * [Contributors](reports/aave-and-compound-defi-risk-report/contributors.md)
     * [Disclaimer](reports/aave-and-compound-defi-risk-report/disclaimer.md)
     * [References](reports/aave-and-compound-defi-risk-report/references.md)
+  * [Smart Contract Financial Risk](reports/smart-contract-risk.md)
 
 ## Analytics
 
@@ -77,9 +78,7 @@
     * [Uniswap V2](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2.md)
   * [Sushiswap](defi-protocol-taxonomy/dexes/sushiswap.md)
   * [Curve Finance](defi-protocol-taxonomy/dexes/curve-finance.md)
-* [Yield Aggregators](defi-protocol-taxonomy/yield-aggregators/README.md)
-  * [Idle Finance](defi-protocol-taxonomy/yield-aggregators/idle-finance/README.md)
-    * [Smart Contract Financial Risk](defi-protocol-taxonomy/yield-aggregators/idle-finance/smart-contract-risk.md)
+* [Yield Aggregators](defi-protocol-taxonomy/yield-aggregators.md)
 * [Indexes](defi-protocol-taxonomy/indexes.md)
 * [Staking](defi-protocol-taxonomy/staking.md)
 * [Options and Derivatives](defi-protocol-taxonomy/options-and-derivatives.md)
