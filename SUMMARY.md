@@ -76,7 +76,7 @@
     * [Uniswap V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v3.md)
     * [Uniswap V2](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2.md)
   * [Sushiswap](defi-protocol-taxonomy/dexes/sushiswap.md)
-  * [Curve Financ](defi-protocol-taxonomy/dexes/curve-financ.md)
+  * [Curve Finance](defi-protocol-taxonomy/dexes/curve-finance.md)
 * [Yield Aggregators](defi-protocol-taxonomy/yield-aggregators/README.md)
   * [Idle Finance](defi-protocol-taxonomy/yield-aggregators/idle-finance/README.md)
     * [Smart Contract Financial Risk](defi-protocol-taxonomy/yield-aggregators/idle-finance/smart-contract-risk.md)
