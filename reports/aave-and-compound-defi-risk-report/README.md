@@ -1,5 +1,5 @@
 ---
-description: A Quantitative Assessment
+description: By Asan Tulemis, 30 December 2021
 ---
 
 # Aave and Compound DeFi Risk Report
