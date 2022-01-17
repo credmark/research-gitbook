@@ -5,6 +5,7 @@
   * [What is Credmark?](introduction/what-is-credmark.md)
   * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
   * [Why should I contribute to the Risk Library?](introduction/why-should-i-contribute-to-the-risk-library.md)
+* [Risk Insights](https://docs.credmark.com/risk-insights/)
 * [Reports](reports/README.md)
   * [👍 Aave and Compound Historical VaR](reports/aave-and-compound-historical-var.md)
   * [Aave and Compound DeFi Risk Report](reports/aave-and-compound-defi-risk-report/README.md)
