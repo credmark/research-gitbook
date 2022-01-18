@@ -61,7 +61,7 @@
 * [Lending](defi-protocol-taxonomy/lending/README.md)
   * [Aave](defi-protocol-taxonomy/lending/aave.md)
   * [Compound](defi-protocol-taxonomy/lending/compound.md)
-* [Dexes](defi-protocol-taxonomy/dexes/README.md)
+* [DEXes](defi-protocol-taxonomy/dexes/README.md)
   * [Uniswap](defi-protocol-taxonomy/dexes/uniswap/README.md)
     * [Uniswap V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v3.md)
     * [Uniswap V2](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2.md)
