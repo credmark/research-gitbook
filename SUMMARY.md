@@ -20,7 +20,6 @@
   * [Liquidity Risk](analytics/risk-types/liquidity-risk.md)
   * [Operational Risk](analytics/risk-types/operational-risk/README.md)
     * [Legal Risk](analytics/risk-types/operational-risk/legal-risk/README.md)
-      * [Introduction](analytics/risk-types/operational-risk/legal-risk/introduction.md)
       * [Investor Risk](analytics/risk-types/operational-risk/legal-risk/investor-risk.md)
       * [Protocol Risk](analytics/risk-types/operational-risk/legal-risk/protocol-risk.md)
       * [Tax Risk](analytics/risk-types/operational-risk/legal-risk/tax-risk.md)
