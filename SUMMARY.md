@@ -41,7 +41,6 @@
 * [Risk](frameworks/risk.md)
 * [Treasury](frameworks/treasury/README.md)
   * [Treasury Management for DAOs](frameworks/treasury/treasury-management-for-daos/README.md)
-    * [Introduction](frameworks/treasury/treasury-management-for-daos/introduction.md)
     * [Credmark Treasury Management Cycle I](frameworks/treasury/treasury-management-for-daos/credmark-treasury-management-cycle-i.md)
 * [Insurance](frameworks/insurance.md)
 
