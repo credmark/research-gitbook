@@ -71,5 +71,6 @@
 * [Indexes](defi-protocol-taxonomy/indexes.md)
 * [Staking](defi-protocol-taxonomy/staking.md)
 * [Options and Derivatives](defi-protocol-taxonomy/options-and-derivatives.md)
+* [Insurance](defi-protocol-taxonomy/insurance.md)
 * [L2s and Bridges](defi-protocol-taxonomy/l2s-and-bridges.md)
 * [Wallets, Custodians, and Multisigs](defi-protocol-taxonomy/wallets-custodians-and-multisigs.md)
