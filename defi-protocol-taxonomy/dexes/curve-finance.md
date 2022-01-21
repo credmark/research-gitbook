@@ -2,7 +2,7 @@
 description: By Rahul Kanojia and Shivam Garg, 17 January 2022
 ---
 
-# Curve Financ
+# Curve Finance
 
 The easiest way to understand Curve is to see it as an exchange. Its main goal is to let users and other decentralized protocols exchange stablecoins (DAI to USDC for example) through it with low fees and low slippage. Unlike exchanges out there that match a buyer and a seller, the behaviour of Curve is different, it uses liquidity pools like Uniswap. To achieve this, Curve needs liquidity (tokens) which is rewarded by those who provide it \[1].
 
@@ -18,8 +18,6 @@ The curve is a popular automated market maker (AMM) platform that offers a highl
 
 Yes, $23.27 bln. as of 17 January 2022 \[3].
 
-### How is it calculated in different Places (Their Frontend, Dune, DefiPulse, DefiLlama)?
-
 The curve has the following distribution of TVL as of 17 January 2022 \[3]:
 
 | Arbitrum   | $16.6 bln.   |
@@ -31,7 +29,7 @@ The curve has the following distribution of TVL as of 17 January 2022 \[3]:
 | xDAI       | $67.15 mln.  |
 | Ethereum   | $20.87 bln.  |
 
-## 4. What are its
+## 4. What are its core metrics?
 
 * Liabilities\
   $ 23,26 bln. \[4]
