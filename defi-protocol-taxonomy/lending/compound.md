@@ -1,5 +1,5 @@
 ---
-description: By Rahul Kanojia and Shivam Garg, 20 January 2022
+description: By Shivam Garg, 20 January 2022
 ---
 
 # Compound
