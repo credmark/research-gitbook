@@ -16,10 +16,6 @@ Aave is a borrowing and lending platform that offers both Collateralized and Unc
 
 ## 3. Does it have TVL?
 
-Yes, $13.18 bln. as of 14 January 2022 \[4]
-
-### How is it calculated in different Places (Their Frontend, Dune, DefiPulse, DefiLlama)?
-
 As of 2nd December’ 2021 Aave protocol’s TVL stands at approx. $27.1 bln., distributed across multiple chains as per below:
 
 Ethereum Chain - $16.6 bln.
@@ -28,7 +24,7 @@ Polygon Chain - $4.2 bln.
 
 Avalanche Chain - $6.6 bln.
 
-## 4. What are it’s
+## 4. What are it’s core metrics?
 
 As of 14 January 2022:
 
