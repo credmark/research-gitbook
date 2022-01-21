@@ -93,3 +93,26 @@ Even the framework for Compound’s governance model itself can be voted on and 
 ## 14. How decentralized is it?
 
 Like many other DeFi platforms, Compound rewards some users with its tokens for using the platform and providing liquidity, as an incentive. In order to fairly distribute the COMP governance token — and with it, agency over the Compound protocol and platform — the team allocated tokens to the project’s users in proportion to on-chain activity in April 2020. The more you lent or borrowed on Compound, the more COMP tokens you were rewarded. Over 10,000,000 COMP were distributed in this allocation, with approximately half going to users and the other half to the founders, team members, and investors in Compound \[9].
+
+## 15. How is it exposed to the different layers in DeFi?
+
+Decentralized exchanges (DEXs) use Compound inside to operate, basically interacting with Compound via COMP token.&#x20;
+
+Some of the examples are:
+
+1. Dharma is a smart-wallet app that lets users deposit DAI to earn interest easily. It also allows them to easily pay each other in DAI, much like Venmo. While DAI has not been the most popular asset on Compound lately (USDC and USDT have), each depositor and borrower on Dharma still earns some COMP each day as it gets distributed.
+2. PoolTogether is a lossless lottery. Users deposit their funds with PoolTogether in order to win a chance at winning all the interest earned by everyone else who did the same. PoolTogether has a weekly DAI pool and a daily USDC pool, but their returns have been hammered by the way liquidity mining has changed the market.  "PoolTogether contracts are earning COMP and currently, the value of that COMP is actually greater than the value of the interest accruing to the prizes!," Leighton Cusack, the founder, told CoinDesk in an email. "However, when we designed the protocol we did not have COMP in mind so there is not a mechanism right now to re-distribute it to depositors or include it in the prize."
+
+## References
+
+1. Medium, [https://arnauramiomateu.medium.com/deep-dive-into-compound-protocol-and-money-markets-157f30c493b7](https://arnauramiomateu.medium.com/deep-dive-into-compound-protocol-and-money-markets-157f30c493b7)
+2. Compound, [https://compound.finance/documents/Compound.Whitepaper.pdf](https://compound.finance/documents/Compound.Whitepaper.pdf)
+3. Gemini, [ ](https://defillama.com/protocol/curve)[https://www.gemini.com/cryptopedia/what-is-compound-and-how-does-it-work#section-how-compound-crypto-liquidity-pools-work](https://www.gemini.com/cryptopedia/what-is-compound-and-how-does-it-work#section-how-compound-crypto-liquidity-pools-work)
+4. Defipulse, [https://defipulse.com/compound](https://defipulse.com/compound)
+5. Coinmarketcap, [,https://coinmarketcap.com/currencies/compound/](https://coinmarketcap.com/currencies/compound/)
+6. Compound Treasury, https://compoundtreasury.com/
+7. Compound, [ https://compound.finance/governance/comp](https://compound.finance/governance/comp)
+8. Crytoeq, [https://www.cryptoeq.io/corereports/compound-abridged](https://www.cryptoeq.io/corereports/compound-abridged)
+9. Gemini,[https://www.gemini.com/cryptopedia/compound-crypto-defi-decentralized-finance#section-comp-governance-token](https://www.gemini.com/cryptopedia/compound-crypto-defi-decentralized-finance#section-comp-governance-token)
+10. Compound, [https://compound.finance/markets](https://compound.finance/markets)
+11. CoinkDesk Audit, [https://www.coindesk.com/tech/2020/06/19/defi-startups-built-on-compound-weigh-what-to-do-with-200-comp-tokens/](https://www.coindesk.com/tech/2020/06/19/defi-startups-built-on-compound-weigh-what-to-do-with-200-comp-tokens/)
