@@ -8,4 +8,24 @@ Compound is a lending protocol on the Ethereum blockchain that establishes money
 
 The native Token of the Protocol is COMP, which is a Governance Token.
 
-## Category
+## 2. Category
+
+Compound is a Lending protocol.
+
+## 3. Does it have TVL?
+
+Current TVL is $7.78 bln. as of 19 January 2022 \[4] based solely on the Ethereum blockchain.
+
+## 4. What are its core metrics?
+
+As of 19 Jan 2022:
+
+* Liabilities $13.03 bln\[10]&#x20;
+* Reserves Not available&#x20;
+* Assets $5.6 bln\[10]&#x20;
+* Treasury Not available&#x20;
+* TVL: $7.78 bln \[4]&#x20;
+* Ratio of Reserves to TVL (deposits only; unleveraged) 0.01092618\[6]&#x20;
+* Ratio of Treasury to TVL (deposits only; unleveraged) Not available&#x20;
+* Ratio of native Market Cap to TVL (deposits only; unleveraged) 0.1344 \[5]&#x20;
+* Are they double-counting leverage? - NO
