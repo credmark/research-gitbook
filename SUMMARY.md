@@ -80,5 +80,5 @@
     * [Hardware](defi-protocol-taxonomy/custody/wallets/hardware.md)
     * [Multisig](defi-protocol-taxonomy/custody/wallets/multisig.md)
   * [Custodians](defi-protocol-taxonomy/custody/custodians/README.md)
-    * [Centralized Custody](defi-protocol-taxonomy/custody/custodians/centralized-custody.md)
-    * [Decentralized Custody](defi-protocol-taxonomy/custody/custodians/decentralized-custody.md)
+    * [Centralized](defi-protocol-taxonomy/custody/custodians/centralized.md)
+    * [Decentralized](defi-protocol-taxonomy/custody/custodians/decentralized.md)

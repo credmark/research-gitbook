@@ -1,3 +1,3 @@
-# Custody
+# Decentralized
 
 Coming soon...
