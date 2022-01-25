@@ -18,3 +18,4 @@ Credmark rewards high-quality contributions, but we hope you won't just do it fo
 | Discord Handle               | ETH Address                                | Reward            | Comments         |
 | ---------------------------- | ------------------------------------------ | ----------------- | ---------------- |
 | harritarni (tafka paul)#8675 | 0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A | 0 $CMK (internal) | Original version |
+| neil#9614                    | neilz.eth                                  | 0 $CMK (internal) |                  |
