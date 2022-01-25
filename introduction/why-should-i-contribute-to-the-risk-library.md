@@ -20,3 +20,4 @@ Credmark rewards high-quality contributions, but we hope you won't just do it fo
 | harritarni (tafka paul)#8675 | 0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A | 0 CMK (internal) | Original version |
 | neil#9614                    | neilz.eth                                  | 0 CMK (internal) |                  |
 | JeSuisCollier#0315           | 0x2588B6be7A132e137Be9A6f08eB09C359688b150 | 0 CMK (internal) |                  |
+| Matt \| CMK#9019             | mattropolis.eth                            | 0 CMK (internal) |                  |
