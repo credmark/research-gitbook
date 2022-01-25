@@ -3,8 +3,8 @@
 * [Introduction](README.md)
   * [What is the Risk Library?](introduction/what-is-the-risk-library.md)
   * [What is Credmark?](introduction/what-is-credmark.md)
-  * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
   * [Why should I contribute to the Risk Library?](introduction/why-should-i-contribute-to-the-risk-library.md)
+  * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
 * [Risk Insights](https://docs.credmark.com/risk-insights/)
 
 ## Analytics
