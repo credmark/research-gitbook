@@ -1,15 +1,15 @@
 # What is the Risk Library?
 
-The Risk Library is a community curated space of Research on the Risks associated with DeFi and the specific token and protocols.&#x20;
+The Risk Library is community curated Research on the Risks associated with DeFi, tokens, and protocols.&#x20;
 
-It is divided into three major sections
+It is divided into three major sections:
 
 * ANALYTICS,&#x20;
 * FRAMEWORKS, and&#x20;
 * DEFI PROTOCOL TAXONOMY.
 
-In the [**ANALYTICS**](broken-reference) section, we explain risk and how it can be measured, describe classes of models and computable metrics for success for those models and finally the data needed, to back these models.
+In the [**ANALYTICS**](broken-reference) section, we explain various risks and how they can be measured. We also describe classes of models and the data they require.
 
-The [**FRAMEWORKS**](broken-reference) section contains specific risk management frameworks, tools and strategies in order to mitigate different types of risk depending on your specific use case.
+The [**FRAMEWORKS**](broken-reference) section contains specific risk management frameworks, tools and strategies needed to mitigate different types of risks.
 
-Finally, in the [**DEFI PROTOCOL TAXONOMY**](broken-reference) section, you'll find descriptions and comparisons of DeFi Protocols, how we categorize them, and what you need to know about the downsides of using them.
+Finally, in the [**DEFI PROTOCOL TAXONOMY**](broken-reference) section, we describe DeFi Protocols, categorize them, and list any risks associated with their use.
