@@ -1,5 +1,15 @@
-# What is the Risk Library
+# What is the Risk Library?
 
-This is a community curated library of research on the Risks associated with DeFi protocols. Here you'll find descriptions and comparisons of DeFi Protocols, how we categorize them, and what you need to know about the downsides of using them.
+The Risk Library is a community curated space of Research on the Risks associated with DeFi and the specific token and protocols.&#x20;
 
-This Library is how we'll be defining the data available on the Credmark Data Platform, and it's a chance for collaborators to let us know what's important.
+It is divided into three major sections
+
+* ANALYTICS,&#x20;
+* FRAMEWORKS, and&#x20;
+* DEFI PROTOCOL TAXONOMY.
+
+In the **ANALYTICS** section, we explain risk and how it can be measured, describe classes of models and computable metrics for success for those models and finally the data needed, to back these models.
+
+The **FRAMEWORKS** section contains specific risk management frameworks, tools and strategies in order to mitigate different types of risk depending on your specific use case.
+
+Finally, in the **DEFI PROTOCOL TAXONOMY** section, you'll find descriptions and comparisons of DeFi Protocols, how we categorize them, and what you need to know about the downsides of using them.
