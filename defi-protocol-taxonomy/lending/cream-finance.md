@@ -1,3 +1,0 @@
-# CREAM Finance
-
-Coming soon...

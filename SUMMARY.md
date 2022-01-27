@@ -62,7 +62,6 @@
   * [Aave](defi-protocol-taxonomy/lending/aave.md)
   * [Compound](defi-protocol-taxonomy/lending/compound.md)
   * [Abracadabra](defi-protocol-taxonomy/lending/abracadabra.md)
-  * [CREAM Finance](defi-protocol-taxonomy/lending/cream-finance.md)
   * [Maple Finance](defi-protocol-taxonomy/lending/maple-finance.md)
 * [DEXes](defi-protocol-taxonomy/dexes/README.md)
   * [Uniswap](defi-protocol-taxonomy/dexes/uniswap/README.md)
