@@ -23,12 +23,22 @@ To add new content, please:
 1. Copy this [template](https://docs.google.com/document/d/1IeolO8ypUd9rfL0RAEpbfqdFXOQBJwNmdZJOHZxUk9I/edit#heading=h.cf4f9nn4lucc).
 2. Do your research and document your finding.
 3. Follow the shared link in the [Discord channel](https://discord.com/channels/827615638540910622/930928637975335012) for the Risk Library. This link will give you EDITOR rights to the Risk Library, so you can
-   * create a change request for a specific page you want to contribute
-   * edit the page and provide your research directly there
-   * submit the change request, so that your contribution can be reviewed and published
+   * create a change request for a specific page you want to contribute,
+   * edit the page and provide your research directly there, and
+   * submit the change request, so that your contribution can be reviewed and published.
 4. Write a short request for review in the risk-library section of the [Discord](https://discord.com/invite/BJbYSRDdtr) server.
 5. Someone from the Risk Library Content Review Committee will pick it up and engage with you to make sure the submission meets our quality standards.&#x20;
-6. Once the review is done, the merge of the content will be accepted, published to the Risk Library and you will be sent a reward for your submission.&#x20;
+6. Once the review is done, the change request of the content will be accepted, published to the Risk Library and you will be sent a reward for your submission.&#x20;
+
+In case you have any questions, suggestions or other feedback, please let us know on Discord. Please also take the time to look into the specific GitBook instructions:
+
+**General FAQ for GitBook**
+
+{% embed url="https://docs.gitbook.com/resources/faq" %}
+
+**How to edit a GitBook page**
+
+{% embed url="https://docs.gitbook.com/editing-content/editing-pages/change-requests" %}
 
 ## Rewards
 
