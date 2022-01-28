@@ -10,15 +10,25 @@ Our **ultimate goal** is to allow the Credmark community to:
 
 all content in the library.&#x20;
 
-Our **current goal** is to allow the Credmark community to create content for the [DEFI PROTOCOL TAXONOMY](broken-reference) section of the library.
+Our **current goal** is to allow the Credmark community to create content for the [DEFI PROTOCOL TAXONOMY](broken-reference) section of the library.&#x20;
+
+Every new submission of content will be assessed by a Review Committee, whose members are elected by a Governance vote. This committee will ensure quality, provide feedback and ultimately reward contributors.
 
 ## How To
 
+In order to avoid a complicated copy & paste process of content, we have decided to give every member of the community, who is eager to contribute, direct access to the Risk Library GitBook.&#x20;
+
+To add new content, please:
+
 1. Copy this [template](https://docs.google.com/document/d/1IeolO8ypUd9rfL0RAEpbfqdFXOQBJwNmdZJOHZxUk9I/edit#heading=h.cf4f9nn4lucc).
 2. Do your research and document your finding.
-3. Add your document to this [folder](https://drive.google.com/drive/folders/1cZFsViWVCxWBYPWAXSSrAP11PE4OhtyD?usp=sharing).
-4. Paste a link to your document along with a request for review in the risk-library section of our [Discord](https://discord.com/invite/BJbYSRDdtr) server.
-5. Someone from the Risk Library Content Review Committee will pick it up and engage with you to make sure the submission meets our quality standards. Once it does, the content will be copied to the Risk Library and you will be sent a reward for your submission.&#x20;
+3. Follow the shared link in the [Discord channel](https://discord.com/channels/827615638540910622/930928637975335012) for the Risk Library. This link will give you EDITOR rights to the Risk Library, so you can
+   * create a change request for a specific page you want to contribute
+   * edit the page and provide your research directly there
+   * submit the change request, so that your contribution can be reviewed and published
+4. Write a short request for review in the risk-library section of the [Discord](https://discord.com/invite/BJbYSRDdtr) server.
+5. Someone from the Risk Library Content Review Committee will pick it up and engage with you to make sure the submission meets our quality standards.&#x20;
+6. Once the review is done, the merge of the content will be accepted, published to the Risk Library and you will be sent a reward for your submission.&#x20;
 
 ## Rewards
 
@@ -30,7 +40,7 @@ For full transparency, reward amounts are always listed in a document's final "C
 
 At the end of every Risk Library document you'll find a "Contributors" section like the one below. It lists:
 
-* Contributor's Discord handle.
+* Contributor's Discord handle, Twitter handle or whatever you prefer to be identified by.
 * Contributor's ETH address. This is where rewards are sent and where readers can send tips.
 * The amount of $CMK sent as a reward for the contribution.
 * Any relevant comments.
