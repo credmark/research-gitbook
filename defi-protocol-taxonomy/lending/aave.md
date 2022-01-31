@@ -166,8 +166,8 @@ Aave recently announced its plans to scale its DeFi platform on Layer 2 networks
 
 ## Contributors
 
-| Discord Handle | ETH Address                                                        | Reward            | Contribution     |
-| -------------- | ------------------------------------------------------------------ | ----------------- | ---------------- |
-| rlrahulkanojia | 0x784aBff44f2F3bB7c46B789789f3C6552636F4F5                         | 0 $CMK (internal) | Original version |
-| Deadsec        | 0x295B61866dAA53a76CE4b30x1A2E1d4553d33c080746A056AA3F832823fADB51 | 0 $CMK (internal) | Process update   |
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| rlrahulkanojia | 0x784aBff44f2F3bB7c46B789789f3C6552636F4F5 | 0 $CMK (internal) | Original version |
+| Deadsec        | 0x1A2E1d4553d33c080746A056AA3F832823fADB51 | 0 $CMK (internal) | Process update   |
 
