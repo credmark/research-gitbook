@@ -116,3 +116,10 @@ Some of the examples are:
 9. Gemini,[https://www.gemini.com/cryptopedia/compound-crypto-defi-decentralized-finance#section-comp-governance-token](https://www.gemini.com/cryptopedia/compound-crypto-defi-decentralized-finance#section-comp-governance-token)
 10. Compound, [https://compound.finance/markets](https://compound.finance/markets)
 11. CoinkDesk Audit, [https://www.coindesk.com/tech/2020/06/19/defi-startups-built-on-compound-weigh-what-to-do-with-200-comp-tokens/](https://www.coindesk.com/tech/2020/06/19/defi-startups-built-on-compound-weigh-what-to-do-with-200-comp-tokens/)
+
+## Contributors
+
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| Deadsec        | 0x1A2E1d4553d33c080746A056AA3F832823fADB51 | 0 $CMK (internal) | Original version |
+

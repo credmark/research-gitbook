@@ -165,9 +165,9 @@ Once CRV holders vote-lock their veCRV, they can start voting on various DAO pro
 
 ## 15. How is this exposed to layers in Defi:
 
-### **What layers are upstream (built on top of the protocol)? Are other protocols that use it as a source of data/pricing oracle, or put funds into it?**
+### What layers are upstream (built on top of the protocol)? Are other protocols that use it as a source of data/pricing oracle, or put funds into it?
 
-### **What layers are downstream (protocols/assets built on or put into the platform)? For example, yield farms are built on top of lending protocols**
+### What layers are downstream (protocols/assets built on or put into the platform)? For example, yield farms are built on top of lending protocols
 
 Decentralized exchanges (DEXs) use Curve implicitly to facilitate currency conversions between coins that don’t otherwise have liquidity pairs. For example, there might be a liquidity pool for ETH/USDT and CRV/USDT, but no liquidity pool directly between ETH/CRV. What these DEXs do is first convert ETH to USDT, and then convert USDT to CRV, all in one action (using Curve under the hood), so that all a user sees is that their ETH has been converted into CRV. It is the base-layer foundation that many Defi apps sit on top of.
 
@@ -204,6 +204,13 @@ Decentralized exchanges (DEXs) use Curve implicitly to facilitate currency conve
 15\.  Curve Decision Making, [https://resources.curve.fi/guides/voting](https://resources.curve.fi/guides/voting)
 
 16\.  Coingecko, [https://www.coingecko.com/en/coins/curve-dao-token](https://www.coingecko.com/en/coins/curve-dao-token)&#x20;
+
+## Contributors
+
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| rlrahulkanojia | 0x784aBff44f2F3bB7c46B789789f3C6552636F4F5 | 0 $CMK (internal) | Original version |
+| Deadsec        | 0x1A2E1d4553d33c080746A056AA3F832823fADB51 | 0 $CMK (internal) | Process update   |
 
 &#x20;
 
