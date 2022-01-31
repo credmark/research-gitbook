@@ -163,3 +163,11 @@ Aave recently announced its plans to scale its DeFi platform on Layer 2 networks
 29. Dune, https://dune.xyz/llama/Aave-Treasury-Finances-by-Llama
 30. Coinmarketcap, https://coinmarketcap.com/currencies/aave/markets/
 31. Bitmex, https://www.bitmex.com/app/index/.AAVEUSDTPI8H
+
+## Contributors
+
+| Discord Handle | ETH Address                                                        | Reward            | Contribution     |
+| -------------- | ------------------------------------------------------------------ | ----------------- | ---------------- |
+| rlrahulkanojia | 0x784aBff44f2F3bB7c46B789789f3C6552636F4F5                         | 0 $CMK (internal) | Original version |
+| Deadsec        | 0x295B61866dAA53a76CE4b30x1A2E1d4553d33c080746A056AA3F832823fADB51 | 0 $CMK (internal) | Process update   |
+
