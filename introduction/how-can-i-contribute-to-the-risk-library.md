@@ -22,7 +22,7 @@ To add new content, please:
 
 1. Copy this [template](https://docs.google.com/document/d/1IeolO8ypUd9rfL0RAEpbfqdFXOQBJwNmdZJOHZxUk9I/edit#heading=h.cf4f9nn4lucc).
 2. Do your research and document your finding.
-3. Follow the shared link in the [Discord channel](https://discord.com/channels/827615638540910622/930928637975335012) for the Risk Library. This link will give you Editor rights to the Risk Library, so you can
+3. Follow [this link](https://app.gitbook.com/invite/-MaWsKysgImxTlCSGQdb/-MaWsLg2elK2SDaF9fWn) to add content directly to the Risk Library GitBook. It will give you Editor rights, so you can
    * create a change request for a specific page you want to contribute,
    * edit the page and provide your research directly there, and
    * submit the change request, so that your contribution can be reviewed and published.
