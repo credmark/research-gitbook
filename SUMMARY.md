@@ -123,6 +123,7 @@
     * [Connext](defi-protocol-taxonomy/l2s-and-bridges/bridges/connext.md)
     * [Mosaic](defi-protocol-taxonomy/l2s-and-bridges/bridges/mosaic.md)
     * [AMP protocol](defi-protocol-taxonomy/l2s-and-bridges/bridges/amp-protocol.md)
+    * [Across protocol](defi-protocol-taxonomy/l2s-and-bridges/bridges/across-protocol.md)
 * [Custody](defi-protocol-taxonomy/custody/README.md)
   * [Wallets](defi-protocol-taxonomy/custody/wallets/README.md)
     * [Browser](defi-protocol-taxonomy/custody/wallets/browser/README.md)
