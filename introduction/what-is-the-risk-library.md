@@ -2,6 +2,8 @@
 
 The Risk Library is community-curated research on the risks associated with DeFi, tokens, and protocols.&#x20;
 
+As a community curated project, we don't expect the Risk Library to ever be fully complete.
+
 It is divided into three major sections:
 
 * ANALYTICS,&#x20;
