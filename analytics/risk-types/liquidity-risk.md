@@ -1,6 +1,8 @@
 # Liquidity Risk
 
-Liquidity Risk is the risk of you not being able to retrieve or liquidate an asset. This is applicable to all assets, but especially wrapped assets.&#x20;
+Liquidity Risk is the risk of you not being able to retrieve or liquidate an asset.&#x20;
+
+This is applicable to all assets, but especially wrapped assets.&#x20;
 
 Since many DeFi protocols issue a vaulted, wrapped, or staked version of underlying assets, a user's ability to exchange it back is especially important, and measured in liquidity risk.&#x20;
 

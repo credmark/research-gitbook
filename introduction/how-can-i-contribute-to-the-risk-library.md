@@ -42,7 +42,7 @@ In case you have any questions, suggestions or other feedback, please let us kno
 
 ## Rewards
 
-Rewards amount depends on how much value Creators places on your submission as well as the amount of effort required to get it to publication. Rewards will be in $CMK.&#x20;
+Rewards amount depends on how much value the Creators places on your submission as well as the amount of effort required to get it to publication. Rewards will be in $CMK.&#x20;
 
 For full transparency, reward amounts are always listed in a document's final "Contributors" section.&#x20;
 
