@@ -82,6 +82,7 @@
     * [Set Protocol](defi-protocol-taxonomy/indexes/index-protocols/set-protocol.md)
     * [Indexcoop](defi-protocol-taxonomy/indexes/index-protocols/indexcoop.md)
     * [COTI](defi-protocol-taxonomy/indexes/index-protocols/coti.md)
+    * [Alongside Crypto](defi-protocol-taxonomy/indexes/index-protocols/alongside-crypto.md)
   * [Index products](defi-protocol-taxonomy/indexes/index-products/README.md)
     * [CVI](defi-protocol-taxonomy/indexes/index-products/cvi.md)
     * [DPI](defi-protocol-taxonomy/indexes/index-products/dpi.md)
