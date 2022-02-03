@@ -57,8 +57,8 @@ At the end of every Risk Library document you'll find a "Contributors" section l
 
 ## Contributors
 
-| Contributor                                 | ETH Address                                | Reward            | Contribution     |
-| ------------------------------------------- | ------------------------------------------ | ----------------- | ---------------- |
-| Matt \| CMK#9019                            | mattropolis.eth                            | 0 $CMK (internal) | Original version |
-| [Harri Tarni](https://twitter.com/prmurphy) | 0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A | 0 $CMK (internal) | Process update   |
+| Discord Handle               | ETH Address                                | Reward            | Contribution     |
+| ---------------------------- | ------------------------------------------ | ----------------- | ---------------- |
+| Matt \| CMK#9019             | mattropolis.eth                            | 0 $CMK (internal) | Original version |
+| harritarni (tafka paul)#8675 | 0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A | 0 $CMK (internal) | Process update   |
 
