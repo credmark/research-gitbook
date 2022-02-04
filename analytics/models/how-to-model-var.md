@@ -8,23 +8,31 @@ For simplicity, below is the formula for the Historical 10-day VaR of the Tradin
 
 **CALCULATION:**
 
-![](<../../.gitbook/assets/VAR calculation.png>)
+$$
+{PPL}_n = \sum_{m=1}^{M}\left (  X_m \times P_m^{\text{base case}} \times {R}_{m,n} \right ), n=1,...,365
+$$
+
+
+
+$$
+{VaR}_{1-\alpha}({PPL}) = - \left \{ t: Pr \left ( {{PPL} \le t} \right ) \ge \alpha \right \}
+$$
 
 where:&#x20;
 
-Lossn - portfolio loss on the observation date n;
+* $${PPL}_n$$: potential profit or loss of a portfolio on the observation date n;
+* $$m$$: the number of crypto assets in the trading book;
+* $$n$$: the observation number applied retrospectively, for example, 30th of June 2021 is n and n+1 is 29th of June 2021;
+* $$X_m$$: the quantity of the asset $$m$$ in the book;&#x20;
+* $$\text{Base case}$$: the reporting date;
+* $$P_{m}^{\text{base case}}$$: price of the asset m at the base case date;
+* $$R_{m,n}$$: Return of the asset $$m$$ during the period of observation days $$n$$;
+* $${Pr}$$: Probability function;
+* $$1-\alpha$$: confidence level.
 
-m - the number of crypto assets in the trading book;&#x20;
+$${VaR}_{1-\alpha}$$ is the $$\alpha$$-quantile of $${PPL}$$ vector.
 
-n - the observation number applied retrospectively, for example, 30th of June 2021 is n and n+1 is 29th of June 2021;&#x20;
-
-Xm - the quantity of the asset m in the book;&#x20;
-
-Pmn - price of the asset m at the observation n date;&#x20;
-
-Base case - the reporting date, or yesterday.
-
-Note that a negative Lossn entails a profit. Then the 99% worst case 10-day VaR could be determined as the 4th largest loss.
+Note that a negative $${PPL}_n$$entails a loss. Then the 99% worst case 10-day VaR with 365 scenarios could be determined as negated weighted average between 4th and 5th largest loss.
 
 ****
 
