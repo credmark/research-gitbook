@@ -1,3 +1,0 @@
-# DeFi / Crypto-specific risks
-
-Coming soon...
