@@ -47,6 +47,14 @@
 ## DeFi Protocol Taxonomy
 
 * [Introduction](defi-protocol-taxonomy/introduction.md)
+* [Instruments and Strategies](defi-protocol-taxonomy/instruments-and-strategies/README.md)
+  * [Instruments](defi-protocol-taxonomy/instruments-and-strategies/instruments/README.md)
+    * [Perpetual Swaps](defi-protocol-taxonomy/instruments-and-strategies/instruments/perpetual-swaps.md)
+    * [Covered Calls](defi-protocol-taxonomy/instruments-and-strategies/instruments/covered-calls.md)
+  * [Investment Strategies](defi-protocol-taxonomy/instruments-and-strategies/investment-strategies/README.md)
+    * [Liquidity Providing](defi-protocol-taxonomy/instruments-and-strategies/investment-strategies/liquidity-providing.md)
+    * [Yield Farming](defi-protocol-taxonomy/instruments-and-strategies/investment-strategies/yield-farming.md)
+    * [Staking](defi-protocol-taxonomy/instruments-and-strategies/investment-strategies/staking.md)
 * [Tokens](defi-protocol-taxonomy/tokens/README.md)
   * [Stablecoins](defi-protocol-taxonomy/tokens/stablecoins/README.md)
     * [USDT](defi-protocol-taxonomy/tokens/stablecoins/usdt.md)
