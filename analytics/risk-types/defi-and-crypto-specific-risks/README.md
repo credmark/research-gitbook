@@ -14,6 +14,6 @@ Self-Custody exposes users to the ability to lose access to their wallets with t
 
 ## Contributors
 
-| Discord Handle | ETH Address | Reward            |   | Contribution |
-| -------------- | ----------- | ----------------- | - | ------------ |
-| neil#9614      | neilz.eth   | 0 $CMK (internal) |   | Create       |
+| Discord Handle | ETH Address | Reward            | Comments |
+| -------------- | ----------- | ----------------- | -------- |
+| neil#9614      | neilz.eth   | 0 $CMK (internal) | Create   |
