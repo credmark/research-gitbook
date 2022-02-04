@@ -20,11 +20,11 @@ We’ve illustrated the application of the loss valuing techniques for Uniswap V
 
 Uniswap impermanent loss (IL) function is defined as:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../../.gitbook/assets/image (3).png>)
 
 , where k =1+r and r is the relative change in price \[1]. In our case 10 calendar days changes since crypto market operates 24/7. Graphically IL equality could be shown as:
 
-![Uniswap v2 Impermanent Loss Function - Losses to Liquidity Providers due to Price Variation on top in Excess to Holding the Original Funds Supplied \[1\]](<../../../.gitbook/assets/image (2).png>)
+![Uniswap v2 Impermanent Loss Function - Losses to Liquidity Providers due to Price Variation on top in Excess to Holding the Original Funds Supplied \[1\]](<../../../../.gitbook/assets/image (2).png>)
 
 Let’s assume we have a balance of $100,000 in BTC/ETH pool distributed evenly as of 31 December 2021. Hence, we’re contributing $50,000 worth of BTC (1.06 units) and $50,000 worth of ETH (13.46 units). Based on last year’s returns, the 99th percentile, 10-day overlapping sampling, and 10-day holding period, we get the following results:
 
@@ -44,7 +44,7 @@ Let’s assume we have a balance of $100,000 in BTC/ETH pool distributed evenly 
 
 In the case of Uniswap V3, in contrast to V2, IL is also driven by the LP price range and initial price of the deal, which for our calculations is assumed to be the price at the reporting date. The function defining IL is then defined as:
 
-![](../../../.gitbook/assets/image.png)
+![](../../../../.gitbook/assets/image.png)
 
 , where pa and pb are the lower and the higher bound of the set liquidity providing (LP) price range \[2], and _P_ is the current price of the associated pair. Since IL formula doesn’t consider quantity equilibrium implied in the LP position \[3], this is out of scope for the current calculation.
 
@@ -59,7 +59,7 @@ Based on the same parameters:
 
 The VaR estimates for different price ranges are:
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1).png>)
 
 Note that the range with the lower bound equal to 0 and high upper bound (x10) price corresponds to the Uniswap V2 that doesn’t have any LP range setting option.
 
