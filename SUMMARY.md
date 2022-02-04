@@ -72,6 +72,7 @@
   * [Compound](defi-protocol-taxonomy/lending/compound.md)
   * [Abracadabra](defi-protocol-taxonomy/lending/abracadabra.md)
   * [Maple Finance](defi-protocol-taxonomy/lending/maple-finance.md)
+  * [Goldfinch Finance](defi-protocol-taxonomy/lending/goldfinch-finance.md)
 * [DEXes](defi-protocol-taxonomy/dexes/README.md)
   * [Uniswap](defi-protocol-taxonomy/dexes/uniswap/README.md)
     * [Uniswap V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v3.md)
