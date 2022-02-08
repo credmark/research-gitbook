@@ -75,9 +75,9 @@ It is assumed that no fees are received from Liquidity Providing (LPing) in both
 
 ## Contributors
 
-| Discord Handle    | ETH Address                                    | Reward | Contribution |
-| ----------------- | ---------------------------------------------- | ------ | ------------ |
-| **atulemis#0983** | **0x5fb7584838fB467e90bb8a1df3a278482e34E856** | 0      | Created      |
+| Discord Handle    | ETH Address                                    | Reward           | Contribution     |
+| ----------------- | ---------------------------------------------- | ---------------- | ---------------- |
+| **atulemis#0983** | **0x5fb7584838fB467e90bb8a1df3a278482e34E856** | 0 CMK (internal) | Original version |
 
 
 
