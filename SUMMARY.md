@@ -77,6 +77,7 @@
   * [Uniswap](defi-protocol-taxonomy/dexes/uniswap/README.md)
     * [Uniswap V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v3.md)
     * [Uniswap V2](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2.md)
+    * [Uniswap V2 and V3](defi-protocol-taxonomy/dexes/uniswap/uniswap-v2-and-v3.md)
   * [Sushiswap](defi-protocol-taxonomy/dexes/sushiswap.md)
   * [Curve Finance](defi-protocol-taxonomy/dexes/curve-finance.md)
   * [Balancer](defi-protocol-taxonomy/dexes/balancer.md)
