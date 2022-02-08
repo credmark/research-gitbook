@@ -81,18 +81,18 @@ As part of this cycle we diversified $3,000,000 worth of treasury assets. This w
 
 This is a summary of our closing positions:
 
-| **Type**   | **Asset** | **Proportion** | **Value**      |
-| ---------- | --------- | -------------- | -------------- |
-| Stablecoin | USDT      | 20%            | **$600,000**   |
-| Stablecoin | USDC      | 20%            | **$600,000**   |
-| Stablecoin | TUSD      | 9%             | **$270,000**   |
-| Stablecoin | DAI       | 20%            | **$600,000**   |
-| Stablecoin | PAX       | 7%             | **$210,000**   |
-| Gas        | MATIC     | 1%             | **$30,000**    |
-| Gas        | Solana    | 1%             | **$30,000**    |
-| Gas        | ADA       | 1%             | **$30,000**    |
-| Gas        | ETH       | 6%             | **$180,000**   |
-| Fiat       | USD       | 15%            | **$450,000**   |
+| **Type**   | **Asset** | **Proportion** |      **Value** |
+| ---------- | --------- | -------------- | -------------: |
+| Stablecoin | USDT      | 20%            |   **$600,000** |
+| Stablecoin | USDC      | 20%            |   **$600,000** |
+| Stablecoin | TUSD      | 9%             |   **$270,000** |
+| Stablecoin | DAI       | 20%            |   **$600,000** |
+| Stablecoin | PAX       | 7%             |   **$210,000** |
+| Gas        | MATIC     | 1%             |    **$30,000** |
+| Gas        | Solana    | 1%             |    **$30,000** |
+| Gas        | ADA       | 1%             |    **$30,000** |
+| Gas        | ETH       | 6%             |   **$180,000** |
+| Fiat       | USD       | 15%            |   **$450,000** |
 | **TOTAL**  |           | **100%**       | **$3,000,000** |
 
 #### VaR <a href="#_ixutlya6fted" id="_ixutlya6fted"></a>
