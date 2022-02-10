@@ -135,14 +135,11 @@ What assets does it support\[11]:
 
 A recent example involving Wonderland finance clearly demonstrates the types of risk that exist with Abracadabra.\
 \
-The UST degenbox strategy has resulted in a large amount of MIM being backed by UST. Additionally, UST price is tethered to MIM as a result  of the  very popular UST-MIM pool on Curve. During a recent sell off of MIM in response the Wonderland controversy (Wonderland and Abracadabra  are managed by the same team. When one protocol experienced negative press, users responded by  dumping the asset of other protocol), the stablecoin lost its peg which subsequently caused UST to lose its peg which, in turn, threatened the integrity of Abracadabra's largest lending markets.&#x20;
+The UST degenbox strategy has resulted in a large amount of MIM being backed by UST. Additionally, UST price is tethered to MIM as a result of the very popular UST-MIM pool on Curve. During a recent sell off of MIM in response to the Wonderland controversy (Wonderland and Abracadabra are managed by the same team. When one protocol experienced negative press, users responded by dumping the asset of other protocol), the stablecoin lost its peg which subsequently caused UST to lose its peg which, in turn, threatened the integrity of Abracadabra's largest lending markets.&#x20;
 
-This strategy also leverages the Terra ecosystem to generate yield. This is one of the only instances where cross chain bridging is a linchpin of a yield strategy.  While protocols like Aave exist on other chains, their services and yield stay silo'd on those chains and the user is responsible for moving fund around.
+This strategy also leverages the Terra ecosystem to generate yield. This is one of the only instances where cross-chain bridging is a linchpin of a yield strategy.  While protocols like Aave exist on other chains, their services and yield stay silo'd on those chains and the user is responsible for moving funds around.
 
-These risks are inherent when a protocol  relies almost entirely on algorithmically backed stablecoins.\
-
-
-[https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/](https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/)
+These risks are inherent when a protocol relies almost entirely on algorithmically backed stablecoins \[24].
 
 ## 10. Does it wrap and distribute assets?
 
@@ -275,6 +272,7 @@ Yearn finance oracle is being used in the platform to get the prices of assets.
 21. Github, https://github.com/Abracadabra-money/magic-internet-money&#x20;
 22. Etherscan, https://etherscan.io/accounts/label/abracadabra-money&#x20;
 23. Coingecko, https://www.coingecko.com/en/coins/spell-token#markets
+24. Coindesk, [https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/](https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/)
 
 ## Contributors
 
