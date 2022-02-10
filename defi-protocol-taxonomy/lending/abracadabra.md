@@ -121,6 +121,8 @@ Broadcasts Value&#x20;
 
 ![](https://lh3.googleusercontent.com/1ISdJMR9flCoSzaJXXnUp-ao72botmCklHxvExlikUO\_b9kaZvntzwUWEG8fqUAoxoZUhWIo-TCdKMlO5AE\_VEUb7PFFTOLXUEe-dlo6-3XhX5BCzl5EMwCmmehuUOlJFNZIN\_IG)
 
+MIM's pegged price is pulled from the 3pool on Curve. If this pool becomes imbalanced and stays imbalanced, this can lead to MIM losing its peg.\
+\
 
 
 ## 8. What assets does it support?
@@ -131,7 +133,16 @@ What assets does it support\[11]:
 
 ## 9. How does it combine the risks of those assets?
 
-**Borrow / Lend Exposure**
+A recent example involving Wonderland finance clearly demonstrates the types of risk that exist with Abracadabra.\
+\
+The UST degenbox strategy has resulted in a large amount of MIM being backed by UST. Additionally, UST price is tethered to MIM as a result  of the  very popular UST-MIM pool on Curve. During a recent sell off of MIM in response the Wonderland controversy (Wonderland and Abracadabra  are managed by the same team. When one protocol experienced negative press, users responded by  dumping the asset of other protocol), the stablecoin lost its peg which subsequently caused UST to lose its peg which, in turn, threatened the integrity of Abracadabra's largest lending markets.&#x20;
+
+This strategy also leverages the Terra ecosystem to generate yield. This is one of the only instances where cross chain bridging is a linchpin of a yield strategy.  While protocols like Aave exist on other chains, their services and yield stay silo'd on those chains and the user is responsible for moving fund around.
+
+These risks are inherent when a protocol  relies almost entirely on algorithmically backed stablecoins.\
+
+
+[https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/](https://www.coindesk.com/business/2022/01/28/defi-users-fret-contagion-risk-amid-possible-stablecoin-depegging/)
 
 ## 10. Does it wrap and distribute assets?
 
@@ -187,6 +198,11 @@ Yes, the name is sSPELL
 
 * VAR - provide preliminary insights on how Value-at-Risk can be applied to the protocol Extract historical prices of the token present in abracadabra. Extract the individual token position using the total supply and amount lent to borrowers. Apply VaR calculation&#x20;
 * LCR - provide preliminary insights on how LCR can be applied to the protocol Extract Assets and liabilities of the platform for a given date. Apply LCR Calculation
+* Abracadabra uses ibTKN that go up in value on their own regardless of price action.
+* MIM has interest so if a collateral, for some reason or another, does not increase in value, liquidations can happen. To reduce this risk, the team has selected ibTKNs that have a track record of increasing in value at a rate that far exceeds the interest rate on MIM debt.
+* Abracadabra allows for the use of ibTKN with underlying stable coins as collateral with an MCR of 90%. Although it may be unlikely that these ibTKNs will decrease in USD value it’s not an impossibility as the underlying tokens may lose their price pegs from unforeseeable events.
+* The Price action of underlying tokens in some of the ibTKNs can be quite volatile. To reduce this risk, the team has set tokens that have price action to have a Maximum Collateral Ratio (MCR) of 75%
+* Although any person can perform a liquidation, it has become standard that these functions are performed by bots. Because of this, there is no need for a UI on the main site for this function.&#x20;
 * Are there any other metrics that might be useful?&#x20;
   * Sharpe Ratio Sharpe ratio can be calculated for SPELL prices and compared against the peers - other lending protocols to make investment decisions.&#x20;
   * Beta Similarly could be used for SPELL price calculation to compare against similar platforms.
