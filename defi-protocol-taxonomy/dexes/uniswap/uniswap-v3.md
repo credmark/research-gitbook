@@ -99,21 +99,21 @@ The Uniswap (both v2 and v3) Protocol supports trading of ERC20 tokens. In order
 
 There are no liquidations in case of v2 or v3, but in v3 positions can become idle. If the price goes outside of the LP position price range, then the position will be singularly concentrated in the less valuable asset. As an example, if a price range of 1,000 — 5,000 for ETH/USDC and ETH falls to 900, then the balance will be entirely concentrated in ETH. Conversely, if ETH appreciates to 6,000, then the balance will be entirely concentrated in USDC. While the price remains outside of the price range, the position will be "inactive". This means the position will not earn fees until if and when the price comes back in range. But the impermanent loss keeps on increasing \[12].
 
-### **11. What are the conditions for the wrapped assets to be liquidated? Back to the original portfolio or adjusted for value?**
+## **11. What are the conditions for the wrapped assets to be liquidated? Back to the original portfolio or adjusted for value?**
 
 There are no liquidations in the case of v2 or v3, but in v3 positions can become idle. If the price goes outside of the LP position price range, then the position will be singularly concentrated in the less valuable asset. As an example, if a price range of 1,000 — 5,000 for ETH/USDC and ETH falls to 900, then the balance will be entirely concentrated in ETH. Conversely, if ETH appreciates to 6,000, then the balance will be entirely concentrated in USDC. While the price remains outside of the price range, the position will be "inactive". This means the position will not earn fees until if and when the price comes back in range. But the impermanent loss keeps on increasing \[12].
 
-### 12. What are the dependencies of the protocol? How does risk bubble up?
+## 12. What are the dependencies of the protocol? How does risk bubble up?
 
 Neither Uniswap v2 nor v3 has any dependencies on any third-party apps or APIs, but v3 heavily relies on ERC 777 that has been compromised in the past via Reentrant micro trading \[8].
 
-## 13. Does it have a governance token&#x20;
+## 13. Does it have a governance token?&#x20;
 
 Yes, its name is UNI.&#x20;
 
 UNI governance token in v3 has more flexibility than v2 in choosing the fraction of swap fees that go to the protocol, and is able to choose any fraction 1 𝑁 where 4 ≤ 𝑁 ≤ 10, or 0. This parameter can be set on a per pool basis. UNI governance also has the ability to add additional fee tiers. When it adds a new fee tier, it can also define the tickSpacing corresponding to that fee tier. Once a fee tier is added to the factory, it cannot be removed (and the tickSpacing cannot be changed). The initial fee tiers and tick spacings supported are 0.05% (with a tick spacing of 10, approximately 0.10% between initializable ticks), 0.30% (with a tick spacing of 60, approximately 0.60% between initializable ticks), and 1% (with a tick spacing of 200, approximately 2.02% between ticks. Finally, UNI governance has the power to transfer ownership to another address \[13].
 
-## 14. How decentralised is
+## 14. How decentralized is it?
 
 Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum blockchain. It allows users anywhere in the world to trade crypto without an intermediary. UNI is the governance token that allows users to vote on key protocol changes. As a governance token, UNI entitles holders to a vote in how the protocol is run, affording them immediate ownership of Uniswap governance, the UNI community treasury, the protocol fee switch, eth ENS, the Uniswap Default List (tokens.uniswap.eth) and SOCKS liquidity tokens. The token was quickly listed on the Coinbase Pro exchange, and soon after on the main Coinbase exchange \[14].
 
