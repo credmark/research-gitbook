@@ -1,3 +1,3 @@
 # Methodologies
 
-Data definitions, mappings, and models.
+How to use models to remediate data issues?
