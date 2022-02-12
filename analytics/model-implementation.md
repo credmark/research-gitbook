@@ -1,3 +1,3 @@
-# Models
+# Model Implementation
 
-Coming soon...
+Current chapter contains model implementation codes. Primarily in Python.
