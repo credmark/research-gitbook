@@ -1,3 +1,3 @@
 # Others
 
-Other data related materials.
+Data vocabularies, data mapping, ...
