@@ -1,3 +1,3 @@
 # Metrics
 
-Coming soon...
+Models and concepts used in DeFi.
