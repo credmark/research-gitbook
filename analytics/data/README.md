@@ -1,3 +1,3 @@
 # Data
 
-Coming soon...
+Chapter is devoted to DeFi data.
