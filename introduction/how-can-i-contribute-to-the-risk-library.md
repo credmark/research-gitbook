@@ -20,7 +20,7 @@ In order to avoid a complicated copy & paste process of content, we have decided
 
 To add new content, please:
 
-1. Copy this [template](https://docs.google.com/document/d/1imca84zG57NDZYdAmq-yj0eQcpfiPCf1P\_8YzUyaYSQ/edit?usp=sharing).
+1. Copy this [template](https://docs.google.com/document/d/1IeolO8ypUd9rfL0RAEpbfqdFXOQBJwNmdZJOHZxUk9I/edit?usp=sharing).
 2. Do your research and document your finding.
 3. Follow [this link](https://app.gitbook.com/invite/-MaWsKysgImxTlCSGQdb/-MaWsLg2elK2SDaF9fWn) to add content directly to the Risk Library GitBook. It will give you Editor rights, so you can
    * create a change request for a specific page you want to contribute,
