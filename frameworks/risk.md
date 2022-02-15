@@ -1,3 +1,3 @@
 # Risk
 
-Frameworks related to Risk Management, for example, risk appetite statement.
+Frameworks related to Risk management, for example, risk appetite statement.
