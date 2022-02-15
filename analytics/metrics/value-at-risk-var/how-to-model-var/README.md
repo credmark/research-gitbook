@@ -6,7 +6,7 @@ There are three primary types of VaR modeling: the parametric method (also known
 
 VaR calculation is based on two types of data:
 
-* Exposures, which is can be simply list of assets and their quantities, or derivatives contracts in the portfolio
+* Exposures, which can be simply list of assets and their quantities, or derivatives contracts in the portfolio
 * Histories of the prices of those assets
 
 ## Methodology
