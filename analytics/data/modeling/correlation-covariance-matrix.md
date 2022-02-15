@@ -7,7 +7,7 @@
 
 ## Calculation
 
-The most common measure of the correation is the Pearson's correlation coefficient. It is obtained by taking the ratio of the covarience of the two variables to the square root of their variances.
+The most common measure of the correlation is the Pearson's correlation coefficient. It is obtained by taking the ratio of the covariance of the two variables to the square root of their variances.
 
 $$
 \rho_{X,Y} =corr(X,Y) = {cov(X,Y) \over {\sigma_X \sigma_Y}}={E[(X-\mu_X)(Y-\mu_Y)] \over {\sigma_X \sigma_Y}}
