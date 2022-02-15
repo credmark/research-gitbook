@@ -6,7 +6,7 @@ Stablecoins are one of the most important aspects of DeFi. Having stable assets 
 
 The key to understanding risk in stablecoins is to understand how they are backed, or collateralized. A stablecoin effectively acts as an IOU for asset that is backing it. If a market participant goes and buys 100 USDC, they do so on the assumption that they can, at will, redeem that USDC for 100 US dollars. If a stablecoin is insufficiently collateralized and a large number of stablecoin holders attempt to redeem their tokens, but the issuer is unable to pay them back, the price will drop below the advertised peg.
 
-There are two basic varieties of stablecoin backing: 1) algorithmic and 2) asset-backed stablecoins.
+In TradeFi, the currency is reserved-backed. In DeFi, there are two basic varieties of stablecoin backing: 1) algorithmic and 2) asset-backed stablecoins.
 
 ## Algorithmic Stablecoins
 
