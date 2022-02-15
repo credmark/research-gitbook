@@ -97,12 +97,17 @@ $$
 C = LL^T
 $$
 
-The correlated random number $$R^\prime$$ can be obtained from uncorrelated ranom number $$R$$ by
+The correlated random number $$R^\prime$$ can be obtained from uncorrelated random number $$R$$ by
 
 $$
 R^\prime=LR
 $$
 
-
-
 The correlated random number $$R ^ \prime$$ can be used as scenarios of market movements. The rest of the model on consuming the data and calculate the $$PPL$$ is the same.
+
+## Contributors
+
+| Discord Handle | ETH Address                                | Reward            | Contribution                                                 |
+| -------------- | ------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| atulemis#0983  | 0x5fb7584838fB467e90bb8a1df3a278482e34E856 | 0 $CMK (internal) | Original version                                             |
+| kunlun#8324    | 0x109B3C39d675A2FF16354E116d080B94d238a7c9 | 0 $CMK (internal) | Add model considerations, Monte-Carlo VaR and Parametric VaR |

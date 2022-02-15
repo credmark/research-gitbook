@@ -64,15 +64,8 @@ There is no guarantee that this matrix satisfies that it is a positive definite 
 
 \[2] Craig Lucas, Computing Nearest Covariance and Correlation Matrices, M.Sc. Thesis, University of Manchester, 2001.
 
+## Contributors <a href="#contributors" id="contributors"></a>
 
-
-
-
-
-
-
-
-
-
-
-
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| kunlun#8324    | 0x109B3C39d675A2FF16354E116d080B94d238a7c9 | 0 $CMK (internal) | Original version |
