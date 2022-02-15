@@ -1,3 +1,3 @@
 # Procedures
 
-How to get appropriate data?
+Manual procedures and processes documentation.

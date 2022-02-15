@@ -33,7 +33,7 @@
     * [How to model LCR?](analytics/metrics/liquidity-coverage-ratio-lcr/how-to-model-lcr.md)
 * [Model Implementation](analytics/model-implementation.md)
 * [Data](analytics/data/README.md)
-  * [Definition](analytics/data/definition.md)
+  * [Definitions](analytics/data/definitions.md)
   * [Methodologies](analytics/data/methodologies/README.md)
     * [TVL of Abracadabra](analytics/data/methodologies/tvl-of-abracadabra.md)
     * [On-chain market data](analytics/data/methodologies/on-chain-market-data.md)

@@ -1,3 +1,3 @@
 # Methodologies
 
-How to use models to remediate data issues?
+Platform-specific data definitions, mappings, and models.
