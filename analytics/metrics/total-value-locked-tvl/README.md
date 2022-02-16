@@ -26,6 +26,10 @@ _Suppose Credy have a money jar with $ 1000 and 10 ETH in it at a point of time.
 
 _Since TVL is calculated in $ and assuming 1 ETH = $3000, we can say his TVL dropped from $ 31000 to $24500 after helping out his friend._
 
+## TVL Modelling
+
+A detailed analysis for the Data modeling can be found [here](../../data/modeling/tvl-methodology.md).
+
 ## References:
 
 1. Coindesk, https://www.coindesk.com/learn/why-tvl-matters-in-defi-total-value-locked-explained/
