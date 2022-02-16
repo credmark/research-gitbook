@@ -91,7 +91,7 @@ Note that a negative entails a loss. Then the 99% worst case 10-day VaR with 365
 
 #### 2. Monte-Carlo VaR Simulation
 
-The Monte-Carlo VaR simulation differs from Historical VaR simulation by how the scenarios are generated. Instead of historical scenarios, the scenario of asset returns are generated from the covariance matrix calculated from the historical data (more to be found in [correlation-covariance-matrix.md](../../data/modeling/correlation-covariance-matrix.md "mention")). With covariance matrix $$C$$, we can decompose it and form the transformation matrix $$L$$.
+The Monte-Carlo VaR simulation differs from Historical VaR simulation by how the scenarios are generated. Instead of historical scenarios, the scenario of asset returns are generated from the covariance matrix calculated from the historical data (more to be found in [correlation-covariance-matrix.md](../../../data/modeling/correlation-covariance-matrix.md "mention")). With covariance matrix $$C$$, we can decompose it and form the transformation matrix $$L$$.
 
 $$
 C = LL^T

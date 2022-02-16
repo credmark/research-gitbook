@@ -27,7 +27,7 @@
   * [Credit Risk](analytics/risk-types/credit-risk.md)
 * [Metrics](analytics/metrics/README.md)
   * [Value at Risk (VAR)](analytics/metrics/value-at-risk-var.md)
-    * [How to model VaR?](analytics/metrics/value-at-risk-var/how-to-model-var.md)
+    * [How to model VaR?](analytics/metrics/value-at-risk-var/how-to-model-var/README.md)
     * [Monte Carlo-based VaR for ETH/BTC Portfolio](analytics/metrics/value-at-risk-var/monte-carlo-based-var-for-eth-btc-portfolio.md)
     * [Crypto-native VaR parametrization](analytics/metrics/value-at-risk-var/crypto-native-var-parametrization.md)
     * [Intraday VaR](analytics/metrics/value-at-risk-var/intraday-var.md)
