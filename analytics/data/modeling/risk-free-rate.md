@@ -121,7 +121,7 @@ Example as of 15 February 2022:
 * **Implied Futures Yields**\
   Biggest market is Perpetual futures. Although carry trading (hence deriving implied yield) is possible, it’s unstable as the payments are based on the market sentiment. If there are more buyers than sellers then futures are sold at a premium and vice versa. Instability of yield is also not addressing DeFi community goals.
 
-References
+## References
 
 1. What is the Fed: Monetary Policy, Accessed on 14 February 2022\
    [https://www.frbsf.org/education/teacher-resources/what-is-the-fed/monetary-policy/](https://www.frbsf.org/education/teacher-resources/what-is-the-fed/monetary-policy/)&#x20;
@@ -135,4 +135,8 @@ References
 6. The Block, Accessed on 15 February 2022\
    [https://www.theblockcrypto.com/data/decentralized-finance/stablecoins/adjusted-on-chain-volume-of-stablecoins-monthly](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins/adjusted-on-chain-volume-of-stablecoins-monthly)
 
-&#x20;
+## Contributors
+
+| Discord Handle    | ETH Address                                    | Reward           | Contribution     |
+| ----------------- | ---------------------------------------------- | ---------------- | ---------------- |
+| **atulemis#0983** | **0x5fb7584838fB467e90bb8a1df3a278482e34E856** | 0 CMK (internal) | Original version |
