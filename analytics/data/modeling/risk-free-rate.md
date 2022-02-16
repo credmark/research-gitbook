@@ -14,6 +14,8 @@ As mentioned, the traditional concept of risk-free rate has a theoretical nature
 
 In order to understand the concept of the risk-free rate, it’s important to understand its context in traditional finance (TradFi).
 
+### Definition
+
 Risk-free rate is normally a rate where there is no risk, primarily of not getting paid on the maturity date. Normally risk-free rate is a rate of overnight deposit at the central bank because the Government can always repay its debt by simply printing more money. It’s overnight (for 1 business day) because if the tenor of the deposit is longer there is arguably a higher liquidity risk that needs to be offset by a higher premium.
 
 Not all Governments have enough credibility locally and internationally, which is usually reflected in the currency worth (exchange rate). If a country has substantial international debt to repay it’s not as simple as just printing more money, there have to be underlying fundamentals supporting the repayment.
@@ -21,6 +23,8 @@ Not all Governments have enough credibility locally and internationally, which i
 Market liquidity depth is also an important consideration - although Switzerland is a credible government its size won’t be able to accommodate numerous international deposit institutions so size matters.
 
 Depending on the structure of the government and its monetary policy there are different ways of defining risk-free rates. Let’s take the U.S. market as an example for the further assessment of TradFi system.
+
+### U.S. Monetary System
 
 The US Government sets the following two goals to the Federal Reserve (U.S. central bank) for the monetary policy: maximum employment and stable prices, which means low, stable inflation. Both imply the third important goal which is moderate long-term interest rates \[1], in other words, support for long-term growth.
 

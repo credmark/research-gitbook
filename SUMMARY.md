@@ -51,7 +51,7 @@
     * [On-chain Intra-day Price Aggregator (High Precision)](analytics/data/modeling/on-chain-intra-day-price-aggregator-high-precision.md)
     * [Account level data for USDC and USDT](analytics/data/modeling/account-level-data-for-usdc-and-usdt.md)
     * [Correlation/Covariance Matrix](analytics/data/modeling/correlation-covariance-matrix.md)
-    * [Minimum Risk Rate of DeFi](analytics/data/modeling/minimum-risk-rate-of-defi.md)
+    * [Minimum Risk Rate of DeFi](analytics/data/modeling/risk-free-rate.md)
     * [TVL Methodology](analytics/data/modeling/tvl-methodology.md)
     * [Discounted Cashflow Modeling](analytics/data/modeling/discounted-cashflow-modeling.md)
     * [APY / APR](analytics/data/modeling/apy-apr.md)
