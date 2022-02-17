@@ -1,4 +1,4 @@
-# Minimum Risk Rate of DeFi
+# 🚀 Minimum Risk Rate of DeFi
 
 ## Executive Summary
 
@@ -26,13 +26,15 @@ Depending on the structure of the government and its monetary policy, there are 
 
 ### U.S. Monetary System
 
-The US Government sets the following two goals to the Federal Reserve (U.S. central bank) for the monetary policy: maximum employment and stable prices, which means low, stable inflation. Both imply the third important goal, which is moderate long-term interest rates \[1]. In other words, they try to support long-term growth.
+The US Government sets the following two goals to the Federal Reserve (U.S. central bank) for the monetary policy: maximum employment and stable prices, which means low, stable inflation. Both imply the third important goal, moderate long-term interest rates \[1]. In other words, they try to support long-term growth.
 
-To fulfill these goals, the Fed has five monetary tools that are usually associated with the primary financial markets: reserve requirements, the discount rate (loans to deposit institutions), open market operations (debt market), the interest paid on reserves deposited (interbank deposit market), and overnight reverse repurchase agreements (repo market). The former three tools are traditional and the open market operations is by far the most frequently used and the largest \[2].
+To fulfil these goals, the Fed has five monetary tools that are usually associated with the primary financial markets: reserve requirements, the discount rate (loans to deposit institutions), open market operations (debt market), the interest paid on reserves deposited (interbank deposit market), and overnight reverse repurchase agreements (repo market). The former three tools are traditional, and the open market operations is by far the most frequently used and the largest \[2].
 
-Open market operations (OMO) is simply buying and selling U.S. government securities in order to align the yield with the publicly stated Fed funds rate target. The Fed funds rate is an overnight money market target set by Federal Open Market Committee (FOMC) \[3]. The usage of all other tools is also aligned with the FOMC decisions.
+Open market operations (OMO) are simply buying and selling U.S. government securities to align the yield with the publicly stated Fed funds rate target. The Fed funds rate is an overnight money market target set by Federal Open Market Committee (FOMC) \[3]. The usage of all other tools is also aligned with the FOMC decisions.
 
-Here is an example of how the OMO tool is used. If the FOMC believes the economy is overheating (abnormal price growth, inflation) they would raise the target for the federal funds rate. The Fed trading unit will then start selling government securities, collecting payments from banks and therefore reducing the balance of their reserves. Increased supply of government securities drives securities prices down and yield up to align with the new federal funds target. In the short term, the currency might depreciate, however in the mid-term it should appreciate attracted by the higher yields from international investors.
+Here is an example of how the OMO tool is used. If the FOMC believes the economy is overheating (abnormal price growth, inflation), they would raise the target for the federal funds rate. The Fed trading unit will then start selling government securities, collecting payments from banks and reducing the balance of their reserves. Increased supply of government securities drives securities prices down and yield up to align with the new federal funds target. In the short term, the currency might depreciate, however it should appreciate through attention the higher yields from international investors.
+
+### TradFi Summary
 
 In summary, TradFi has the following infrastructure bottom-up:
 
@@ -58,7 +60,7 @@ In DeFi, the biggest non-derivative market, is the lending and borrowing market,
 
 ### **3.** Alignment Across Markets
 
-The DeFi ecosystem by definition is fragmented. Alignment is achieved through operation of arbitrageurs - speculators that are looking for extracting profit from misalignments in yields.
+The DeFi ecosystem, by definition is fragmented. Alignment is achieved through operation of arbitrageurs - speculators that are looking for extracting profit from misalignments in yields.
 
 ### **4.** Goals
 
