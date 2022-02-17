@@ -91,12 +91,11 @@ The DeFi landscape of applications is highly concentrated and dominated by big p
 
 Assuming the perspective of the user and community as a whole, the minimum risk rate is defined as:
 
-* TVL-weighted average yields from Aave and Compound per USDT, USDC and DAI (that is majorly based on ETH collateral and pegged to the USD 1-to-1)
-* Which are then weighted based on On-chain Volume in (USD bln).
+![](<../../../.gitbook/assets/image (5).png>)
 
-This approach provides the best alignment given the provided background.
+The approach provides the best alignment given the provided background.
 
-Example as of 15 February 2022:
+Here is an example as of 15 February 2022:
 
 |                       | Aave  | Compound |
 | --------------------- | ----- | -------- |
