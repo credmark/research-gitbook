@@ -6,11 +6,15 @@ description: Find below the latest updates to articles in the Risk Library
 
 ## February 2022
 
+### RISK INSIGHTS
+
+{% embed url="https://docs.credmark.com/risk-insights/research/time-wonderland-fiasco-and-behavioral-analysis-of-0xsifus-wallet" %}
+
 ### ANALYTICS&#x20;
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/market-data-techniques" %}
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-usdc-and-usdt" %}
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/value-at-risk-var/how-to-model-var" %}
 
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/correlation-covariance-matrix" %}
 
