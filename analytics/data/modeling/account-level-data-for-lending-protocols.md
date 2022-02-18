@@ -1,3 +1,0 @@
-# Account level data for lending protocols
-
-Coming soon...

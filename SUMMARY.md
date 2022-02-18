@@ -57,7 +57,7 @@
     * [Discounted Cashflow Modeling](analytics/data/modeling/discounted-cashflow-modeling.md)
     * [APY / APR](analytics/data/modeling/apy-apr.md)
     * [TWAP / VWAP](analytics/data/modeling/twap-vwap.md)
-    * [Account level data for lending protocols](analytics/data/modeling/account-level-data-for-lending-protocols.md)
+    * [Account level data for lending protocols (Aave and Compound)](analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound.md)
     * [VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
   * [Procedures](analytics/data/procedures.md)
