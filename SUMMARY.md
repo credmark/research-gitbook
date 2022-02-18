@@ -10,6 +10,7 @@
 
 ## Analytics
 
+* [Introduction](analytics/introduction.md)
 * [Risk types](analytics/risk-types/README.md)
   * [DeFi & Crypto-Specific Risks](analytics/risk-types/defi-and-crypto-specific-risks/README.md)
     * [Hacks, Exploits, and Rug Pulls](analytics/risk-types/defi-crypto-specific-risks/hacks-exploits-and-rug-pulls.md)
@@ -65,6 +66,7 @@
 
 ## Frameworks
 
+* [Introduction](frameworks/introduction.md)
 * [Risk](frameworks/risk.md)
 * [Treasury](frameworks/treasury/README.md)
   * [Treasury Management for DAOs](frameworks/treasury/treasury-management-for-daos/README.md)
