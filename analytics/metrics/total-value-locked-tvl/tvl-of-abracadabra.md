@@ -101,11 +101,22 @@ Avalanche and Binance chains have TVL less than 100 mln so not considering for c
 | Arbitrum       | $ 0.15       |
 | **Total TVL**  | **$ 3.903**  |
 
-Based on the analysis above we can make the following observations:
+### Observations
 
 1. The number approximately match with the dashboard with a deviation of 0.2% and is higher from what defillama states by 14%.
 2. There is a periodic update in the abracadabra analytics dashboard which might cause the difference in given and calculated TVL.
 3. Abracadabra relies on both centralized (coingecko) and decentralized sources (oracles) to calculate the TVL of the platform.
+
+### Why is Defillama's TVL different?
+
+Abracadabra maintains tokens in two vaults:
+
+* Bentobox Vault \[15]
+* Degenbox Vault \[16]
+
+To calculate the TVL, we need to sum all the tokens across both these vaults to get the TVL.&#x20;
+
+Now Defillama uses Abracadabra's API \[17] to fetch the TVL which only tracks the assets present in Bentobox. That difference in tracked assets creates the deviation of 14% as observed above. Whereas, the dashboard tracks of all the vaults while calculating the TVL.
 
 ## References:
 
@@ -123,6 +134,9 @@ Based on the analysis above we can make the following observations:
 12. Dune, https://dune.xyz/browse/dashboards&#x20;
 13. Defipulse, https://www.defipulse.com/&#x20;
 14. Coindesk, https://www.coindesk.com/learn/why-tvl-matters-in-defi-total-value-locked-explained/
+15. Sushuswap, https://docs.sushi.com/products/bentobox
+16. Medium, https://medium.datadriveninvestor.com/money-the-degenbox-guide-37d54fc4c4da
+17. Github, https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/abracadabra/api.js
 
 ## Contributors
 
