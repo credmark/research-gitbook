@@ -8,6 +8,8 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### RISK INSIGHTS
 
+{% embed url="https://docs.credmark.com/risk-insights/research/nexus-mutual-covering-consumer-risk" %}
+
 {% embed url="https://docs.credmark.com/risk-insights/research/time-wonderland-fiasco-and-behavioral-analysis-of-0xsifus-wallet" %}
 
 ### ANALYTICS&#x20;
