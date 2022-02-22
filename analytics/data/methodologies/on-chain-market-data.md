@@ -347,3 +347,12 @@ for i in reversed(range(latestRound)):
 2.  **Constant product formula**: x \* y = k, where x is the amount of Token#1 in the liquidity pool, y is the amount of Token#2 in the liquidity pool, and k is a fixed constant.
 
     Price of Token#1 will be calculated in terms of Token#2 according to their respective quantity in the pool while maintaining the constant product of both tokens’ quantity.
+
+
+
+## Contributors
+
+| Discord Handle   | ETH Address                                    | Reward           | Contribution     |
+| ---------------- | ---------------------------------------------- | ---------------- | ---------------- |
+| **airboom#0400** | **0x84eAF08c13E86cD1603Bb8de7f5F61Fa115771bc** | 0 CMK (internal) | Original version |
+
