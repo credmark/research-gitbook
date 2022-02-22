@@ -14,6 +14,8 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### ANALYTICS&#x20;
 
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/on-chain-market-data" %}
+
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/apy-apr" %}
 
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound" %}
