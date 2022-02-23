@@ -2,13 +2,13 @@
 
 ## Summary
 
-One of the institutional clients sponsored work to develop a model that extracts information on  Curve Finance pools. It is used to monitor macro healthiness of DeFi. The following information is captured and made available through Credmark API service for all staking pools:
+One of the institutional clients sponsored work to develop a model that extracts information on  Curve Finance pools. It is used to monitor macro healthiness of DeFi. The following information is captured and made available through Credmark API service:
 
 1. Pool Number
 2. Tokens contained in the pool
 3. Balances of these tokens
 
-Fields could be ran historically as well.
+The data is available for all pools and can be also run historically.
 
 ## Implementation
 
