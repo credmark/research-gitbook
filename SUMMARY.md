@@ -39,7 +39,7 @@
     * [TVL of Abracadabra](analytics/metrics/total-value-locked-tvl/tvl-of-abracadabra.md)
   * [Sharpe Ratio](analytics/metrics/sharpe-ratio.md)
 * [Model Implementation](analytics/model-implementation/README.md)
-  * [Curve Finance Pools Data Extraction](analytics/model-implementation/curve-finance-pools-data-extraction.md)
+  * [Curve Finance Pools LQ Data](analytics/model-implementation/curve-finance-pools-lq-data.md)
   * [VaR for Uniswap V3 and V2 LP positions](analytics/model-implementation/var-for-uniswap-v3-and-v2-lp-positions.md)
   * [VaR for Curve LP positions](analytics/model-implementation/var-for-curve-lp-positions.md)
 * [Data](analytics/data/README.md)
