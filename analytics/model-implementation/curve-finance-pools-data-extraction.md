@@ -14,3 +14,8 @@ Fields could be ran historically as well.
 
 [https://github.com/credmark/credmark-models-py/blob/main/models/credmark/curve/curve\_finance.py](https://github.com/credmark/credmark-models-py/blob/main/models/credmark/curve/curve\_finance.py)
 
+
+
+| Contributor | ETH Address | Reward           | Comments |
+| ----------- | ----------- | ---------------- | -------- |
+| neil#9614   | neilz.eth   | 0 CMK (internal) | Created  |
