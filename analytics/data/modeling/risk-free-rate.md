@@ -93,7 +93,7 @@ The DeFi landscape of applications is highly concentrated and dominated by big p
 
 Assuming the perspective of the user and community as a whole, the minimum risk rate is defined as:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 The approach provides the best alignment given the provided background.
 
