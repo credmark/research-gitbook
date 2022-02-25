@@ -50,6 +50,7 @@
     * [On-chain Borrow / Lending Data](analytics/data/methodologies/on-chain-borrow-lending-data.md)
     * [On-chain Intraday price aggregator](analytics/data/methodologies/on-chain-intraday-price-aggregator.md)
     * [On-chain Gas fees (ETH)](analytics/data/methodologies/on-chain-gas-fees-eth.md)
+    * [Aave Data Discrepancy](analytics/data/methodologies/aave-data-discrepancy.md)
   * [Modeling](analytics/data/modeling/README.md)
     * [On-chain Intra-day Price Aggregator (High Precision)](analytics/data/modeling/on-chain-intra-day-price-aggregator-high-precision.md)
     * [Account level data for USDC and USDT](analytics/data/modeling/account-level-data-for-usdc-and-usdt.md)
@@ -62,7 +63,6 @@
     * [Account level data for lending protocols (Aave and Compound)](analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound.md)
     * [VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
-    * [Aave Data Discrepancy](analytics/data/modeling/aave-data-discrepancy.md)
   * [Procedures](analytics/data/procedures.md)
 
 ## Frameworks
