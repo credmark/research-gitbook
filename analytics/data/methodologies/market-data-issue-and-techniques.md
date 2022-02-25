@@ -1,6 +1,10 @@
-# Market Data Issu Techniques
+# Market Data Issue and Techniques
 
-The on-chain market data is raw and it needs to be checked and cleaned to be used for models.
+## Executive Summary
+
+1. The on-chain market data is raw and it needs to be checked and cleaned to be used for models.
+2. Issues with on-chain market data: 1) data from blockchain is that they are discretized in block and time. On-chain data's timestamp is different from more real-time data like API/Oracle's timestamp. 2) data from blockchain is subject to large jump that needs interpretation and proper handling. 3) data needs audit.
+3. The way to address the issues is to employ data techniques to provide data fit to the use of various models.
 
 ## Some Food for Thoughts
 
@@ -12,7 +16,9 @@ The second point, an innovation in DeFi, is the use of smart contract to bundle 
 
 The third point is that **data needs audit**. In TradeFi, the balance is obtained from input of the transactions. In DeFi, the balance of the current holding is a global state of the account, while all transactions leading to the current balance is subject to the ETL process of the blockchain. The history need to be replayed to restore the process. Could that balance at some past point of time be negative? That's impossible by the rule of the blockchain but it could be caused due to mishaps in the ETL process of the contract.
 
-Inking the thoughts, below we describe the specifications to get started.
+The ways to address above issues is to employ techniques to provide data fit to the be used in various models.
+
+After inking the thoughts, below we describe the specifications to get started.
 
 ## Specification
 

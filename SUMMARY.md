@@ -46,7 +46,7 @@
   * [Definitions](analytics/data/definitions.md)
   * [Methodologies](analytics/data/methodologies/README.md)
     * [On-chain market data](analytics/data/methodologies/on-chain-market-data.md)
-    * [Market Data Issue Techniques](analytics/data/methodologies/market-data-issue-techniques.md)
+    * [Market Data Issue and Techniques](analytics/data/methodologies/market-data-issue-and-techniques.md)
     * [On-chain Borrow / Lending Data](analytics/data/methodologies/on-chain-borrow-lending-data.md)
     * [On-chain Intraday price aggregator](analytics/data/methodologies/on-chain-intraday-price-aggregator.md)
     * [On-chain Gas fees (ETH)](analytics/data/methodologies/on-chain-gas-fees-eth.md)
