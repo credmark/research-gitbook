@@ -62,8 +62,8 @@
     * [Account level data for lending protocols (Aave and Compound)](analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound.md)
     * [VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
+    * [Aave Data Discrepancy](analytics/data/modeling/aave-data-discrepancy.md)
   * [Procedures](analytics/data/procedures.md)
-  * [Aave Data Discrepancy](analytics/data/aave-data-discrepancy.md)
 
 ## Frameworks
 
