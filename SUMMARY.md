@@ -63,7 +63,7 @@
     * [VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
   * [Procedures](analytics/data/procedures.md)
-  * [Others](analytics/data/others.md)
+  * [Aave Data Discrepancy](analytics/data/aave-data-discrepancy.md)
 
 ## Frameworks
 
