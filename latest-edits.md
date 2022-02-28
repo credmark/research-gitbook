@@ -14,6 +14,8 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### ANALYTICS&#x20;
 
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-usdc-and-usdt" %}
+
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/aave-data-discrepancy" %}
 
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/market-data-issue-techniques" %}
