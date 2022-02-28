@@ -26,7 +26,7 @@ $$
 
 where $$k=1+r$$ and $$r$$ is the relative change in price \[1]. In our case 10 calendar days changes since crypto market operates 24/7. Graphically IL equality could be shown as:
 
-![Uniswap v2 Impermanent Loss Function - Losses to Liquidity Providers due to Price Variation on top in Excess to Holding the Original Funds Supplied \[1\]](<../../../../.gitbook/assets/image (2).png>)
+![Uniswap v2 Impermanent Loss Function - Losses to Liquidity Providers due to Price Variation on top in Excess to Holding the Original Funds Supplied \[1\]](<../../../.gitbook/assets/image (2) (1).png>)
 
 Let’s assume we have a balance of $100,000 in BTC/ETH pool distributed evenly as of 31 December 2021. Hence, we’re contributing $50,000 worth of BTC (1.06 units) and $50,000 worth of ETH (13.46 units). Based on last year’s returns, the 99th percentile, 10-day overlapping sampling, and 10-day holding period, we get the following results:
 
@@ -63,7 +63,7 @@ Based on the same parameters:
 
 The VaR estimates for different price ranges are:
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 Note that the range with the lower bound equal to 0 and high upper bound (x10) price corresponds to the Uniswap V2 that doesn’t have any LP range setting option.
 

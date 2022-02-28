@@ -22,7 +22,7 @@ We fetched the on-chain Ethereum data for available via publicly available googl
 
 Below screenshot shows the overall usage summary around DAI  pool and different user actions i.e. lending (aka mint), borrowing, repaying etc.
 
-![DAI pool Transaction Summary (Compound Protocol)](<../../../.gitbook/assets/image (6).png>)
+![DAI pool Transaction Summary (Compound Protocol)](<../../../.gitbook/assets/image (6) (1).png>)
 
 Summary of different visuals shown in above screenshot is as follows:
 
@@ -50,7 +50,7 @@ Lets pick wallet address “[0xdb7030beb1c07668aa49ea32fbe0282fe8e9d12f](https:/
 
 :bulb:If you closely notice in above screenshot, you can clearly track fluctuation in his Lending and Borrowing contribution in the pool over period of time (in this case, over 6 months)
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 ### **3. Categorization of Depositor/Borrower wallets based on DAI amount supplied**
 
