@@ -26,6 +26,8 @@ Yes, $11.82 bln. as of 14 January 2022 \[4].
 
 **How is it calculated in different Places (Their Frontend, Dune, DefiPulse, DefiLlama)?**
 
+* **Frontend:** TVL not given on dashboard \[]
+
 Tvl is calculated by summing the value of tokens locked in the contracts to be used as collateral to borrow or to earn yield. Borrowed coins are not counted towards the TVL, so only the coins actually locked in the contracts are counted \[37].
 
 As of 14 January 2022 Aave protocol’s TVL stands at approx. $11.82 bln, distributed across multiple chains as per below-\[4].
