@@ -7,14 +7,16 @@ description: 'tag:'
 ## Executive Summary
 
 * From the study of top 100 holders for USDT and USDC respectively, we have a few findings and this opens new ground for further work
-* They have high level of concentration (top 100 holders hold %56 for USDC, %23 for USDT). Among them, 30 are cross holders in both (26% in USDC and 11% in USDT)
-* The account activity can be divided into two groups based on transaction vs active days: 1) 1-2 per active day or 2) >3 every day
-* Historical change  of balance can derive cashflow and calculates various cash flow ration like LCR to measure the health and risk.
+* They have high level of concentration (top 100 holders hold 56% for USDC, 23% for USDT). Among them, 30 are cross holders in both (26% in USDC and 11% in USDT)
+* The account activity can be divided into two groups based on transaction vs active days:&#x20;
+  * &#x20;1-2 per active day or&#x20;
+  * \>3 every day
+* Historical change of balance can derive cashflow and calculates various cash flow ration like LCR to measure the health and risk.
 * Behavior study of transaction pattern, transaction accounts, etc. are new grounds to be explored.
 
 ## Introduction
 
-The stablecoin is a fundamental block of DeFi that preserve the value of risky tokens and serves liquid cash for paymets and investment. Tracking the movement of stablecoins (though it has no  difference to track another ERC-20 tokens) is of particular meaning as a working capital for liquidity risk (cash flow ratios like [liquidity-coverage-ratio-lcr](../../metrics/liquidity-coverage-ratio-lcr/ "mention")) and market risk. USDC and USDT are picked as they are the two most held (\[1], \[2]). Here we would like to share our findings.
+The stablecoin is a fundamental block of DeFi that preserve the value of risky tokens and serves liquid cash for payments and investment. Tracking the movement of stablecoins (though it has no  difference to track another ERC-20 tokens) is of particular meaning as a working capital for liquidity risk (cash flow ratios like [liquidity-coverage-ratio-lcr](../../metrics/liquidity-coverage-ratio-lcr/ "mention")) and market risk. USDC and USDT are picked as they are the two most held (\[1], \[2]). Here we would like to share our findings.
 
 ## Technical
 
@@ -29,10 +31,10 @@ We collected historical transactions for the top 100 holders of USDC and USDT ob
 
 We use circulation supply in this article.
 
-|  **Source**         |  **USDT**         |  **USDC**         |
-| ------------------- | ----------------- | ----------------- |
-|  Circulation Supply | 79\_483\_506\_960 | 53\_189\_512\_355 |
-|  Total Supply       | 47\_643\_566\_256 | 39\_823\_119\_844 |
+|  **Source**         |  **USDT**      |  **USDC**      |
+| ------------------- | -------------- | -------------- |
+|  Circulation Supply | 79,483,506,960 | 53,189,512,355 |
+|  Total Supply       | 47,643,566,256 | 39,823,119,844 |
 
 ## Analysis
 
@@ -53,11 +55,11 @@ The simple takeaway is that USDC is more concentrated held by large holders than
 
 | Quantity                | USDC                                                                                     |                                                                        |
 | ----------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Cross holders (30)      | 13\_743\_537\_494 (26%)                                                                  | 8\_687\_909\_260 (11%)                                                 |
-| Other holders (70)      | 16\_172\_936\_609 (30%)                                                                  | 9\_482\_639\_046 (12%)                                                 |
-| All large holders (100) | 29\_921\_653\_672 (56%)                                                                  | 18\_170\_548\_307 (23%)                                                |
-| The alternative holders | <p>In top 100 <strong>USDT</strong> holders<br><strong></strong>13_985_469_468 (26%)</p> | <p>In top 100 <strong>USDC</strong> holders<br>8_687_909_260 (10%)</p> |
-| Circulation Supply      | 53\_189\_512\_355                                                                        | 79\_483\_506\_960                                                      |
+| Cross holders (30)      | 13,743,537,494 (26%)                                                                     | 8,687,909,260 (11%)                                                    |
+| Other holders (70)      | 16,172,936,609 (30%)                                                                     | 9,482,639,046 (12%)                                                    |
+| All large holders (100) | 29,921,653,672 (56%)                                                                     | 18,170,548,307 (23%)                                                   |
+| The alternative holders | <p>In top 100 <strong>USDT</strong> holders<br><strong></strong>13,985,469,468 (26%)</p> | <p>In top 100 <strong>USDC</strong> holders<br>8,687,909,260 (10%)</p> |
+| Circulation Supply      | 53,189,512,355                                                                           | 79,483,506,960                                                         |
 
 The below chart shows cross-holder's balance in both USDT/USDC, ordered by the sum of amount in both USDT/USDC.
 
