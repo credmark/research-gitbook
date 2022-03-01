@@ -1,4 +1,4 @@
-# On-chain Gas fees (ETH)
+# 🚀 On-chain Gas fees (ETH)
 
 ### Gas Fees
 
@@ -252,7 +252,7 @@ So using the current gas price and current ETH value, Gas fees = gas used \* gas
 
 **Actual gas price**
 
-![](https://lh3.googleusercontent.com/rQKSPJnn8Ai\_Z1wQbH2Uyz\_S0zr7DpGlFjO7cs\_KyvH71KVcsmP6oWnYRlK-pi4z3aBpEGfAt4GJp\_HGyt0S5VhRFXcZ02oQe9trBvsjsmWUuELV0vWAITA0zD5Qo7j3VSWlNMw)
+![Eth Transfer estimate from Etherscan](https://lh3.googleusercontent.com/rQKSPJnn8Ai\_Z1wQbH2Uyz\_S0zr7DpGlFjO7cs\_KyvH71KVcsmP6oWnYRlK-pi4z3aBpEGfAt4GJp\_HGyt0S5VhRFXcZ02oQe9trBvsjsmWUuELV0vWAITA0zD5Qo7j3VSWlNMw)
 
 #### **2.** USDT(ERC20 token) transfer
 
@@ -264,7 +264,7 @@ So using the current gas price and current ETH value, Gas fees = gas used \* gas
 
 Actual gas price
 
-![](https://lh6.googleusercontent.com/AToQblkpYiP6JE2Q56jp2xk2Iw6BW1aSXZnludnrmg8yCYj6BU2ODiEi1BT5v9kKJ8O3PORxqEh5MTk41KGA5LWy\_S1v4bUFPOVtp57N3-VNv8NbBsFSpCepmKLTLAua3QnccXk)
+![USDT Transfer Estimate from Etherscan](https://lh6.googleusercontent.com/AToQblkpYiP6JE2Q56jp2xk2Iw6BW1aSXZnludnrmg8yCYj6BU2ODiEi1BT5v9kKJ8O3PORxqEh5MTk41KGA5LWy\_S1v4bUFPOVtp57N3-VNv8NbBsFSpCepmKLTLAua3QnccXk)
 
 #### 3. Uniswap V3 Swap
 
@@ -276,7 +276,7 @@ So using the current gas price and current ETH value, Gas fees = gas used \* gas
 
 Actual gas price
 
-![](https://lh6.googleusercontent.com/xDQN741pY2scoWy4L30OfY7pQ7mxMUpzvTnNfq\_puqucCKomJrNaYHhBytCvN2G\_GBjedcetcMau3v2HNdy73NNtgVHQoNDZkkSjk3lUIGH32Hdr60fvxsJRkzJAP-ksS8pJ3\_Y)
+![Uniswap V3 Swap estimate from Etherescan](https://lh6.googleusercontent.com/xDQN741pY2scoWy4L30OfY7pQ7mxMUpzvTnNfq\_puqucCKomJrNaYHhBytCvN2G\_GBjedcetcMau3v2HNdy73NNtgVHQoNDZkkSjk3lUIGH32Hdr60fvxsJRkzJAP-ksS8pJ3\_Y)
 
 ## Contributors
 
