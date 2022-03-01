@@ -1,3 +1,0 @@
-# Sharpe Ratio
-
-Coming soon...

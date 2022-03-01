@@ -54,11 +54,11 @@ When we want to use this data as a time series, the backfilling strategy is to f
 
 To visualize, below figure shows the the change of the balance from Apr 2021 to Feb 2022. Note the balance has reached negative because it is restored from Transfer event logs only (this reminds us the importance of **data audit**).&#x20;
 
-![Account balance change for an ERC-20 token in 0x15abb... from Apr 2021 to Feb 2022. Incorrect due to empty values (See above for the note on the negative balance)](<../../../.gitbook/assets/image (3) (1).png>)
+![Account balance change for an ERC-20 token in 0x15abb... from Apr 2021 to Feb 2022. Incorrect due to empty values (See above for the note on the negative balance)](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 As we apply this backfilling method to the history from Apr 2021 to Feb 2022, we obtain below figure. The sharp edges in above figure (due to empty value) has changed to flat-jump form (backfilled). This is the expected behavior of an wallet when there is no transaction.
 
-![Account balance change for an ERC-20 token in 0x15abb... from Apr 2021 to Feb 2022. Backfilled. (See above for the note on the negative balance)](<../../../.gitbook/assets/image (8) (1).png>)
+![Account balance change for an ERC-20 token in 0x15abb... from Apr 2021 to Feb 2022. Backfilled. (See above for the note on the negative balance)](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 There will be more examples in dealing with various types of data. We will enrich this WIP (Work-in-progress) article.
 

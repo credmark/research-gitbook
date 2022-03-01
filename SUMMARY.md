@@ -37,7 +37,7 @@
     * [How to model LCR?](analytics/metrics/liquidity-coverage-ratio-lcr/how-to-model-lcr.md)
   * [Total Value Locked (TVL)](analytics/metrics/total-value-locked-tvl/README.md)
     * [TVL of Abracadabra](analytics/metrics/total-value-locked-tvl/tvl-of-abracadabra.md)
-  * [Sharpe Ratio](analytics/metrics/sharpe-ratio.md)
+  * [Sharpe Ratio in DeFi](analytics/metrics/sharpe-ratio-in-defi.md)
 * [Model Implementation](analytics/model-implementation/README.md)
   * [Curve Finance Pools LQ Data](analytics/model-implementation/curve-finance-pools-lq-data.md)
   * [VaR for Uniswap V3 and V2 LP positions](analytics/model-implementation/var-for-uniswap-v3-and-v2-lp-positions.md)

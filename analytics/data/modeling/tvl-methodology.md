@@ -6,7 +6,7 @@ The current paper provides the definition of Total Value Locked (TVL) metrics.
 
 For Lending/Borrowing Protocols TVL can be defined as:
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
 , where:
 

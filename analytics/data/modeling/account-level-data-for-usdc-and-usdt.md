@@ -89,7 +89,7 @@ To better visualize, we show the figure in the log space of 10. The regression r
 
 We could categorized the **A group** as a **cold holder s**(large balance, seldom changes) or **temporary holder** (parking accounts, funds going in and went out) while the **B group** as **active holders**.
 
-![Active Days vs No. of Tx (log-scale) for USDT and USDC holders.](<../../../.gitbook/assets/image (3).png>)
+![Active Days vs No. of Tx (log-scale) for USDT and USDC holders.](<../../../.gitbook/assets/image (3) (1).png>)
 
 
 
@@ -97,7 +97,7 @@ We could categorized the **A group** as a **cold holder s**(large balance, seldo
 
 The distribution of active days show a bi-polar pattern. With more holders with <10 transaction over the 312-day period.
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Account balance over time
 
