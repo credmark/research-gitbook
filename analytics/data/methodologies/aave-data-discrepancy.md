@@ -10,7 +10,11 @@ This document explains the discrepancy between **assets’ balance data** obtain
 2. Smart contract(On-chain) Data Extraction
 3. Subgraph API
 
-We will use these three approaches to fetch assets balance on Aave and compare the results in findings.
+We will use these three approaches to fetch assets balance on Aave and compare the results in findings:
+
+Upon comparing between assets’ balance fetched from Aave Native API and total supply of corresponding aTokens, we see a huge difference in numbers of assets (millions in cases of some stablecoins such as DAI, SUSD, USDC and USDT) with percentage of difference reaching from 2% in case of BUSD and 3.27% in USDC to as high as 77% in case of AMPL.
+
+This finding is also realized upon comparing between assets’ balance fetched from Aave Native API and assets’ balance fetched from Subgraph API with difference in millions in some stable coins(TUSD, FEI, USDC) with difference percentage reaching as high as 7% in case of USDC.
 
 ### List of Assets supported on Aave:
 
