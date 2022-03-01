@@ -59,7 +59,7 @@ In a tabular form top three DeFi tokens based on 3 months, 6 months, and yearly 
 
 &#x20;Most consistent results are produced by CRV, ETH, SOL, and LINK.
 
-### Methodology
+## Methodology
 
 Recommended parameterization for using Sharpe Ratio in DeFi is:
 
@@ -69,13 +69,13 @@ Recommended parameterization for using Sharpe Ratio in DeFi is:
 
 Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate.
 
-### Results as of 19 January 2022
+## Index Application
 
-The selected parameterization produces the following results:
+The selected parameterization produces the following results as of 19 January 2022:
 
 ![Figure 5](<../../.gitbook/assets/image (9).png>)
 
-For example, the top Sharpe ratio is produced by CRV and equals to (12.65% - 2%26) / 26.1% = 0.48.
+For example, the top Sharpe ratio is produced by CRV and equals to (12.65% - 2%/26) / 26.1% = 0.48.
 
 Although Sharpe ratio is a traditional measure, it’s important to understand it conceptually in light of all underlying assumptions and parameters.
 
