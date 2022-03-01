@@ -4,6 +4,12 @@ description: Find below the latest updates to articles in the Risk Library
 
 # Latest Edits
 
+## March 2022
+
+### ANALYTICS
+
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/sharpe-ratio-in-defi" %}
+
 ## February 2022
 
 ### RISK INSIGHTS
