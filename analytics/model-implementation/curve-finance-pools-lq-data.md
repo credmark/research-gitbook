@@ -12,9 +12,7 @@ The data is available for all pools and can be also run historically.
 
 ## Implementation
 
-[https://github.com/credmark/credmark-models-py/blob/main/models/credmark/curve/curve\_finance.py](https://github.com/credmark/credmark-models-py/blob/main/models/credmark/curve/curve\_finance.py)
-
-
+[https://github.com/credmark/credmark-models-py/blob/main/models/credmark/protocols/curve/curve\_finance.py](https://github.com/credmark/credmark-models-py/blob/main/models/credmark/protocols/curve/curve\_finance.py)
 
 ## Contributors
 
