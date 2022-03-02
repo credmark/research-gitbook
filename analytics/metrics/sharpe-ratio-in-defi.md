@@ -1,4 +1,4 @@
-# Sharpe Ratio in DeFi
+# 🚀 Sharpe Ratio in DeFi
 
 ## Executive Summary
 
@@ -67,7 +67,7 @@ Recommended parameterization for using Sharpe Ratio in DeFi is:
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate.
+Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate. 6 months sampling period is also supported by newly minted tokens not having sufficient historical data.
 
 ## Index Application
 
