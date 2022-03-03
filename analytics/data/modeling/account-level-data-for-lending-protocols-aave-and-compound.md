@@ -1,4 +1,4 @@
-# Account level data for lending protocols (Aave and Compound)
+# 🚀 Account level data for lending protocols (Aave and Compound)
 
 ## **Executive Summary:**
 
@@ -22,7 +22,7 @@ We fetched the on-chain Ethereum data for available via publicly available googl
 
 Below screenshot shows the overall usage summary around DAI  pool and different user actions i.e. lending (aka mint), borrowing, repaying etc.
 
-![DAI pool Transaction Summary (Compound Protocol)](<../../../.gitbook/assets/image (6) (1) (1).png>)
+![DAI pool Transaction Summary (Compound Protocol)](<../../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 Summary of different visuals shown in above screenshot is as follows:
 

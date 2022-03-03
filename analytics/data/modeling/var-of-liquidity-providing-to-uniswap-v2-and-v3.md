@@ -1,4 +1,4 @@
-# VaR of Liquidity Providing to Uniswap V2 and V3
+# 🚀 VaR of Liquidity Providing to Uniswap V2 and V3
 
 ## **Executive Summary**
 

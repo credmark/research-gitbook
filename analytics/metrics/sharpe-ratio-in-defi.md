@@ -14,9 +14,9 @@ Using the Sharpe ratio as part of your fundamental analysis strategy helps to pr
 
 Sharpe ratio is defined as:
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-Sharpe ratio can also be applied to a portfolio.&#x20;
+Sharpe ratio can be also used to construct or analyse performance of a portfolio.
 
 Let’s consider an example: investment into Asset X provides an expected return of 5% per annum and a standard deviation of 3.5% per annum. Sharpe ratio given risk-free rate is 0.25% equals 1.36.
 
@@ -32,17 +32,19 @@ Hence Sharpe ratio of 1.36 is a good level for investment purposes.
 
 Crypto markets are associated with abnormal returns and volatility.
 
+Let’s try to apply the same concept to cryptocurrencies. We’ve used different parameters for sampling and holding periods to understand index behaviour. Instead of a risk-free rate, we’ve used the minimum risk rate introduced by Credmark recently.
+
 Figure 1 provides an analysis of monthly returns for 23 DeFi tokens sampled over trailing 3 months, 6 months and 1 year from 19 January 2022.
 
 ![Figure 1](<../../.gitbook/assets/image (7).png>)
 
 Figure 2 - for fortnightly returns
 
-![Figure 2](<../../.gitbook/assets/image (8).png>)
+![Figure 2](<../../.gitbook/assets/image (8) (1).png>)
 
 Figure 3 - for weekly returns
 
-![Figure 3](<../../.gitbook/assets/image (6).png>)
+![Figure 3](<../../.gitbook/assets/image (6) (1).png>)
 
 Figure 4 - for daily returns
 
@@ -59,6 +61,8 @@ In a tabular form top three DeFi tokens based on 3 months, 6 months, and yearly 
 
 &#x20;Most consistent results are produced by CRV, ETH, SOL, and LINK.
 
+Based on the quantitative and qualitative considerations, including historical data availability and fast pace of changes in crypto markets, we’ve come with the following parametrization that is seen as most appropriate.
+
 ## Methodology
 
 Recommended parameterization for using Sharpe Ratio in DeFi is:
@@ -67,7 +71,7 @@ Recommended parameterization for using Sharpe Ratio in DeFi is:
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate. 6 months sampling period is also supported by newly minted tokens not having sufficient historical data.
+[Minimum risk rate methodology is covered in a separate document](../data/modeling/risk-free-rate.md). Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate. 6 months sampling period is also supported by newly minted tokens not having sufficient historical data.
 
 ## Index Application
 
@@ -79,9 +83,11 @@ For example, the top Sharpe ratio is produced by CRV and equals to (12.65% - 2%/
 
 Although Sharpe ratio is a traditional measure, it’s important to understand it conceptually in light of all underlying assumptions and parameters.
 
-As can be seen, top DeFi assets show smaller Sharpe ratios compared to traditional financial instruments, classified as a “bad” investment. This is due to the high volatility of returns inherent in the crypto markets, in the CRV example above it's 26.1%.
+As can be seen, top DeFi assets show smaller Sharpe ratios compared to traditional financial instruments, classified as “bad” investment. This is due to high volatility of returns inherent in the crypto markets, in the example above its 26.1%. Most of the volatility is upside which is in fact beneficial for investors. Sharpe ratio is direction-agnostic so capturing the upside potential as a risk is a known limitation of the Sharpe ratio, which is addressed by Sortino ratio. Sortino ratio (to be detailed in another article) is a better metric to use for higher risk investments and could be a better metric for DeFi in its nascency.
 
-However, most of the volatility is upside which is beneficial for investors. Sharpe ratio is direction-agnostic so capturing the upside potential as a risk is a known limitation of the Sharpe ratio, which is addressed by Sortino ratio. Sortino ratio (to be detailed in another article) is a better metric to use for higher risk investments and could be a better metric for DeFi in its nascency.
+However, DeFi Sharpe ratios would improve and show better results than assets in TradFi once there is simply more history. In the example above median fortnightly return is 12.65% which in annualized terms is 328% which is significantly better than any other ordinary asset performance.
+
+Sharpe index is also a useful tool to compare DeFi tokens performance and construct an optimal risk-return portfolio. And Figure 5 is an example of such comparison as of 19 January 2022.
 
 ## References
 
