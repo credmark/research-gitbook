@@ -38,13 +38,13 @@ Here is an example of how the OMO tool is used. If the FOMC believes the economy
 
 In summary, TradFi has the following infrastructure bottom-up:
 
-1. Primary target audience of risk-free rate interventions are large deposit institutions, which then pass those changes to their clients including mortgage holders
-2. Main tool - open market operations is performed by controlling the debt market, the biggest basis asset market
-3. Monetary policy is enforced by aligned usage of tools that involve interventions in core markets
-4. U.S. monetary policy goals are maximum employment and prices stability, including moderate 30 year funding rates
-5. The rate is actively controlled to achieve prosperity goals for the nation
-6. In order to claim risk-free status, the government must be credible and the economy large/diversified enough to support international demand (issuer)
-7. The Risk-free rate is an overnight deposit rate in local currency to central bank of a credible government
+1. The primary target audience of risk-free rate interventions are large deposit institutions, which then pass those changes to their clients including mortgage holders.
+2. Open market operations is performed by controlling the debt market, the biggest basis asset market.
+3. Monetary policy is enforced by aligned usage of tools that involve interventions in core markets.
+4. U.S. monetary policy goals are maximum employment and prices stability, including moderate 30 year funding rates.
+5. The rate is actively controlled to achieve prosperity goals for the nation.
+6. In order to claim risk-free status, the government must be credible and the economy large/diversified enough to support international demand (issuer).
+7. The Risk-free rate is an overnight deposit rate in local currency to the central bank of a credible government.
 
 ## DeFi
 
@@ -52,23 +52,23 @@ Let’s compare TradFi architecture to DeFi (with numbers corresponding to TradF
 
 ### **1.**  Target Audience of Minimal Risk Rate
 
-Crypto world is still in its infancy and dominated by a concentrated amount of players with significant resources (whales). This clientele usually has robust risk function, high sustainability and low risk mandate, which necessitates placing funds at a minimal risk rate. In this sense, DeFi is similar to TradFi.
+The crypto world is still in its infancy and dominated by a small number of players with significant resources (whales). This clientele usually has robust risk function, high sustainability and low risk mandate, which necessitates placing funds at a minimal risk rate. In this sense, DeFi is similar to TradFi.
 
 ### **2.** The Biggest Basis Asset Market
 
-In DeFi, the biggest non-derivative market, is the lending and borrowing market, so for example Maker DAO is the largest DeFi protocol by total value locked in USD equal to USD 18 bln. \[4].
+In DeFi, the biggest non-derivative market, is the lending and borrowing market. MakerDAO is the largest DeFi protocol by total value locked, approximately USD 18B. \[4].
 
 ### **3.** Alignment Across Markets
 
-The DeFi ecosystem, by definition is fragmented. Alignment is achieved through operation of arbitrageurs - speculators that are looking for extracting profit from misalignments in yields.
+The DeFi ecosystem, by definition is fragmented. Alignment is achieved through operation of arbitrageurs who profit by exploiting misalignments in yields.
 
 ### **4.** Goals
 
-Similarly there is no central point of control, hence no explicitly stated overarching goal. However, certain organizations are are willing to contribute to the long-term growth of DeFi industry. Given that banking existed for hundreds of years, it makes sense to assume that the best goals for DeFi are the same:
+In DeFi there is no central point of control, hence no explicitly stated goal. However, certain organizations are willing to contribute to the long-term growth of DeFi industry. Given that banking existed for hundreds of years, it makes sense to assume that the best goals for DeFi are the same:
 
-* Maximum employment of the DeFi community
-* Stable prices, including low inflation. Note that in DeFi inflation is different, it’s associated not with having more quantity of currency from one issuer but rather limited quantity from increasing number of issuers.
-* Long-term projects (usually related to infrastructure) supporting environment
+* Maximum employment of the DeFi community.
+* Stable prices, including low inflation. Note that in DeFi inflation is different. It is associated not with having more quantity of currency from one issuer but rather limited quantity from increasing number of issuers.
+* Long-term projects (usually related to infrastructure) supporting environment.
 
 ### **5.** Control
 
@@ -78,12 +78,12 @@ In general, interest rates are passively controlled by platform pre-built logic 
 
 Stable means of payment in crypto could be classified into the following categories \[5]:
 
-* Centralized Finance (CeFI) stablecoins - USDC, USDT, BUSD
-* DeFi stablecoins (fully backed by third party assets) - DAI
-* Algorithmic stablecoins - UST, FRAX, FEI (different to others as they proactively control supply and demand like Fed)
-* Algorithmic stableassets - RAI
+* **Centralized Finance (CeFI) stablecoin**, e.g., USDC, USDT, BUSD.
+* **DeFi stablecoins** (fully backed by third party assets), e.g., DAI.
+* **Algorithmic stablecoins** (different to others as they proactively control supply and demand like Fed), e.g., UST, FRAX, FEI.
+* **Algorithmic stableassets**, e.g., RAI.
 
-Also, it could be the biggest native blockchain tokens like ETH, SOL or AVAX. These tokens have an additional utility of being able to be used as gas payment on the associated chains. On the other hand, their disadvantage is that the market price to fiat is volatile. Since the real economy is based on "stable" fiat money, market price volatility represents a significant source of risk.
+Another option could be the biggest native blockchain tokens like ETH, SOL or AVAX. These tokens have an additional utility of being able to be used as gas payment on the associated chains. On the other hand, their disadvantage is that the market price (in fiat) is volatile. Since the real economy is based on "stable" fiat money, market price volatility represents a significant source of risk.
 
 ### **7.**  Tenor and Counterparty
 
