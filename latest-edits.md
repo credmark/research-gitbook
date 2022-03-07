@@ -8,6 +8,8 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### ANALYTICS
 
+{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/tvl-methodology-1.0" %}
+
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/sharpe-ratio-in-defi" %}
 
 ## February 2022
