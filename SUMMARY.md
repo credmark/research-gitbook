@@ -56,7 +56,7 @@
     * [🚀 Account level data for USDC and USDT](analytics/data/modeling/account-level-data-for-usdc-and-usdt.md)
     * [Correlation/Covariance Matrix](analytics/data/modeling/correlation-covariance-matrix.md)
     * [🚀 Minimum Risk Rate of DeFi](analytics/data/modeling/risk-free-rate.md)
-    * [TVL Methodology](analytics/data/modeling/tvl-methodology.md)
+    * [TVL Methodology 1.0](analytics/data/modeling/tvl-methodology-1.0.md)
     * [Discounted Cashflow Modeling](analytics/data/modeling/discounted-cashflow-modeling.md)
     * [APY / APR](analytics/data/modeling/apy-apr.md)
     * [TWAP / VWAP](analytics/data/modeling/twap-vwap.md)

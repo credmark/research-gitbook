@@ -28,7 +28,7 @@ _Since TVL is calculated in $ and assuming 1 ETH = $3000, we can say his TVL dro
 
 ## TVL Modelling
 
-A detailed analysis for the Data modeling can be found [here](../../data/modeling/tvl-methodology.md).
+A detailed analysis for the Data modeling can be found [here](../../data/modeling/tvl-methodology-1.0.md).
 
 ## References:
 

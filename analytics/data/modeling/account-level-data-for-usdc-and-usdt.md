@@ -77,7 +77,7 @@ Below charts show the distribution of balances in USDT and USDC among the 100 ho
 
 ![Balances in top Accounts of USDT](<../../../.gitbook/assets/image (1).png>)
 
-![Balances in top Accounts of USDC](<../../../.gitbook/assets/image (10).png>)
+![Balances in top Accounts of USDC](<../../../.gitbook/assets/image (10) (1).png>)
 
 ### Historical Transactions vs. Active Days
 

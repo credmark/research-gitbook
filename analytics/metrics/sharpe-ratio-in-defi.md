@@ -14,7 +14,7 @@ Using the Sharpe ratio as part of your fundamental analysis strategy helps to pr
 
 Sharpe ratio is defined as:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Sharpe ratio can be also used to construct or analyse performance of a portfolio.
 
@@ -40,7 +40,7 @@ Figure 1 provides an analysis of monthly returns for 23 DeFi tokens sampled over
 
 Figure 2 - for fortnightly returns
 
-![Figure 2](<../../.gitbook/assets/image (8) (1).png>)
+![Figure 2](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 Figure 3 - for weekly returns
 
