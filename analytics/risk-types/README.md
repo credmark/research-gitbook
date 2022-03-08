@@ -1,3 +1,2 @@
 # Risk types
 
-Coming soon...
