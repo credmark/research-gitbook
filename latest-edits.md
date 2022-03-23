@@ -12,6 +12,10 @@ description: Find below the latest updates to articles in the Risk Library
 
 {% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/sharpe-ratio-in-defi" %}
 
+### DEFI PROTOCOL TAXONOMY
+
+{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/yield-aggregators/yearn-finance" %}
+
 ## February 2022
 
 ### RISK INSIGHTS
