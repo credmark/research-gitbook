@@ -1,7 +1,3 @@
----
-description: By Rahul Kanojia and Shivam Garg, 17 January 2022
----
-
 # Curve Finance
 
 The easiest way to understand Curve is to see it as an exchange. Its main goal is to let users and other decentralized protocols exchange stablecoins (DAI to USDC for example) with low fees and low slippage. Unlike centralized exchanges that match a buyer and a seller, the behavior of Curve is different as it uses liquidity pools like Uniswap. To achieve this, Curve needs liquidity (tokens) and rewards those who provide it \[1].

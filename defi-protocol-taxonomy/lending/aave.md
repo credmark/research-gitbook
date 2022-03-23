@@ -1,7 +1,3 @@
----
-description: By Rahul Kanojia and Shivam Garg, 14 January 2022
----
-
 # Aave
 
 Aave is an open-source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.

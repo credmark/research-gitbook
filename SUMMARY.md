@@ -5,8 +5,11 @@
   * [What is the Risk Library?](introduction/what-is-the-risk-library.md)
   * [Why should I contribute to the Risk Library?](introduction/why-should-i-contribute-to-the-risk-library.md)
   * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
-* [Latest Edits](latest-edits.md)
-* [Glossary](glossary.md)
+
+## Resources
+
+* [Latest Edits](resources/latest-edits.md)
+* [Glossary](resources/glossary.md)
 * [Risk Insights](https://docs.credmark.com/risk-insights/)
 
 ## Analytics
