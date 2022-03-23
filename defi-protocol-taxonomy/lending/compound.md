@@ -1,7 +1,3 @@
----
-description: By Shivam Garg, 20 January 2022
----
-
 # Compound
 
 Compound is a decentralized protocol which establishes money markets with algorithmically set interest rates based on supply and demand, allowing users to frictionlessly exchange the time value of Ethereum assets.To achieve this The interest rate is set and updated every 10 seconds depending on the supply and demand of a specific asset \[1].
