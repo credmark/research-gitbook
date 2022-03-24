@@ -124,7 +124,7 @@ The Yearn ecosystem is controlled by YFI token holders who submit and vote on of
 
 &#x20;  No layers are upstream
 
-* **What layers are downstream (protocols/assets built on or put into the platform). For example, yield farms are built on top of lending protocols**
+* **What layers are downstream (protocols/assets put into the platform). For example, yield farms are built on top of lending protocols**
 
 &#x20;Yearn makes use heavily of Curve / Convex pools (especially on Ethereum Mainnet) for their Vault strategies, so any issue with Curve / Convex will float through to Yearn as well.
 
