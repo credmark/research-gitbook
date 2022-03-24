@@ -14,6 +14,8 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### DEFI PROTOCOL TAXONOMY
 
+{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/staking/lido" %}
+
 {% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/yield-aggregators/yearn-finance" %}
 
 ## February 2022
