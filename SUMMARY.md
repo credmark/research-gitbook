@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
   * [What is Credmark?](introduction/what-is-credmark.md)
-  * [What is the Risk Library?](introduction/what-is-the-risk-library.md)
-  * [Why should I contribute to the Risk Library?](introduction/why-should-i-contribute-to-the-risk-library.md)
-  * [How can I contribute to the Risk Library?](introduction/how-can-i-contribute-to-the-risk-library.md)
+  * [What is the Credmark Wiki?](introduction/what-is-the-credmark-wiki.md)
+  * [Why should I contribute to the Credmark Wiki?](introduction/why-should-i-contribute-to-the-credmark-wiki.md)
+  * [How can I contribute to the Credmark Wiki?](introduction/how-can-i-contribute-to-the-credmark-wiki.md)
 
 ## Resources
 

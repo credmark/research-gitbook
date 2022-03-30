@@ -1,7 +1,7 @@
 # What is Credmark?
 
-Credmark is a community-driven project that connects data providers, risk modelers and DeFi users. Our mission is to build a risk ecosystem powered by reliable data, original research, and an engaged community reducing risk for everyone.
+Credmark is a decentralized project that connects model creators, validators, data consumers, and protocol governors.
 
-This ecosystem is build upon three pillars, the Data Platform, the Risk Library, and the Risk Platform.
+This ecosystem is built upon three pillars, the Data API, the Credmark Wiki, and the Credmark Platform.
 
-![](<../.gitbook/assets/Bildschirmfoto 2022-01-26 um 10.21.42.png>)
+![Credmark Ecosystem](../.gitbook/assets/Graph.png)

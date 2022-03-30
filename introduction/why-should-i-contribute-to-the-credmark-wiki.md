@@ -1,4 +1,4 @@
-# Why should I contribute to the Risk Library?
+# Why should I contribute to the Credmark Wiki?
 
 Understanding and quantifying risk in DeFi is important.&#x20;
 
@@ -9,9 +9,9 @@ If you:
 1. agree that understanding and quantifying risk in DeFi is important, and
 2. have a background in DeFi, traditional finance, or risk,
 
-you should consider contributing to the Risk Library.&#x20;
+you should consider contributing to the Credmark Wiki.&#x20;
 
-Credmark rewards high-quality contributions, but we hope you won't just do it for the $CMK. This is a community-wide effort to improve the state of DeFi. If you can help, please join us.
+Credmark rewards high-quality contributions, but we hope you won't just do it for the $CMK. This is a community-wide effort to improve the state of DeFi. Join us in building the next generation financial systems.&#x20;
 
 ## Contributors
 

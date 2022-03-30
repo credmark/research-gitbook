@@ -4,4 +4,4 @@ The DeFi Protocol Taxonomy will contain detailed information about Tokens, Proto
 
 ## Contributions
 
-To contribute to this section of the Risk Library, see our [How To Guide](../introduction/how-can-i-contribute-to-the-risk-library.md#how-to).
+To contribute to this section of the Risk Library, see our [How To Guide](../introduction/how-can-i-contribute-to-the-credmark-wiki.md#how-to).
