@@ -103,6 +103,7 @@
   * [Memecoins](defi-protocol-taxonomy/tokens/memecoins.md)
 * [Lending](defi-protocol-taxonomy/lending/README.md)
   * [Aave](defi-protocol-taxonomy/lending/aave.md)
+  * [Maker DAO](defi-protocol-taxonomy/lending/maker-dao.md)
   * [Compound](defi-protocol-taxonomy/lending/compound.md)
   * [Abracadabra](defi-protocol-taxonomy/lending/abracadabra.md)
   * [Maple Finance](defi-protocol-taxonomy/lending/maple-finance.md)
