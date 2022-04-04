@@ -4,6 +4,12 @@ description: Find below the latest updates to articles in the Risk Library
 
 # Latest Edits
 
+## April 2022
+
+### DEFI PROTOCOL TAXONOMY
+
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/lending/maker-dao" %}
+
 ## March 2022
 
 ### ANALYTICS
