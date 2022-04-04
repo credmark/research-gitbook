@@ -1,5 +1,5 @@
 ---
-description: Find below the latest updates to articles in the Risk Library
+description: Find below the latest updates to articles in the Credmark Wiki.
 ---
 
 # Latest Edits
@@ -14,15 +14,15 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### ANALYTICS
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/tvl-methodology-1.0" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/tvl-methodology-1.0" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/sharpe-ratio-in-defi" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/metrics/sharpe-ratio-in-defi" %}
 
 ### DEFI PROTOCOL TAXONOMY
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/staking/lido" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/staking/lido" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/yield-aggregators/yearn-finance" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/yield-aggregators/yearn-finance" %}
 
 ## February 2022
 
@@ -34,32 +34,32 @@ description: Find below the latest updates to articles in the Risk Library
 
 ### ANALYTICS&#x20;
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-usdc-and-usdt" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/account-level-data-for-usdc-and-usdt" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/aave-data-discrepancy" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/methodologies/aave-data-discrepancy" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/market-data-issue-techniques" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/methodologies/market-data-issue-techniques" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/on-chain-gas-fees-eth" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/methodologies/on-chain-gas-fees-eth" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/methodologies/on-chain-market-data" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/methodologies/on-chain-market-data" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/apy-apr" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/apy-apr" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/account-level-data-for-lending-protocols-aave-and-compound" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/metrics/value-at-risk-var/how-to-model-var" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/metrics/value-at-risk-var/how-to-model-var" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/correlation-covariance-matrix" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/correlation-covariance-matrix" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/minimum-risk-rate-of-defi" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/minimum-risk-rate-of-defi" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3" %}
 
 ### DEFI PROTOCOL TAXONOMY
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/indexes/index-products/data" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/indexes/index-products/data" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/lending/abracadabra" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/lending/abracadabra" %}
 
-{% embed url="https://docs.credmark.com/credmark-risk-library/defi-protocol-taxonomy/dexes/uniswap/uniswap-v3" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/dexes/uniswap/uniswap-v3" %}
