@@ -162,3 +162,11 @@ All the relevant smart contracts can be found [here](https://daistats.com/#/addr
 16. DaiStats, https://daistats.com/#/addresses
 17. A Guide to MakerDao and Dai, https://academy.binance.com/en/articles/a-guide-to-makerdao-and-dai
 18. MakerDAO feeds, https://developer.makerdao.com/feeds/
+
+## Contributors
+
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| rlrahulkanojia | 0x784aBff44f2F3bB7c46B789789f3C6552636F4F5 | 0 $CMK (internal) | Original version |
+
+&#x20;
