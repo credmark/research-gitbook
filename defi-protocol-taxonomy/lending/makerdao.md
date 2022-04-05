@@ -1,4 +1,4 @@
-# Maker DAO
+# MakerDAO
 
 MakerDAO is a Decentralized Finance (DeFi) project with a crypto-collateralized stablecoin, called  DAI, that is aims to hold a 1:1 peg to the US dollar. Its community manages the protocol and the token via a Decentralized Autonomous Organization (DAO).
 
