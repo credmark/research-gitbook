@@ -8,7 +8,7 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 ### DEFI PROTOCOL TAXONOMY
 
-{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/lending/maker-dao" %}
+{% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/lending/makerdao" %}
 
 ## March 2022
 
@@ -32,7 +32,7 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 {% embed url="https://docs.credmark.com/risk-insights/research/time-wonderland-fiasco-and-behavioral-analysis-of-0xsifus-wallet" %}
 
-### ANALYTICS&#x20;
+### ANALYTICS
 
 {% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/modeling/account-level-data-for-usdc-and-usdt" %}
 

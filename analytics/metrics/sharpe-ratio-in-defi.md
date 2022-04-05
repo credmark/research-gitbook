@@ -14,7 +14,7 @@ Using the Sharpe ratio as part of your fundamental analysis strategy helps to pr
 
 Sharpe ratio is defined as:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Sharpe ratio can be also used to construct or analyse performance of a portfolio.
 
@@ -69,7 +69,7 @@ Recommended parameterization for using Sharpe Ratio in DeFi is:
 
 &#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 [Minimum risk rate methodology is covered in a separate document](../data/modeling/risk-free-rate.md). Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate. 6 months sampling period is also supported by newly minted tokens not having sufficient historical data.
 

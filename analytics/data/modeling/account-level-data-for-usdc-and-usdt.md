@@ -63,7 +63,7 @@ The simple takeaway is that USDC is more concentrated held by large holders than
 
 The below chart shows cross-holder's balance in both USDT/USDC, ordered by the sum of amount in both USDT/USDC.
 
-![Balance of USDT and USDC in cross holders (order by sum of USDT and USDC)](<../../../.gitbook/assets/image (11) (1).png>)
+![Balance of USDT and USDC in cross holders (order by sum of USDT and USDC)](<../../../.gitbook/assets/image (2).png>)
 
 ### Distribution of Holding
 
@@ -97,7 +97,7 @@ We could categorized the **A group** as a **cold holder s**(large balance, seldo
 
 The distribution of active days show a bi-polar pattern. With more holders with <10 transaction over the 312-day period.
 
-![](<../../../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Account balance over time
 
