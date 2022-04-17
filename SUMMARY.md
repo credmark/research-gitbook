@@ -68,6 +68,8 @@
     * [🚀 VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
   * [Procedures](analytics/data/procedures.md)
+* [Aave & Compound Interest Rates](analytics/aave-and-compound-interest-rates.md)
+* [Uniswap APR](analytics/uniswap-apr.md)
 
 ## Frameworks
 
@@ -76,6 +78,7 @@
 * [Treasury](frameworks/treasury/README.md)
   * [Treasury Management for DAOs](frameworks/treasury/treasury-management-for-daos/README.md)
     * [Credmark Treasury Management Cycle I](frameworks/treasury/treasury-management-for-daos/credmark-treasury-management-cycle-i.md)
+  * [Investment Opportunities Platform Research](frameworks/treasury/investment-opportunities-platform-research.md)
 * [Insurance](frameworks/insurance.md)
 
 ## DeFi Protocol Taxonomy
