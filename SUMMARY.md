@@ -78,7 +78,7 @@
 * [Treasury](frameworks/treasury/README.md)
   * [Treasury Management for DAOs](frameworks/treasury/treasury-management-for-daos/README.md)
     * [Credmark Treasury Management Cycle I](frameworks/treasury/treasury-management-for-daos/credmark-treasury-management-cycle-i.md)
-  * [Investment Opportunities Platform Research](frameworks/treasury/investment-opportunities-platform-research.md)
+  * [Overview of Investment Platforms](frameworks/treasury/overview-of-investment-platforms.md)
 * [Insurance](frameworks/insurance.md)
 
 ## DeFi Protocol Taxonomy

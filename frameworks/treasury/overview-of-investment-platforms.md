@@ -1,27 +1,23 @@
-# Investment Opportunities Platform Research
+# Overview of Investment Platforms
 
 ## Executive Summary <a href="#docs-internal-guid-fbcff4a5-7fff-5347-72f0-4b68f2ab781a" id="docs-internal-guid-fbcff4a5-7fff-5347-72f0-4b68f2ab781a"></a>
 
 This document lists down some of the existing protocols that are being used by Liquidity Providers to collectively invest and manage their positions in the field of DeFi, be it lending and borrowing assets on Aave and Compound or providing liquidity in protocols like Uniswap V2 and V3 to earn transaction fees. \
 
 
-## dHedge
+## Platforms
+
+### dHedge
 
 [https://app.dhedge.org/](https://app.dhedge.org)
 
-
-
 ​dHEDGE is a one-stop location for managing investment activities on-chain where you can put your capital to work in different strategies based on a transparent track record
-
-
 
 Managers create pools through the dHEDGE factory. Each pool is its own contract.
 
 Managers may have public pools allowing anyone to become an investor. Managers may also have private pools which allow only whitelisted investors to invest.
 
 Managers can use active management strategies, algorithmic strategies, or invest in other pools on dHEDGE. Automated strategies are possible with the [dHEDGE SDK](https://docs.dhedge.org/developers/developers).
-
-
 
 When an investor deposits into a dHEDGE pool, they are issued pool tokens, which represent their share of the assets under management (AUM) for a given pool.
 
@@ -55,9 +51,7 @@ Investors can view and compare the pools managed by value managed, returns, rewa
 
 ![](https://lh3.googleusercontent.com/em6EKVYO509j2ql0EyPZgOdVMueUTX6eFHNK6GMKJ11vRk7VRj8zZfJoQVjPmB3rlOdw2LFYVSBo\_yKzcZVIZQ0tVLXQHVpQlNDkP0mHnseWaKUjYizpb0VUHWsYOdWC8rahIQRe)
 
-
-
-### Breakdown
+#### Breakdown
 
 Almost all top strategies in dHedge have a green 1 year return with some reaching as high as 800%
 
@@ -68,9 +62,9 @@ Almost all top strategies in dHedge have a green 1 year return with some reachin
 
 dHedge is not limited to just providing liquidity and instead can be collectively used with other protocols such as lending protocols, AMMs giving high returns.
 
-### We will be breaking down the strategy with the Highest Value Managed on dHedge ,i.e,&#x20;
+We will be breaking down the strategy with the Highest Value Managed on dHedge.
 
-#### [dHEDGE Stablecoin Yield](https://app.dhedge.org/pool/0xbae28251b2a4e621aa7e20538c06dee010bc06de)
+[dHEDGE Stablecoin Yield](https://app.dhedge.org/pool/0xbae28251b2a4e621aa7e20538c06dee010bc06de)
 
 This strategy is managed by dHedge itself and is the strategy with highest value managed close to $2.4 million with 139 unique investors.
 
@@ -86,7 +80,7 @@ The pool can have exposure to FRAX, USDC, DAI, USDT. These get added as liquidit
 
 Investments are also covered by InsurAce for certain types of hacks.
 
-## Charm Finance (Alpha Vaults)
+### Charm Finance (Alpha Vaults)
 
 [https://charm.fi/](https://charm.fi)
 
@@ -109,29 +103,22 @@ Track record of every vault in Alpha Vaults can be viewed by following this [lin
 
 ![](https://lh3.googleusercontent.com/F2Bn3ziboh6dTYRpYqojD-YKQpZxu0ALqnGj66CA4K55QoyVpn1ddXs9FY4mRPsmhCZ91ZMHjy9WbQkVMjc0X1HVrIbdEL8tmUbFrkPnzRhXIKll61lJzJOUXNe7RKa84nq0CU\_V)
 
-### Breakdown
+#### Breakdown
 
 There are five vaults deployed on Alpha Vaults for providing liquidity on Uniswap V3 with only three active vaults for the most active liquidity pools,i.e., ETH/USDT, ETH/USDC and WBTC/USDC.
 
 WBTC/USDC vault has a TVL of $3.5 million with only 42.6% of capital used.
 
-WETH/USDC vault has a TVL of $4 million with only 27.2% of capital used while WETH/USDC vault has a TVL of $1.6 million with only 27.2% of capital used
-
-\
+WETH/USDC vault has a TVL of $4 million with only 27.2% of capital used while WETH/USDC vault has a TVL of $1.6 million with only 27.2% of capital used\
 
 
 ![](https://lh3.googleusercontent.com/0kiEQmCZoDOOyCaBTi0B1NjlVooLByU9L0qur1aXU2g1HQ-0z7VB7kzVf8yuZkn-3eyKNNVY\_69mYbzUno8Q9VNCKomvz8TGflFqc3Hz5DUj-FhqM62-sWBOOxYtgL258ynP-mv4)
 
-\
+Lets’ break down the vault with Highest TVL on Alpha Vaults.
 
-
-Lets’ breakdown the vault with Highest TVL on Alpha Vaults ,i.e.,
-
-#### [WBTC / USDC Alpha Vault](https://alpha.charm.fi/vault/0xBD7c6D2edE836b6b27C461799c4e9ecB8F4e8A66)
+[WBTC / USDC Alpha Vault](https://alpha.charm.fi/vault/0xBD7c6D2edE836b6b27C461799c4e9ecB8F4e8A66)
 
 This is the strategy with the highest TVL on Alpha Vaults approximately $2.8 million with 2:1 WBTC to USDC ratio.
-
-
 
 Alpha Vaults doesn’t show the APY for any vault on its dashboard but this vault claims to automatically manage liquidity on Uniswap V3 for you.
 
@@ -143,7 +130,7 @@ By using a passive rebalancing strategy to rebalance its inventory, it avoids pa
 
 This vault has currently two active positions in Uniswap V3 with base order between 29345 - 60648 and limit order on 42313 - 47708
 
-## Lixir Finance
+### Lixir Finance
 
 [https://lixir.finance/](https://lixir.finance)
 
@@ -157,18 +144,17 @@ The performance fees collected by the protocol is not listed and vary for vaults
 
 Lixir only supports five top assets and is also devoid of using layer two networks such as Polygon to reduce high gas fees rebalances.
 
-### Breakdown
+#### Breakdown
 
-Currently 6 pools and strategies are deployed on lizir finance with APY reaching as high as 292% with TVL of $80k in its toop pool of WBTC/WETH.
+Currently, 6 pools and strategies are deployed on Lixir finance with APY reaching as high as 292% with TVL of $80k in its toop pool of WBTC/WETH.
 
 ![](https://lh6.googleusercontent.com/0hfCyVg3KyDi373sKOpG-PyhTNdAeN5TRewIV1y8h0qc0uzRIdwIyOOI6BT9D-n-SBQxItV2nm4VecAsor1XVwM9XZ0fTQJoiH5beCl7JzO6-VGuJp07gpbf6EhcH9ofGmGFZP2Q)
 
-## Visor Finance
+### Visor Finance
 
 [https://www.visor.finance/](https://www.visor.finance)
 
-Visor describes itself as tooling for active liquidity management on concentrated liquidity AMM's such as Uniswap v3. Visor developed a series of smart contracts and management infrastructure used by managers and market makers. Visor has merged with Gamma Strategies\
-
+Visor describes itself as tooling for active liquidity management on concentrated liquidity AMM's such as Uniswap v3. Visor developed a series of smart contracts and management infrastructure used by managers and market makers. Visor has merged with Gamma Strategies
 
 The published data and analytics dashboards can be found on [Dune Dashboards](https://dune.xyz/gammastrategies) an
 
@@ -183,7 +169,7 @@ Visor Finance has more than $10+ million in active liquidity with $6.87 million 
 
 ![](https://lh3.googleusercontent.com/yAdadTAgfE2tb8GeNi6ec3k5w18A7kN17bbH6zCD2fgwyNxsud4WspeYzIr\_h-p8zSLpAE1hNp7AbgqD2pQEcQBKBbcO4p-Rauh2YEdKxT3knWy7DBOHhe0VopkBYMMGSrbbTM2o)
 
-### Breakdown
+#### Breakdown
 
 Visor finance have provided with an average fee-based APR of 25% for its GAMMA token.
 
@@ -191,7 +177,7 @@ Visor finance have provided with an average fee-based APR of 25% for its GAMMA t
 
 ![](https://lh3.googleusercontent.com/bGu22tfRZcGKqC8u42oQkTSg5Y9VT8IvOu6ympN\_zFhN2BTezXEI8jbbqh56gCx8x8o87Emz\_aesHjXA9ji-WzUFlULjuLbSZa5VuWf2qv-YVQsfdvqAzenYyRwEmhwHQvvmEwf7)
 
-## Aloe Capital(Blend Vaults)
+### Aloe Capital(Blend Vaults)
 
 [https://aloe.capital/](https://aloe.capital)
 
@@ -207,13 +193,13 @@ Aloe Capital’s Blend vaults tackle a different approach from other “concentr
 
 ![](https://lh5.googleusercontent.com/8lZ-QhENrJE1TZHQvjcooLJuEpAZl-JJoNUEE0JF\_vSGwvEjSnhMyiE5DIdfcZYrimaUjZ1oyIppr-AQ5Sg70MKz3\_hgzLNcL4sKWJ96nbMDLV3mGDfK5ZcNk76FEJPyz85m69Af)
 
-### Breakdown
+#### Breakdown
 
 There are five strategies deployed on Aloe capital for five different pools with average APY of 10% just for deploying the liquidity in Uniswap V3 as we did in V2 and investing the other amount of token elsewhere.
 
 ![](https://lh5.googleusercontent.com/dpG2VtfmKrZmRdVieciR-PsBBF5XyJKgjRjROxP2qwpL5tbpxZFXZ8OGdl6hP5Qv6dAXPEXPej5FY4m1507fELBcwTu2oC1CqYF-IyilDfyBiTJlxMZzDgWo0QZm-pjAI\_0IHH4v)
 
-## Universe Finance
+### Universe Finance
 
 [https://www.universe.finance/](https://www.universe.finance)
 
@@ -233,15 +219,13 @@ It can be accessed from this [link](https://www.universe.finance/backtest?q=0x8a
 
 ![](https://lh4.googleusercontent.com/41bON7idhqsFge6txc3VUgv5WOuKwqgvaS-rQh3zZYDWT4vA58gfNLFyPJ8BpOeBxn\_AXzMQvUEMRjwp6ZaT5mqCLue16vviPHBG9niZVVZ\_S5SXxEEwPF3r\_7USP\_JrF8eorhj4)
 
-
-
 Universe Finance has $4+ million in active liquidity while over $2+ million in fees collected till now.
 
 ![](https://lh3.googleusercontent.com/KzrQ\_lFpvYBUv5qeptBVv3M36IVe0-wT9lASJPa3EPLgHyV2cy458q6AyoizGHsF2lYjJzOujsKTkp9P4Y\_-iXvZm4RfIkJZSJopbuIig3nUASwxwSh5XEnLJ3zLKULmf8PSbcyy)
 
 Universe Finance too doesn't allow managers to create a pool and strategy for investors.
 
-### Breakdown
+#### Breakdown
 
 There are several vaults deployed on Universe finance smart vaults, some even with 4 digit APY.
 
@@ -260,8 +244,6 @@ Lixir Finance and Visor Finance are too complicated to use because of their UI, 
 Alpha Vaults only supports Accumulated Liquidity Providing on Uniswap V3 with only 5 strategies and also doesn’t display the metrics like APR on its dashboard to distinguish between the different choices.
 
 dHedge emerges as the winner out of all these protocols with services such as providing liquidity to AMMs and with lending protocols simultaneously, easy to use UI, presence of existing different strategies with completely different approaches and risk appetite of investors, transparent activities’ record and various metrics for each strategy like risk factor, performance APR for different time-frames and much more.
-
-
 
 ### Contributors
 
