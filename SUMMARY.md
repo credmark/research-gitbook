@@ -55,6 +55,7 @@
     * [On-chain Intraday price aggregator](analytics/data/methodologies/on-chain-intraday-price-aggregator.md)
     * [🚀 On-chain Gas fees (ETH)](analytics/data/methodologies/on-chain-gas-fees-eth.md)
     * [Aave Data Discrepancy](analytics/data/methodologies/aave-data-discrepancy.md)
+    * [Aave and Compound Interest Rates Offchain Data Sourcing](analytics/data/methodologies/aave-and-compound-interest-rates-offchain-data-sourcing.md)
   * [Modeling](analytics/data/modeling/README.md)
     * [On-chain Intra-day Price Aggregator (High Precision)](analytics/data/modeling/on-chain-intra-day-price-aggregator-high-precision.md)
     * [🚀 Account level data for USDC and USDT](analytics/data/modeling/account-level-data-for-usdc-and-usdt.md)
@@ -68,7 +69,6 @@
     * [🚀 VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
   * [Procedures](analytics/data/procedures.md)
-* [Aave and Compound Interest Rates Offchain Data Sourcing](analytics/aave-and-compound-interest-rates-offchain-data-sourcing.md)
 * [Uniswap APR](analytics/uniswap-apr.md)
 
 ## Frameworks
