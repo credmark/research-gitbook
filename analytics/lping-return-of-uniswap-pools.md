@@ -1,14 +1,14 @@
-# Uniswap APR
+# LPing Return of Uniswap Pools
 
 ## Executive Summary <a href="#docs-internal-guid-becf5aa2-7fff-246f-1f36-cc8009afdf4c" id="docs-internal-guid-becf5aa2-7fff-246f-1f36-cc8009afdf4c"></a>
 
-Liquidity Providers(LP) have always suffered from finding out the real-time APR they get in returns for providing liquidity in an Uniswap Pool. This became more complicated with the launch of Uniswap V3 and mostly with their concept of concentrated liquidity.
+Liquidity Providers (LP) have always suffered from finding out the real-time annual percentage rate (APR) they get in return for providing liquidity in an Uniswap Pool. This became more complicated with the launch of Uniswap V3 and mostly with their concept of concentrated liquidity.
 
 This document lists and explains the method to calculate the real-time APR of a position in liquidity pools on Uniswap V2 and Uniswap V3, even factoring in Impermanent Loss and Gas Fees.
 
-APR is calculated in dollar value, i.e., how much return an user is getting in dollars compared to the amount of initial capital in dollars.
+APR is calculated in dollar value, i.e., how much return a user is getting in dollars compared to the amount of initial capital in dollars.
 
-Sample code is also attached to help readers implement the method explained below.
+A sample code is also attached to help readers implement the method explained below.
 
 ## Uniswap V2 APR
 
