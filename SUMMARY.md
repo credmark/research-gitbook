@@ -42,6 +42,7 @@
   * [Total Value Locked (TVL)](analytics/metrics/total-value-locked-tvl/README.md)
     * [TVL of Abracadabra](analytics/metrics/total-value-locked-tvl/tvl-of-abracadabra.md)
   * [🚀 Sharpe Ratio in DeFi](analytics/metrics/sharpe-ratio-in-defi.md)
+  * [LPing Return of Uniswap Pools](analytics/metrics/lping-return-of-uniswap-pools.md)
 * [Model Implementation](analytics/model-implementation/README.md)
   * [Curve Finance Pools LQ Data](analytics/model-implementation/curve-finance-pools-lq-data.md)
   * [VaR for Uniswap V3 and V2 LP positions](analytics/model-implementation/var-for-uniswap-v3-and-v2-lp-positions.md)
@@ -69,7 +70,6 @@
     * [🚀 VaR of Liquidity Providing to Uniswap V2 and V3](analytics/data/modeling/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
     * [VaR of Liquidity Providing to Curve](analytics/data/modeling/var-of-liquidity-providing-to-curve.md)
   * [Procedures](analytics/data/procedures.md)
-* [LPing Return of Uniswap Pools](analytics/lping-return-of-uniswap-pools.md)
 
 ## Frameworks
 
