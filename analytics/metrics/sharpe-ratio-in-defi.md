@@ -1,5 +1,12 @@
 # 🚀 Sharpe Ratio in DeFi
 
+## **Version Control**
+
+| **Version** | **Change Summary**                    | **Author(s) (Discord Handle, ETH Address, Reward)**                                         | **Reviewer(s) (Discord Handle, ETH Address, Reward)**                                                                                                                                | **Submission Date** |
+| ----------- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| 1.0         | Created                               | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 1 March 2022        |
+| 2.0         | Change of recommended parametrization | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 20 April 2022       |
+
 ## Executive Summary
 
 With significant growth in return and the number of DeFi tokens, it’s important to make risk-weighted decisions. Sharpe ratio is a traditional measure of risk-adjusted returns, that allows the comparison of different assets and portfolios.
@@ -16,7 +23,7 @@ Sharpe ratio is defined as:
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-Sharpe ratio can be also used to construct or analyse performance of a portfolio.
+Sharpe ratio can be also used to construct or analyse the performance of a portfolio.
 
 Let’s consider an example: investment into Asset X provides an expected return of 5% per annum and a standard deviation of 3.5% per annum. Sharpe ratio given risk-free rate is 0.25% equals 1.36.
 
@@ -28,7 +35,7 @@ In traditional finance, the following decision making is applied when using Shar
 
 Hence Sharpe ratio of 1.36 is a good level for investment purposes.
 
-## Crypto Market
+## Crypto Market Environment
 
 Crypto markets are associated with abnormal returns and volatility.
 
@@ -61,33 +68,44 @@ In a tabular form top three DeFi tokens based on 3 months, 6 months, and yearly 
 
 &#x20;Most consistent results are produced by CRV, ETH, SOL, and LINK.
 
-Based on the quantitative and qualitative considerations, including historical data availability and the fast pace of changes in crypto markets, we’ve come up with the following parametrization that is seen as most appropriate.
-
 ## Sharpe Ratio Methodology
 
-Recommended parameterization for using Sharpe Ratio in DeFi is:
+Based on the quantitative and qualitative considerations, including historical data availability and fast pace of changes in crypto markets, Credmark recommends the following parametrization of Sharpe ratio:
 
 &#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+$$
+SharpeRatio_{CMK} = ((R_{ca}-R_{mrr})/\sigma(R_{ca})
+$$
 
-[Minimum risk rate methodology is covered in a separate document](../data/modeling/risk-free-rate.md). Time horizon and sampling parameters are selected for relatively short time frames due to the fast pace of innovation and nascency of the DeFi ecosystem. The rapid change in the environment of crypto markets might require more frequent rebalancing, so a two-week return appears more appropriate. 6 months sampling period is also supported by newly minted tokens not having sufficient historical data.
+, where:
 
-## Index Application
+$$R_{ca}$$ - mean of crypto asset ca scaled daily returns sampled over the period of last six months. Scaled daily return is defined as $$(P_t/P_{t-1}-1)*\sqrt{365}$$, using the square root of time rule \[3]. Daily returns are assumed to have i.i.d. property.
 
-The selected parameterization produces the following results as of 19 January 2022:
+$$R_{mrr}$$-minimum risk rate, which methodology is covered in a separate [report](../data/modeling/risk-free-rate.md).
 
-![Figure 5](<../../.gitbook/assets/image (9).png>)
+$$\sigma_{ca}$$-standard deviation of trailing $$R_{ca}$$ over the past six months.
 
-For example, the top Sharpe ratio is produced by CRV and equals to (12.65% - 2%/26) / 26.1% = 0.48.
+Six months investment horizon provides convenience across:&#x20;
 
-Although Sharpe ratio is a traditional measure, it’s important to understand it conceptually in light of all underlying assumptions and parameters.
+* Newly issued tokens that don’t necessarily have a sufficiently long history
+* A trade-off between being not too static and too volatile
 
-As can be seen, top DeFi assets show smaller Sharpe ratios in the current parametrization compared to traditional financial instruments, classified as “bad” investment. This is due to the high volatility of returns inherent in the crypto markets, in the example above its 26.1%. Most of the volatility is upside which is in fact beneficial for investors. Sharpe ratio is direction-agnostic so capturing the upside potential as a risk is a known limitation of the Sharpe ratio, which is addressed by the Sortino ratio. Sortino ratio (to be detailed in another article) is a better metric to use for higher risk investments and could be a better metric for DeFi in its nascency.
+### Application
 
-However, DeFi Sharpe ratios would improve and show better results than assets in TradFi once there is simply more history. In the example, the above-median fortnightly return is 12.65% which in annualized terms is 328%.
+The selected parameterization produces the following results for 100 top traded tokens as of 27 January 2022:
 
-Sharpe index is also a useful tool to compare DeFi tokens performance and construct an optimal risk-return portfolio. And Figure 5 is an example of such comparison as of 19 January 2022.
+![Figure 5 - Credmark recommended Sharpe Ratio for top traded 100 tokens as of 27 January 2022](https://lh6.googleusercontent.com/QgqTkInhH9Q8cvmw-3k3PvgX3I-zPHxcU4-Ixhuj7UOn2wWipE1eKQIHM-M2YlRV-EATFSVwQfJfYDRL9iG6JEFlkqtw-v42gwAGcWyofRKQl9vE\_tZ-UqWJivpUOuxB9kCibNU)
+
+Overall results are lower than 1 (“bad investment”) that is explained by the bear market started in December 2021. As of 27 January 2022, ETH is the token with the one of the highest Sharpe ratios, that equals to 0.093.
+
+Figure 6 shows ETH Sharpe ratio evolution in time since January 2019.
+
+![Figure 6 - Sharpe ratio of ETH token time-series](https://lh3.googleusercontent.com/Pn1fQDnpVsow4C-7IdNugoN6ChtLbW0h5PoDsj5anfSCthuOPOgBICROcBvqJxNrFNqExMnpA99c0IckAaaiyOYzgWjySRT9B0CxrowTPujpHzX9wbdgs0Bw26IA-\_yovQA8lpk)
+
+As can be seen its Sharpe ratio varied from 0 to 8 over the last two years. Majority of time it stayed above 1 (“good investment”).
+
+ETH Sharpe index declined by 4 points from December 2021 to January 2022 that coincided with the beginning of the bear market. The drop is equivalent to May 2021 crash when it decreased from 5 to 1 over the span of two months.
 
 ## References
 
@@ -95,9 +113,5 @@ Sharpe index is also a useful tool to compare DeFi tokens performance and constr
    [https://en.wikipedia.org/wiki/Sharpe\_ratio](https://en.wikipedia.org/wiki/Sharpe\_ratio)
 2. Business Insider, accessed on 24 February 2022\
    [https://www.businessinsider.com.au/sharpe-ratio?r=US\&IR=T](https://www.businessinsider.com.au/sharpe-ratio?r=US\&IR=T)&#x20;
-
-## Contributors
-
-| Discord Handle    | ETH Address                                    | Reward           | Contribution     |
-| ----------------- | ---------------------------------------------- | ---------------- | ---------------- |
-| **atulemis#0983** | **0x5fb7584838fB467e90bb8a1df3a278482e34E856** | 0 CMK (internal) | Original version |
+3. On time-scaling of risk and the square-root-of-time rule, accessed on 15 April 2022\
+   [https://www.sciencedirect.com/science/article/abs/pii/S0378426606000070](https://www.sciencedirect.com/science/article/abs/pii/S0378426606000070)
