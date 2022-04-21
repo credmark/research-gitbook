@@ -1,12 +1,5 @@
 # 🚀 Sharpe Ratio in DeFi
 
-## **Version Control**
-
-| **Version** | **Change Summary**                    | **Author(s) (Discord Handle, ETH Address, Reward)**                                         | **Reviewer(s) (Discord Handle, ETH Address, Reward)**                                                                                                                                | **Submission Date** |
-| ----------- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| 1.0         | Created                               | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 1 March 2022        |
-| 2.0         | Change of recommended parametrization | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 20 April 2022       |
-
 ## Executive Summary
 
 With significant growth in return and the number of DeFi tokens, it’s important to make risk-weighted decisions. Sharpe ratio is a traditional measure of risk-adjusted returns, that allows the comparison of different assets and portfolios.
@@ -115,3 +108,10 @@ ETH Sharpe index declined by 4 points from December 2021 to January 2022 that co
    [https://www.businessinsider.com.au/sharpe-ratio?r=US\&IR=T](https://www.businessinsider.com.au/sharpe-ratio?r=US\&IR=T)&#x20;
 3. On time-scaling of risk and the square-root-of-time rule, accessed on 15 April 2022\
    [https://www.sciencedirect.com/science/article/abs/pii/S0378426606000070](https://www.sciencedirect.com/science/article/abs/pii/S0378426606000070)
+
+## **Version Control**
+
+| **Version** | **Change Summary**                    | **Author(s) (Discord Handle, ETH Address, Reward)**                                         | **Reviewer(s) (Discord Handle, ETH Address, Reward)**                                                                                                                                | **Submission Date** |
+| ----------- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| 1.0         | Created                               | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 1 March 2022        |
+| 2.0         | Change of recommended parametrization | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>Harri Tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>JeSuisCollier#0315,<br>0x2588B6be7A132e137Be9A6f08eB09C359688b150,<br>0 CMK (internal)</p> | 20 April 2022       |
