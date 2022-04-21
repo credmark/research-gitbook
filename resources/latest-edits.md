@@ -6,6 +6,18 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 ## April 2022
 
+### ANALYTICS
+
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/metrics/sharpe-ratio-in-defi" %}
+
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/data/methodologies/aave-and-compound-interest-rates-offchain-data-sourcing" %}
+
+{% embed url="https://docs.credmark.com/credmark-wiki/analytics/metrics/lping-return-of-uniswap-pools" %}
+
+### FRAMEWORKS
+
+{% embed url="https://docs.credmark.com/credmark-wiki/frameworks/treasury/overview-of-investment-platforms" %}
+
 ### DEFI PROTOCOL TAXONOMY
 
 {% embed url="https://docs.credmark.com/credmark-wiki/defi-protocol-taxonomy/lending/makerdao" %}
