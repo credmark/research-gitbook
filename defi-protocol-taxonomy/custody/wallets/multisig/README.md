@@ -1,3 +1,0 @@
-# Multisig
-
-Coming soon...

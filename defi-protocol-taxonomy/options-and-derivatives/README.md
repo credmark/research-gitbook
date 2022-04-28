@@ -1,3 +1,0 @@
-# Options and Derivatives
-
-Coming soon...

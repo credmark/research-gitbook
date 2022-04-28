@@ -1,3 +1,0 @@
-# Boba Network
-
-Coming soon...

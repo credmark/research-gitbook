@@ -1,3 +1,0 @@
-# BarnBridge
-
-Coming soon...

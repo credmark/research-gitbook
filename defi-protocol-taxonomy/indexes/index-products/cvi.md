@@ -1,3 +1,0 @@
-# CVI
-
-Coming soon...

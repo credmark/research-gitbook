@@ -1,3 +1,0 @@
-# Intraday VaR
-
-Coming soon...

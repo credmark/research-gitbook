@@ -1,3 +1,0 @@
-# Index protocols
-
-Coming soon...

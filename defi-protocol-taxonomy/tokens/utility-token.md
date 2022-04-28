@@ -1,4 +1,0 @@
-# Utility Token
-
-Coming soon...
-

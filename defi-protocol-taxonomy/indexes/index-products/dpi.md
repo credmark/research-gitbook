@@ -1,3 +1,0 @@
-# DPI
-
-Coming soon...

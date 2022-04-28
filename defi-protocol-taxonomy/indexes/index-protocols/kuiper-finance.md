@@ -1,3 +1,0 @@
-# Kuiper Finance
-
-Coming soon...

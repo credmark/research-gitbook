@@ -1,3 +1,0 @@
-# Coinbase Wallet
-
-Coming soon...

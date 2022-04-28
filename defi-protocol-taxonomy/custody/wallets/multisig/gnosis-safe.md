@@ -1,3 +1,0 @@
-# Gnosis Safe
-
-Coming soon...

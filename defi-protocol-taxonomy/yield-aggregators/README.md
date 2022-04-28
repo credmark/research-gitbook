@@ -1,3 +1,0 @@
-# Yield Aggregators
-
-Coming soon...

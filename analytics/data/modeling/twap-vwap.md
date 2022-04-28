@@ -1,3 +1,0 @@
-# TWAP / VWAP
-
-Coming soon...

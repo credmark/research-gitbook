@@ -1,3 +1,0 @@
-# Yield Farming
-
-Coming soon...

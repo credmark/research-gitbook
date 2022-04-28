@@ -1,3 +1,0 @@
-# Lattice
-
-Coming soon...

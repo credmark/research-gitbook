@@ -1,3 +1,0 @@
-# Liquidity Providing
-
-Coming soon...

@@ -1,3 +1,0 @@
-# Governance Token
-
-Coming soon...

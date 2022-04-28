@@ -1,3 +1,0 @@
-# Investing in DeFi
-
-Coming soon...

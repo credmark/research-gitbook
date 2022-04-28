@@ -1,3 +1,0 @@
-# Synthetix
-
-Coming soon...

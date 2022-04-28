@@ -1,3 +1,0 @@
-# VaR of Liquidity Providing to Curve
-
-Coming soon...

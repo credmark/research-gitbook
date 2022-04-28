@@ -1,3 +1,0 @@
-# Rocket Pool
-
-Coming soon...

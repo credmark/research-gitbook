@@ -1,3 +1,0 @@
-# Decentralized
-
-Coming soon...

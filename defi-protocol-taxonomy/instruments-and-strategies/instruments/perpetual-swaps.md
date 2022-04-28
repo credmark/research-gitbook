@@ -1,3 +1,0 @@
-# Perpetual Swaps
-
-Coming soon...

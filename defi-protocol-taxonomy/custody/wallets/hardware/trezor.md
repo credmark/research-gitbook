@@ -1,3 +1,0 @@
-# Trezor
-
-Coming soon...

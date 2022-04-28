@@ -1,3 +1,0 @@
-# BED
-
-Coming soon...

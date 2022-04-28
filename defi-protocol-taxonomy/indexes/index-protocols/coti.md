@@ -1,3 +1,0 @@
-# COTI
-
-Coming soon...

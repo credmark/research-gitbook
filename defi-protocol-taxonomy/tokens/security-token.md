@@ -1,3 +1,0 @@
-# Security Token
-
-Coming soon...

@@ -1,3 +1,0 @@
-# Covered Calls
-
-Coming soon...

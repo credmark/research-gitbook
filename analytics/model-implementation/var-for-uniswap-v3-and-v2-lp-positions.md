@@ -1,3 +1,0 @@
-# VaR for Uniswap V3 and V2 LP positions
-
-Coming soon...

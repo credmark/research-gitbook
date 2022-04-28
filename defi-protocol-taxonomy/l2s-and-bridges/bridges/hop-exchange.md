@@ -1,3 +1,0 @@
-# Hop Exchange
-
-Coming soon...

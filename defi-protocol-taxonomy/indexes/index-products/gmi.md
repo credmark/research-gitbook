@@ -1,3 +1,0 @@
-# GMI
-
-Coming soon...

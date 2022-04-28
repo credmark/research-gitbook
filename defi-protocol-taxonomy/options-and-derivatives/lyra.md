@@ -1,3 +1,0 @@
-# Lyra
-
-Coming soon...

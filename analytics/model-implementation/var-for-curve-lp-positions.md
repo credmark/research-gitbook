@@ -1,3 +1,0 @@
-# VaR for Curve LP positions
-
-Coming soon...

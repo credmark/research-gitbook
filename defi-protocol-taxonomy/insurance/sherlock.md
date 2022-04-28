@@ -1,3 +1,0 @@
-# Sherlock
-
-Coming soon...

@@ -1,3 +1,0 @@
-# Nexus Mutual
-
-Coming soon...

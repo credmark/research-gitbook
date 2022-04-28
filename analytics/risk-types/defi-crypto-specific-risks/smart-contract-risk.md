@@ -1,3 +1,0 @@
-# Smart Contract Risk
-
-Coming soon...

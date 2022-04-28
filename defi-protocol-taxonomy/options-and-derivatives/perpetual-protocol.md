@@ -1,3 +1,0 @@
-# Perpetual Protocol
-
-Coming soon...

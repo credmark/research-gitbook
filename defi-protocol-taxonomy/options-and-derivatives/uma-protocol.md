@@ -1,3 +1,0 @@
-# UMA Protocol
-
-Coming soon...

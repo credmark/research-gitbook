@@ -10,7 +10,7 @@ Our **ultimate goal** is to allow the Credmark community to:
 
 all content in the library.&#x20;
 
-Our **current goal** is to allow the Credmark community to create content for the [DEFI PROTOCOL TAXONOMY](broken-reference) section of the library.&#x20;
+Our **current goal** is to allow the Credmark community to create content for the [**Credmark´s Guide to DeFi**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/) section of the Wiki.&#x20;
 
 Every new submission of content will be assessed by a content Creator, elected by a Governance vote. Creators will ensure quality, provide feedback and ultimately reward contributors.
 

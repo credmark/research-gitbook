@@ -1,3 +1,0 @@
-# Decentralization Risk
-
-Coming soon...

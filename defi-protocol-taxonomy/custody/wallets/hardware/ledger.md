@@ -1,3 +1,0 @@
-# Ledger
-
-Coming soon...

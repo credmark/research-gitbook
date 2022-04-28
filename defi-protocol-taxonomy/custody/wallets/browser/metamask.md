@@ -1,3 +1,0 @@
-# MetaMask
-
-Coming soon...

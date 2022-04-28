@@ -1,3 +1,0 @@
-# Hardware
-
-Coming soon...

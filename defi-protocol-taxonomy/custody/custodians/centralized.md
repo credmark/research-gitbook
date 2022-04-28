@@ -1,3 +1,0 @@
-# Centralized
-
-Coming soon...

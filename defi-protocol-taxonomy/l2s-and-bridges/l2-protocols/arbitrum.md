@@ -1,3 +1,0 @@
-# Arbitrum
-
-Coming soon...

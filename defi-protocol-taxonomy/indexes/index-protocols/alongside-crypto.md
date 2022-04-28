@@ -1,3 +1,0 @@
-# Alongside Crypto
-
-Coming soon...

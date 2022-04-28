@@ -1,3 +1,0 @@
-# Ribbon Finance
-
-Coming soon...

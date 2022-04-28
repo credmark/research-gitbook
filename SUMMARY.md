@@ -1,19 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [The Credmark Wiki](README.md)
+* [Glossary](glossary.md)
 
-## Sourcing&#x20;
+## Contributions to the Wiki
 
-* [On-chain market data](sourcing/on-chain-market-data.md)
-* [On-chain Gas fees (ETH)](sourcing/on-chain-gas-fees-eth.md)
-* [Market Data Issues and Techniques](sourcing/market-data-issues-and-techniques.md)
-* [Aave and Compound Interest Rates Offchain Data Sourcing](sourcing/aave-and-compound-interest-rates-offchain-data-sourcing.md)
+* [Latest Edits](contributions-to-the-wiki/latest-edits.md)
+* [Why should I contribute to the Credmark Wiki?](contributions-to-the-wiki/why-should-i-contribute-to-the-credmark-wiki.md)
+* [How can I contribute to the Credmark Wiki?](contributions-to-the-wiki/how-can-i-contribute-to-the-credmark-wiki.md)
 
-## Controls
+## DeFi 101
 
-* [Aave Data Discrepancy](controls/aave-data-discrepancy.md)
+* [Credmark´s Guide to DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/)
+* [Risk Insights](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/s6BiHG0F3kdXOluGl850/)
 
-## Transactional Data Analysis
+## Financial Modeling
 
-* [Account level data for lending protocols (Aave and Compound)](transactional-data-analysis/account-level-data-for-lending-protocols-aave-and-compound.md)
-* [Account level data for USDC and USDT](transactional-data-analysis/account-level-data-for-usdc-and-usdt.md)
+* [Dealing with Risks](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/CvSzFXd9R0tD7I4nw1KM/)
+* [Smart Money in DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/pczHWX0UGGqzFp8kPqLN/)
+* [Data Fundamentals](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/PkIYLAd7asl8YagulCFT/)

@@ -1,3 +1,0 @@
-# Alchemix
-
-Coming soon...

@@ -1,3 +1,0 @@
-# L2s and Bridges
-
-Coming soon...

@@ -1,3 +1,0 @@
-# Connext
-
-Coming soon...

@@ -1,3 +1,0 @@
-# AMP protocol
-
-Coming soon...

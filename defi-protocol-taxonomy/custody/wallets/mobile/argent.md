@@ -1,3 +1,0 @@
-# Argent
-
-Coming soon...

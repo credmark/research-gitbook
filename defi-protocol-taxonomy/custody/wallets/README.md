@@ -1,3 +1,0 @@
-# Wallets
-
-Coming soon...

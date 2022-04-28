@@ -1,3 +1,0 @@
-# Bancor
-
-Coming soon...

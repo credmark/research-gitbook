@@ -1,15 +1,21 @@
-# Introduction
+# The Credmark Wiki
 
-The Data Fundaments circle around the Sourcing, Controlling and Analysis of data used for Financial Modeling. Since any model requires high-quality and reliable data, methods are presented on how to retrieve, check, clean and analyze blockchain data to gain deep insights.
+Credmark is a financial modeling platform powered by reliable on-chain data. Validated models are readily composable making rapid app development simple.
 
-The first section [Sourcing](broken-reference) explicitly addresses how to obtain appropriate on-chain data and how to deal with data issues.
+The Credmark ecosystem is built upon three pillars, the Data API, the Credmark Wiki, and the Credmark Platform.
 
-The second section [Controls](broken-reference) explains Data discrepancy and how to handle it.
+![Credmark Ecosystem](.gitbook/assets/Graph.png)
 
-Finally, the third section [Transactional Data Analysis](broken-reference) shows methods for analyzing and drawing conclusions from data at the protocol and account level.
+The Credmark Wiki is community-curated research on DeFi, tokens, and protocols as well as best practices for financial modeling in DeFi, without the expectation to ever be fully complete.
 
-## Contributors
+It is divided into three major sections:
 
-| Discord Handle   | ETH Address     | Reward            | Comments |
-| ---------------- | --------------- | ----------------- | -------- |
-| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
+* CONTRIBUTIONS,
+* DEFI 101, and&#x20;
+* FINANCIAL MODELING.
+
+The [**CONTRIBUTIONS**](broken-reference) **** section contains the lates edits to the Wiki as well as some general information for Contributors why and how to to add knowledge to this space.
+
+In the [**DEFI 101** ](broken-reference)section, we describe Tokens and DeFi Protocols, categorize them, and list any risks associated with their use.
+
+Within the [**FINANCIAL MODELING**](broken-reference) section, we explain various risk and investment metrics and how they can be measured and applied. We also describe the necessary underlying data that is required for modeling.

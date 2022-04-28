@@ -1,3 +1,0 @@
-# Index products
-
-Coming soon...

@@ -1,3 +1,0 @@
-# Investment Strategies
-
-Coming soon...

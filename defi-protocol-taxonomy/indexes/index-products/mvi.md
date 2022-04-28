@@ -1,3 +1,0 @@
-# MVI
-
-Coming soon...
