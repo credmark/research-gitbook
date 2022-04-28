@@ -1,19 +1,33 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Research](research/README.md)
-  * [Nexus Mutual - Covering Consumer Risk](research/nexus-mutual-covering-consumer-risk.md)
-  * [🚀 Time-Wonderland Fiasco and Behavioral Analysis of 0xSifu’s Wallet](research/time-wonderland-fiasco-and-behavioral-analysis-of-0xsifus-wallet.md)
-  * [Aave and Compound DeFi Risk Research](research/aave-and-compound-defi-risk-research/README.md)
-    * [Investment Metrics](research/aave-and-compound-defi-risk-research/investment-metrics.md)
-    * [Risk Metrics](research/aave-and-compound-defi-risk-research/risk-metrics/README.md)
-      * [Market Risk](research/aave-and-compound-defi-risk-research/risk-metrics/market-risk.md)
-      * [Liquidity Risk](research/aave-and-compound-defi-risk-research/risk-metrics/liquidity-risk.md)
-      * [Operational Risk](research/aave-and-compound-defi-risk-research/risk-metrics/operational-risk.md)
-    * [Contributors](research/aave-and-compound-defi-risk-research/contributors.md)
-    * [Disclaimer](research/aave-and-compound-defi-risk-research/disclaimer.md)
-    * [References](research/aave-and-compound-defi-risk-research/references.md)
-  * [Aave and Compound Historical VaR](research/aave-and-compound-historical-var.md)
-  * [Smart Contract Financial Risk](research/smart-contract-financial-risk.md)
-* [Credmark Terminal Reports](credmark-terminal-reports/README.md)
-  * [Risk Terminal Report 2021-12-31 to 2022-01-09](credmark-terminal-reports/risk-terminal-report-2021-12-31-to-2022-01-09.md)
+
+## DeFi & Crypto-Specific Risks
+
+* [Hacks, Exploits, and Rug Pulls](defi-and-crypto-specific-risks/hacks-exploits-and-rug-pulls.md)
+* [Smart Contract Risks](defi-and-crypto-specific-risks/smart-contract-risks.md)
+* [Decentralization Risk](defi-and-crypto-specific-risks/decentralization-risk.md)
+* [Bridging / L2 Risks](defi-and-crypto-specific-risks/bridging-l2-risks.md)
+* [DeFi-Lego Inheritance Risk](defi-and-crypto-specific-risks/defi-lego-inheritance-risk.md)
+* [Depegging Risk](defi-and-crypto-specific-risks/depegging-risk.md)
+* [Credit Risk](defi-and-crypto-specific-risks/credit-risk.md)
+
+## Market Risk
+
+* [Value at Risk (VAR)](market-risk/value-at-risk-var.md)
+* [How To Model VaR](market-risk/how-to-model-var.md)
+* [VaR of Liquidity Providing to Uniswap V2 and V3](market-risk/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
+
+## Liquidity Risk
+
+* [Liquidity Coverage Ratio (LCR)](liquidity-risk/liquidity-coverage-ratio-lcr.md)
+* [How to model LCR?](liquidity-risk/how-to-model-lcr.md)
+* [Curve Finance Pools Liquidity Data](liquidity-risk/curve-finance-pools-liquidity-data.md)
+
+## Operational Risk
+
+* [Legal Risk](operational-risk/legal-risk/README.md)
+  * [Investor Risk](operational-risk/legal-risk/investor-risk.md)
+  * [Protocol Risk](operational-risk/legal-risk/protocol-risk.md)
+  * [Tax Risk](operational-risk/legal-risk/tax-risk.md)
+  * [Regulatory Risk](operational-risk/legal-risk/regulatory-risk.md)
