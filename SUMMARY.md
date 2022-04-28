@@ -47,6 +47,7 @@
   * [Curve Finance Pools LQ Data](analytics/model-implementation/curve-finance-pools-lq-data.md)
   * [VaR for Uniswap V3 and V2 LP positions](analytics/model-implementation/var-for-uniswap-v3-and-v2-lp-positions.md)
   * [VaR for Curve LP positions](analytics/model-implementation/var-for-curve-lp-positions.md)
+  * [Efficient Frontier and Portfolio Allocation in DeFi Investment](analytics/model-implementation/efficient-frontier-and-portfolio-allocation-in-defi-investment.md)
 * [Data](analytics/data/README.md)
   * [Definitions](analytics/data/definitions.md)
   * [Methodologies](analytics/data/methodologies/README.md)
