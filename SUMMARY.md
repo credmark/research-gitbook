@@ -2,20 +2,18 @@
 
 * [Introduction](README.md)
 
-## Investment Concepts
+## Sourcing&#x20;
 
-* [APY / APR](investment-concepts/apy-apr.md)
-* [Correlation/Covariance Matrix](investment-concepts/correlation-covariance-matrix.md)
-* [Efficient Frontier and Portfolio Allocation in DeFi Investment](investment-concepts/efficient-frontier-and-portfolio-allocation-in-defi-investment.md)
-* [LPing Return of Uniswap Pools](investment-concepts/lping-return-of-uniswap-pools.md)
-* [Minimum Risk Rate of DeFi](investment-concepts/minimum-risk-rate-of-defi.md)
-* [Sharpe Ratio in DeFi](investment-concepts/sharpe-ratio-in-defi.md)
-* [Total Value Locked (TVL)](investment-concepts/total-value-locked-tvl/README.md)
-  * [TVL Methodology 1.0](investment-concepts/total-value-locked-tvl/tvl-methodology-1.0.md)
-  * [TVL of Abracadabra](investment-concepts/total-value-locked-tvl/tvl-of-abracadabra.md)
+* [On-chain market data](sourcing/on-chain-market-data.md)
+* [On-chain Gas fees (ETH)](sourcing/on-chain-gas-fees-eth.md)
+* [Market Data Issues and Techniques](sourcing/market-data-issues-and-techniques.md)
+* [Aave and Compound Interest Rates Offchain Data Sourcing](sourcing/aave-and-compound-interest-rates-offchain-data-sourcing.md)
 
-## Treasury Management
+## Controls
 
-* [Treasury Management for DAOs](treasury-management/treasury-management-for-daos.md)
-* [Credmark Treasury Management Cycle I](treasury-management/credmark-treasury-management-cycle-i.md)
-* [Overview of Investment Platforms](treasury-management/overview-of-investment-platforms.md)
+* [Aave Data Discrepancy](controls/aave-data-discrepancy.md)
+
+## Transactional Data Analysis
+
+* [Account level data for lending protocols (Aave and Compound)](transactional-data-analysis/account-level-data-for-lending-protocols-aave-and-compound.md)
+* [Account level data for USDC and USDT](transactional-data-analysis/account-level-data-for-usdc-and-usdt.md)
