@@ -30,6 +30,10 @@ Correlation is a statistical relationship between two random variables.
 
 Covariance is a measure of the joint variability of two random variables, in other words, the directional relationship. Learn more [here](https://app.gitbook.com/s/pczHWX0UGGqzFp8kPqLN/investment-concepts/correlation-covariance-matrix).&#x20;
 
+## Data
+
+As a blockchain works like a decentralized database, understanding how data can be sourced and how you can deal with data issues is crucial for any kind of understanding, analyzing & modeling metrics and tools. Please look [here](https://docs.credmark.com/data-fundamentals/) for more details on the general purpose of Data sourcing as well as [Market Data](https://docs.credmark.com/data-fundamentals/sourcing/market-data-issues-and-techniques) and [Account Level Data](https://docs.credmark.com/data-fundamentals/transactional-data-analysis/account-level-data-for-lending-protocols-aave-and-compound).
+
 ## DeFi&#x20;
 
 Short for Decentralized Finance, thus the offering of financial instruments, products and services peer-to-peer via a distributed ledger technology (like the Ethereum blockchain) without a centralized third party like a bank or other institution.
@@ -42,9 +46,17 @@ Short for Decentralized Exchange, a form of DeFi platform allowing for peer-to-p
 
 Short for Discounted-Cash Flow, a common methodology to value an asset by discounting the future cash flows and thus calculating the fair present value of the asset.
 
+## Efficient Frontier
+
+The Efficient Frontier describes a concept of the Modern Portfolio Theory to optimize a portfolio (so a number of different assets) for the lowest level of risk with a given return target. It reduces the variability of the portfolio return and hence increases the [Sharpe ratio](glossary.md#sharpe-ratio). More details on the Efficient Frontier can be found [here](https://docs.credmark.com/smart-money-in-defi/investment-concepts/efficient-frontier-and-portfolio-allocation-in-defi-investment).
+
 ## Gas&#x20;
 
 Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network. Gas fees are the reward given to miners for putting transactions in the blockchain or executing them. Learn more [here](https://app.gitbook.com/s/PkIYLAd7asl8YagulCFT/sourcing/on-chain-gas-fees-eth).&#x20;
+
+## Investment platforms
+
+A Investment platform can be described as an online service (or in terms of [DeFi](glossary.md#defi) as a protocol) that allows you to buy and hold tokens or deploy your existing tokens into predefined strategies to gain yield. A list of specialized Investment platforms for [Liquidity Providing](glossary.md#liquidity-providing) can be found [here](https://docs.credmark.com/smart-money-in-defi/treasury-management/overview-of-investment-platforms).
 
 ## L1 / L2
 
@@ -78,7 +90,7 @@ Sharpe ratio is used to measure an investment portfolio´s performance. It repre
 
 ## Staking&#x20;
 
-For Proof-of-Stake blockchains, Staking refers to locking your funds in the native crypto asset of the blockchain to secure the network and be rewarded when a new block is mined and attached to the blockchain.
+For Proof-of-Stake blockchains, Staking refers to locking your funds in the native crypto asset of the blockchain to secure the network and be rewarded when a new block is mined and attached to the blockchain. More about Staking services can be found [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/staking).
 
 ## TVL&#x20;
 
@@ -94,4 +106,4 @@ Value-at-risk (VaR) is a statistical measure used to calculate the maximum poten
 
 ## Yield Farming&#x20;
 
-Yield farming is a popular strategy in DeFi to boost your yield by lending and re-investing token in various protocols to earn high returns in form of additional token.
+Yield farming is a popular strategy in DeFi to boost your yield by lending and re-investing token in various protocols to earn high returns in form of additional token. If you want to learn more about Yield aggregators, look [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/aggregation-layer/yield-aggregators).
