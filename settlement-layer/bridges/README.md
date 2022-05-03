@@ -7,3 +7,13 @@ While [Arbitrum](https://bridge.arbitrum.io), [Polygon](https://wallet.polygon.t
 As with every DeFi protocol, these bridges are as well subject to risks for hacks, exploits, and smart contract bugs.
 
 {% embed url="https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/bridging-l2-risks" %}
+
+A great How-to-Guide on Bridging can be found here:
+
+{% embed url="https://decrypt.co/resources/how-to-bridge-ethereum-layer-2" %}
+
+## Contributors
+
+| Discord Handle   | ETH Address     | Reward            | Comments |
+| ---------------- | --------------- | ----------------- | -------- |
+| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |

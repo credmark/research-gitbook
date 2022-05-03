@@ -19,3 +19,10 @@ Based on these solutions, Ethereum tries to counter many of the so-called "ETH-K
 1\. Statista, [https://www.statista.com/statistics/1221821/gas-price-ethereum](https://www.statista.com/statistics/1221821/gas-price-ethereum/)/
 
 2\. Shrimpy, [https://academy.shrimpy.io/post/what-is-layer-2-scaling-for-ethereum-the-best-layer-2-protocols-explained](https://academy.shrimpy.io/post/what-is-layer-2-scaling-for-ethereum-the-best-layer-2-protocols-explained)
+
+## Contributors
+
+| Discord Handle   | ETH Address     | Reward            | Comments |
+| ---------------- | --------------- | ----------------- | -------- |
+| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
+
