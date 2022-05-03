@@ -14,8 +14,8 @@ It is divided into three major sections:
 * DEFI 101, and&#x20;
 * FINANCIAL MODELING.
 
-The [**CONTRIBUTIONS**](broken-reference) **** section contains the lates edits to the Wiki as well as some general information for Contributors why and how to to add knowledge to this space.
+The **CONTRIBUTIONS** section contains the [**lates edits**](contributions-to-the-wiki/latest-edits.md) to the Wiki as well as some general information for Contributors [**why**](contributions-to-the-wiki/why-should-i-contribute-to-the-credmark-wiki.md) and [**how**](contributions-to-the-wiki/how-can-i-contribute-to-the-credmark-wiki.md) to to add knowledge to this space.
 
-In the **DEFI 101** section, we describe [**Tokens and DeFi Protocols**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/), categorize them, and list any [**risks**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/s6BiHG0F3kdXOluGl850/) associated with their use.
+In the **DEFI 101** section, we describe [**Tokens and DeFi Protocols**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/), categorize them, and list specific [**risks**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/s6BiHG0F3kdXOluGl850/) associated with their use.
 
 Within the **FINANCIAL MODELING** section, we explain various [**risk**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/CvSzFXd9R0tD7I4nw1KM/) and [**investment**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/pczHWX0UGGqzFp8kPqLN/) metrics and how they can be measured and applied. We also describe the necessary underlying [**data**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/PkIYLAd7asl8YagulCFT/) that is required for modeling.
