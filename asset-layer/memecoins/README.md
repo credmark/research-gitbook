@@ -1,3 +1,2 @@
 # Memecoins
 
-Coming soon...
