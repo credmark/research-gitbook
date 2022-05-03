@@ -14,6 +14,14 @@ The way these L2s are reaching the goal can be summarized as follows \[2]:
 
 Based on these solutions, Ethereum tries to counter many of the so-called "ETH-Killers", referring to alternative Layer 1 blockchains, like Solana, Avalanche, or Fantom. Layer 2 solutions pretend to offer all the benefits like low cost and high speed while also offering the security of the Ethereum main chain. On the other hand, to get to this goal, these L2s are often less decentralized then the L1 main chain.
 
+The current state of the L2s and their TVL can be found here:
+
+{% embed url="https://l2beat.com" %}
+
+The current transaction costs for several L2s compared to Ethereum  L1 can be found here:
+
+{% embed url="https://l2fees.info" %}
+
 ## References
 
 1\. Statista, [https://www.statista.com/statistics/1221821/gas-price-ethereum](https://www.statista.com/statistics/1221821/gas-price-ethereum/)/
