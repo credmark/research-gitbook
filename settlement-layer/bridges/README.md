@@ -14,6 +14,7 @@ A great How-to-Guide on Bridging can be found here:
 
 ## Contributors
 
-| Discord Handle   | ETH Address     | Reward            | Comments |
-| ---------------- | --------------- | ----------------- | -------- |
-| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
+| Discord Handle   | ETH Address                                | Reward            | Comments    |
+| ---------------- | ------------------------------------------ | ----------------- | ----------- |
+| Harri Tarni#8675 | 0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A | 0 $CMK (internal) | Minor edits |
+| Matt \| CMK#9019 | mattropolis.eth                            | 0 $CMK (internal) | Create      |
