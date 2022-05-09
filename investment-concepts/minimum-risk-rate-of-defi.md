@@ -105,13 +105,29 @@ Here is an example as of 15 February 2022:
 
 &#x20;
 
-| Currency | Deposit rate, Aave | Deposit rate, Compound |  TVL-weighted rate | On-chain Volume, in USD bln. \[6] |
-| -------- | ------------------ | ---------------------- | ------------------ | --------------------------------- |
-| USDT     | 2%                 | 2.31%                  | 2.12%              | 116.24                            |
-| USDC     | 1.86%              | 1.67%                  | 1.78%              | 65.5                              |
-| DAI      | 2.27%              | 2.42%                  | 2.33%              | 12.42                             |
+| Token | Deposit rate, Aave | Deposit rate, Compound |  TVL-weighted rate | On-chain Volume, in USD bln. \[6] |
+| ----- | ------------------ | ---------------------- | ------------------ | --------------------------------- |
+| USDT  | 2%                 | 2.31%                  | 2.12%              | 116.24                            |
+| USDC  | 1.86%              | 1.67%                  | 1.78%              | 65.5                              |
+| DAI   | 2.27%              | 2.42%                  | 2.33%              | 12.42                             |
 
 Based on these inputs, the minimum risk rate equals to 2.02%. It is significantly higher than the Fed Funds Rate of 0.25%.&#x20;
+
+## Implementation
+
+This model has been implemented in Credmark Modelling Framework (Cmf) with slug "finance.min-risk-rate".
+
+The model result is shown below on block number 14207338, which was generated on 2022/2/14 23:59:27 UTC.
+
+| Token | Deposit rate and TVL in Aave | Deposit rate and TVL in Compound | TVL-weighted rate | Total Supply\* |
+| ----- | ---------------------------: | -------------------------------: | ----------------- | -------------- |
+| USDT  |             0.0195 / 1.049e9 |                 0.0193 / 0.815e9 | 0.0194            | 39.8e9         |
+| USDC  |             0.0183 / 3.565e9 |                 0.0168 / 2.769e9 | 0.0176            | 42.6e9         |
+| DAI   |             0.0222 / 1.499e9 |                 0.0244 / 2.942e9 | 0.0236            | 7.4e9          |
+
+\*Note: we use total supply in the place for on-chain volume because it's immediate availability.
+
+Based on the inputs, the minimal risk rate is 0.0189 or 1.89%.
 
 ### Other options for Minimum Risk Rate
 

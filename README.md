@@ -1,15 +1,5 @@
-# The Big Picture in DeFi
+# Introduction
 
-The Credmark´s Guide to DeFi will contain detailed information about Tokens, Protocols, Products, Infrastructure and Wallets. This space will grow and evolve over time as well as DeFi and the whole Crypto world are a fast-changing industry.
+Understanding key concepts of Investing, Portfolio Management and Treasury Management are key in TradFi but as well in DeFi. Many concepts used in the "old world" have proven their utility but need some tweaks to be applicable to the wild west of DeFi.
 
-To illustrate the fundamental building blocks in DeFi, the chapters are separated to match the different layers of the Ethereum blockchain ecosystem.&#x20;
-
-![Decentralized Finance Stack](.gitbook/assets/Dark\_2\_2x.png)
-
-
-
-## Contributors
-
-| Discord Handle   | ETH Address     | Reward            | Comments |
-| ---------------- | --------------- | ----------------- | -------- |
-| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
+Thus, [Investment Concepts](broken-reference) explains relevant approaches to analyze, optimize and measure performance and risks for a portfolio while [Treasury Management](broken-reference) explicitly looks into concepts for handling a DAO´s treasury.
