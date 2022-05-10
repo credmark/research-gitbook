@@ -80,6 +80,12 @@ Liquidity Coverage Ratio (LCR) is used to measure liquidity risk. LCR is defined
 
 A Liquidity Provider (LP) is an investor who provides liquidity in terms of token to a protocol, normally an Automated Market Maker ([AMM](glossary.md#amm)), to help with decentralized trading. The LP normally receives a fraction of the trading fees based on his share in the Liquidity pool. Learn more [here](https://app.gitbook.com/s/pczHWX0UGGqzFp8kPqLN/investment-concepts/lping-return-of-uniswap-pools).
 
+
+
+## Optimistic Rollup
+
+An Optimistic Rollup is a [Layer-2](glossary.md#layer-1-layer-2) scaling technique developed by the Optimism Foundation, that is used by major L2 like [Optimism](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/optimism) and [Arbitrum](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/arbitrum). Optimistic Rollups assumes every transaction is valid (until proven that it is false) and bundle several transactions into one single transaction, that is then published to the Ethereum execution layer.
+
 ## Perpetual Swaps&#x20;
 
 A Perpetual Swap is a form of a futures contract that allows speculation (with leverage) on future price movements of a token without an expiration date. Most of these swaps are collateralized with stablecoins and allow for Long (rising prices) or Short (falling prices) positions.
