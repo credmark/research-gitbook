@@ -46,27 +46,6 @@ Public RPC Endpoints:
 
 Smart Contract address: [0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc](https://etherscan.io/token/0x42bbfa2e77757c645eeaad1655e0911a7553efbc) \[5]
 
-### Risk Summary
-
-Our friends from [L2beat](https://l2beat.com) offer a great summary of the associated risks of the Boba project \[6]:
-
-**Funds can be stolen if…**
-
-* an invalid state root is submitted to the system **(CRITICAL)**,
-* a contract receives a malicious code upgrade. There is no delay on code upgrades **(CRITICAL)**.
-
-**Funds can be lost if…**
-
-* there are mistakes in the highly complex OVM implementation.
-
-**Funds can be frozen if…**
-
-* the centralized validator goes down. Users cannot produce blocks themselves and exiting the system requires new block production **(CRITICAL)**.
-
-**MEV can be extracted if…**
-
-* the operator exploits their centralized position and frontruns user transactions.
-
 ## References
 
 1. Boba Network, [https://boba.network/public-mainnet/](https://boba.network/public-mainnet/)
@@ -74,7 +53,6 @@ Our friends from [L2beat](https://l2beat.com) offer a great summary of the assoc
 3. Boba Developer Docs, [https://docs.boba.network/faq](https://docs.boba.network/faq)
 4. Boba Developer Docs, [https://docs.boba.network/](https://docs.boba.network)
 5. Etherscan, [https://etherscan.io/token/0x42bbfa2e77757c645eeaad1655e0911a7553efbc](https://etherscan.io/token/0x42bbfa2e77757c645eeaad1655e0911a7553efbc)
-6. L2beat, [https://l2beat.com/projects/bobanetwork/](https://l2beat.com/projects/bobanetwork/)
 
 
 
@@ -83,3 +61,4 @@ Our friends from [L2beat](https://l2beat.com) offer a great summary of the assoc
 | Discord Handle   | ETH Address     | Reward            | Comments |
 | ---------------- | --------------- | ----------------- | -------- |
 | Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
+

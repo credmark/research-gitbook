@@ -28,6 +28,12 @@ Immutable X has its one token IMX, which serves as [Governance](../../asset-laye
 
 **Smart Contract address:** [0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF](https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff) \[6]
 
+### Risk Summary
+
+Our friends from [L2beat](https://l2beat.com) offer a great summary of the associated risks of Immutable X \[7]:
+
+
+
 ## References
 
 1. Immutable, [https://www.immutable.com/blog/immutable-x-alpha-trading-launch](https://www.immutable.com/blog/immutable-x-alpha-trading-launch)
@@ -36,6 +42,7 @@ Immutable X has its one token IMX, which serves as [Governance](../../asset-laye
 4. Immutable X, [https://immutablex.medium.com/eli5-nft-scaling-solutions-b1de4ad82461](https://immutablex.medium.com/eli5-nft-scaling-solutions-b1de4ad82461)
 5. Immutable X, [https://www.immutable.com/token](https://www.immutable.com/token)
 6. Etherscan, [https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff](https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff)
+7. L2beat, [https://l2beat.com/projects/immutablex/](https://l2beat.com/projects/immutablex/)
 
 
 
