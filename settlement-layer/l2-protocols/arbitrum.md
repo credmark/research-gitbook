@@ -18,7 +18,7 @@ Arbitrum is a so-called Optimistic Rollup. A rollup means, that all the messages
 
 The "optimistic" part refers to the fact, "that Arbitrum advances the state of its chain by letting any party (a “validator”) post a rollup block that that party claims is correct, and then giving everyone else a chance to challenge that claim." \[4]
 
-There is a great article by Offchain Labs giviing more insights into Optimistic Rollups here:
+There is a great article by Offchain Labs giving more insights into Optimistic Rollups here:
 
 {% embed url="https://medium.com/offchainlabs/optimistic-rollups-the-present-and-future-of-ethereum-scaling-60fb9067ae87" %}
 
