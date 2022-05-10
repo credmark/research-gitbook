@@ -42,7 +42,7 @@ Public RPC Endpoints:
 * Infura: [**https://arbitrum-mainnet.infura.io/v3/YOUR-PROJECT-ID**](https://infura.io/docs/ethereum#section/Choose-a-Network)
 * Alchemy: [**https://arb-mainnet.g.alchemy.com/v2/your-api-key**](https://docs.alchemy.com/alchemy/apis/arbitrum)
 
-## Risk Summary
+### Risk Summary
 
 Our friends from [L2beat](https://l2beat.com) offer a great summary of the associated risks of the [Arbitrum project](https://l2beat.com/projects/arbitrum/) \[5]:
 
