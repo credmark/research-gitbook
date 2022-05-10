@@ -80,8 +80,6 @@ Liquidity Coverage Ratio (LCR) is used to measure liquidity risk. LCR is defined
 
 A Liquidity Provider (LP) is an investor who provides liquidity in terms of token to a protocol, normally an Automated Market Maker ([AMM](glossary.md#amm)), to help with decentralized trading. The LP normally receives a fraction of the trading fees based on his share in the Liquidity pool. Learn more [here](https://app.gitbook.com/s/pczHWX0UGGqzFp8kPqLN/investment-concepts/lping-return-of-uniswap-pools).
 
-
-
 ## Optimistic Rollup
 
 An Optimistic Rollup is a [Layer-2](glossary.md#layer-1-layer-2) scaling technique developed by the Optimism Foundation, that is used by major L2 like [Optimism](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/optimism) and [Arbitrum](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/arbitrum). Optimistic Rollups assumes every transaction is valid (until proven that it is false) and bundle several transactions into one single transaction, that is then published to the Ethereum execution layer.
@@ -125,3 +123,7 @@ Value-at-risk (VaR) is a statistical measure used to calculate the maximum poten
 ## Yield Farming&#x20;
 
 Yield farming is a popular strategy in DeFi to boost your yield by lending and re-investing token in various protocols to earn high returns in form of additional token. If you want to learn more about Yield aggregators, look [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/aggregation-layer/yield-aggregators).
+
+## Zero-Knowledge Rollups (ZK-Rollups)
+
+ZK-Rollups are another [L2](glossary.md#layer-1-layer-2)-scaling technique. In contrast to [Optimistic Rollups](glossary.md#optimistic-rollup), a ZK-Rollup do not assume that a transaction valid but instead proves it instantly by using so-called validity proofs. Learn more on this [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/immutable-x).
