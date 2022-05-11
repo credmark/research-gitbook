@@ -68,4 +68,12 @@ Although the majority of the transactions are occurring off-chain, DeFi data cou
 
 All the data in the current report was sourced from Credmark Model Framework as part of risk metrics to empower effective liabilities (in this case to maintain the peg to USD) and risk management.
 
+
+
+
+
+| **Version** | **Change Summary** | **Author(s) (Discord Handle, ETH Address, Reward)**                                                                                                                                                                                                                                  | **Reviewer(s) (Discord Handle, ETH Address, Reward)** | **Submission Date** |
+| ----------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------- |
+| 1.0         | Created            | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p><p></p><p>CrypticPun#1697, 0x05Fe7045E0A28949C2ee33a331Ad4605DE455F95, 0 CMK (internal)</p><p></p><p>​kunlun#8324,</p><p>0x109B3C39d675A2FF16354E116d080B94d238a7c9, 0 CMK (internal)</p> | Credmark Community                                    | 11 May 2022         |
+
 &#x20;
