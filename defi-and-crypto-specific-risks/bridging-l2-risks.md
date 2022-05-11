@@ -21,5 +21,3 @@ As these bridges are build upon smart contracts, they again are vulnerable for h
 | Discord Handle   | ETH Address     | Reward            | Comments |
 | ---------------- | --------------- | ----------------- | -------- |
 | Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Create   |
-
-a
