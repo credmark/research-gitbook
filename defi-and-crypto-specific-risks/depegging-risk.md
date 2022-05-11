@@ -18,9 +18,11 @@ Looking at the first case of US-Dollar reserves in a bank account, the most obvi
 
 In terms of algorithmic stablecoins, any manipulation on the value of the underlying tokens can lead to a depeg. This manipulation can be done in several ways, thus incorporating other DeFi-native risks like hacks, exploits, rug pulls or bugs in the underlying smart contracts that create a imbalance of the value for the outstanding stablecoins compared to the value of the underlying assets as collateral.&#x20;
 
-In May 2022 we saw the drama of UST, an algorithmic stablecoin worth more than $15b in value to loose its peg and causing some severe turmoil on the markets.
+In May 2022 we saw the drama of UST, an algorithmic stablecoin worth more than $18b in market capitalization to loose its peg and causing some severe turmoil on the markets.
 
 {% embed url="https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg" %}
+
+{% embed url="https://research.thetie.io/trial-of-the-lunatics-the-story-of-anchor-ust-and-luna" %}
 
 ## Contributors
 
