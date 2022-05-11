@@ -8,11 +8,11 @@ Our **ultimate goal** is to allow the Credmark community to:
 * improve, and&#x20;
 * validate
 
-all content in the library.&#x20;
+all content in the Wiki.&#x20;
 
 Our **current goal** is to allow the Credmark community to create content for the [**Credmark´s Guide to DeFi**](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/) section of the Wiki.&#x20;
 
-Every new submission of content will be assessed by a content Creator, elected by a Governance vote. Creators will ensure quality, provide feedback and ultimately reward contributors.
+Every new submission of content will be assessed by a Content Creator, elected by a Governance vote. Creators will ensure quality, provide feedback and ultimately reward contributors.
 
 ## How To
 
