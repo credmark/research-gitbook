@@ -80,6 +80,14 @@ Liquidity Coverage Ratio (LCR) is used to measure liquidity risk. LCR is defined
 
 A Liquidity Provider (LP) is an investor who provides liquidity in terms of token to a protocol, normally an Automated Market Maker ([AMM](glossary.md#amm)), to help with decentralized trading. The LP normally receives a fraction of the trading fees based on his share in the Liquidity pool. Learn more [here](https://app.gitbook.com/s/pczHWX0UGGqzFp8kPqLN/investment-concepts/lping-return-of-uniswap-pools).
 
+## Mempool
+
+For every blockchain, the Mempool (short for Memory Pool) is a database of unconfirmed transactions. As soon as a transaction is submitted by a user, it gets to the Mempool and as soon as a transaction is picked up in a new block, it gets removed from the Mempool.
+
+## MEV
+
+Short for Maximum Extractable Value, in the past Miner Extractable Value. The term refers to the profit someone can make by adding, removing or rearranging transactions in the new blocks that are produced by a blockchain. Please find more details [here](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/mev-risk).
+
 ## Optimistic Rollup
 
 An Optimistic Rollup is a [Layer-2](glossary.md#layer-1-layer-2) scaling technique developed by the Optimism Foundation, that is used by major L2 like [Optimism](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/optimism) and [Arbitrum](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/arbitrum). Optimistic Rollups assumes every transaction is valid (until proven that it is false) and bundle several transactions into one single transaction, that is then published to the Ethereum execution layer.

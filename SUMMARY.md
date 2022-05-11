@@ -1,34 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [The Credmark Wiki](README.md)
+* [Glossary](glossary.md)
 
-## DeFi & Crypto-Specific Risks
+## Contributions to the Wiki
 
-* [Hacks, Exploits, and Rug Pulls](defi-and-crypto-specific-risks/hacks-exploits-and-rug-pulls.md)
-* [Smart Contract Risks](defi-and-crypto-specific-risks/smart-contract-risks.md)
-* [Decentralization Risk](defi-and-crypto-specific-risks/decentralization-risk.md)
-* [Bridging / L2 Risks](defi-and-crypto-specific-risks/bridging-l2-risks.md)
-* [DeFi-Lego Inheritance Risk](defi-and-crypto-specific-risks/defi-lego-inheritance-risk.md)
-* [Depegging Risk](defi-and-crypto-specific-risks/depegging-risk.md)
-* [Credit Risk](defi-and-crypto-specific-risks/credit-risk.md)
-* [MEV risk](defi-and-crypto-specific-risks/mev-risk.md)
+* [Latest Edits](contributions-to-the-wiki/latest-edits.md)
+* [Why should I contribute to the Credmark Wiki?](contributions-to-the-wiki/why-should-i-contribute-to-the-credmark-wiki.md)
+* [How can I contribute to the Credmark Wiki?](contributions-to-the-wiki/how-can-i-contribute-to-the-credmark-wiki.md)
 
-## Market Risk
+## DeFi 101
 
-* [Value at Risk (VAR)](market-risk/value-at-risk-var.md)
-* [How To Model VaR](market-risk/how-to-model-var.md)
-* [VaR of Liquidity Providing to Uniswap V2 and V3](market-risk/var-of-liquidity-providing-to-uniswap-v2-and-v3.md)
+* [Credmark´s Guide to DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/)
+* [Risk Insights](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/s6BiHG0F3kdXOluGl850/)
 
-## Liquidity Risk
+## Financial Modeling
 
-* [Liquidity Coverage Ratio (LCR)](liquidity-risk/liquidity-coverage-ratio-lcr.md)
-* [How to model LCR?](liquidity-risk/how-to-model-lcr.md)
-* [Curve Finance Pools Liquidity Data](liquidity-risk/curve-finance-pools-liquidity-data.md)
-
-## Operational Risk
-
-* [Legal Risk](operational-risk/legal-risk/README.md)
-  * [Investor Risk](operational-risk/legal-risk/investor-risk.md)
-  * [Protocol Risk](operational-risk/legal-risk/protocol-risk.md)
-  * [Tax Risk](operational-risk/legal-risk/tax-risk.md)
-  * [Regulatory Risk](operational-risk/legal-risk/regulatory-risk.md)
+* [Dealing with Risks](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/CvSzFXd9R0tD7I4nw1KM/)
+* [Smart Money in DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/pczHWX0UGGqzFp8kPqLN/)
+* [Data Fundamentals](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/PkIYLAd7asl8YagulCFT/)
