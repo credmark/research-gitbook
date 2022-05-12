@@ -1,5 +1,5 @@
 ---
-description: Risk & Research, Credmark
+description: Risk & Research, Credmark, 11 May 2022
 ---
 
 # What caused UST to depeg?
@@ -40,7 +40,7 @@ Tracking major UST transactions (>$10,000,000, that represents around 30% of the
 
 ## Onchain Analytics
 
-UST is a stablecoin and LUNA is a governance token that acts a treasurer to maintain the obligation of UST to be pegged to $1.
+UST is a stablecoin and LUNA is a governance token that acts as a treasurer to maintain the obligation of UST to be pegged to $1.
 
 Price of UST initially dropped to $0.975 (2.5% depeg from USD) on 9 May 2022 and then to $0.67 on the next day (33% depeg from USD) on 10 May. Total net supply grew from 351 mln to 801 mln tokens which confirms large structured positions unwindings (like staking on Anchor). LUNA was selling collateral and burning UST to drive the price up but the effort wasn’t sufficient, hence net supply doubled.
 
@@ -58,15 +58,15 @@ In line with expectations Terra Treasury activities affected the token price of 
 
 ![](https://lh6.googleusercontent.com/wOz-z3pm9dlF12KAWaGqtR2SLcSO5ssxTyYR\_1OCXKWsPnWjJsjZEo5HD-45-XZxCesJfM6HxJC67LRSqgvgInGwWa87iJ5\_iTP5gZVJR2HY4Z\_W2QMtR5z7SrruEvtYNErEMm8CeF1GAEJr)
 
-LUNA also experienced large volumes of DeFI positions liqudations accompanied by selloff.
+LUNA also experienced large volumes of DeFI positions liquidations accompanied by a selloff.
 
 ![](https://lh3.googleusercontent.com/PduLRU9qTjmYPqobJ4m3JLmcuDlmzpsgATITVIko2PKSeRI8K0f5E9XeQX9vvrCyHP083znAXhOhVfrdkD-w6e5bZBC4cPDBRrV0GndPLDVIdgvXlIJssYokIYXsplG1GXIbMuojDNT3mPyj)
 
 ## Conclusion
 
-Although the majority of the transactions are occurring off-chain, DeFi data could be used as a good early alert system for protocols due to it’s transparency and verifiability. Large outflows and concentrations can be monitored and tested historically which can help in building a robust LQ risk management system and comparing different shops. LUNA from what is shown underestimated the amount and intensity of withdrawals resulting in a platform to be on the brink of existence.
+Although the majority of the transactions are occurring off-chain, DeFi data could be used as a good early alert system for protocols due to its transparency and verifiability. Large outflows and concentrations can be monitored and tested historically which can help in building a robust LQ risk management system and comparing different shops. LUNA from what is shown underestimated the amount and intensity of withdrawals resulting in a platform to be on the brink of existence.
 
-All the data in the current report was sourced from Credmark Model Framework as part of risk metrics to empower effective liabilities (in this case to maintain the peg to USD) and risk management.
+All the data in the current report was sourced from the Credmark Model Framework as part of risk metrics to empower effective liabilities (in this case to maintain the peg to USD) and risk management.
 
 
 
