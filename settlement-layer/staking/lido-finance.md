@@ -93,7 +93,8 @@ There exist a number of potential risks when staking ETH using liquid staking pr
   ETH 2.0 validators risk staking penalties, with up to 100% of staked funds at risk if validators fail. To minimize this risk, Lido stakes across multiple professional and reputable node operators with heterogeneous setups, with additional mitigation in the form of coverage that is paid from Lido fees.\
 
 * **stETH price risk**\
-  Users risk an exchange price of stETH which is lower than inherent value due to withdrawal restrictions on Lido, making arbitrage and risk-free market-making impossible. The Lido DAO is driven to mitigate above risks and eliminate them entirely to the extent possible. Despite this, they may still exist and, as such, it is our duty to communicate them \[2].\
+  Users risk an exchange price of stETH which is lower than inherent value due to withdrawal restrictions on Lido, making arbitrage and risk-free market-making impossible. The Lido DAO is driven to mitigate above risks and eliminate them entirely to the extent possible. Despite this, they may still exist and, as such, it is our duty to communicate them \[2]. More details on a potential depeg risk for stETH can you find [here](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/depegging-risk#other-forms-of-depeg).
+
 
 
 ### 10. Does it wrap and distribute assets?
@@ -167,7 +168,7 @@ List of all addresses can be found [here](https://docs.lido.fi/deployed-contract
 ### **References:**&#x20;
 
 1. ByBit, [https://learn.bybit.com/altcoins/what-is-lido-dao-token-ldo/](https://learn.bybit.com/altcoins/what-is-lido-dao-token-ldo/)
-2. Stake.lido, [https://stake.lido.fi/](https://stake.lido.fi)
+2. Stake.lido, [https://stake.lido.fi/](https://stake.lido.fi/)
 3. Chainebrief, [https://chaindebrief.com/what-is-lido-protocol-ethereum-2-0-staking-solution/](https://chaindebrief.com/what-is-lido-protocol-ethereum-2-0-staking-solution/)
 4. CoinDesk, [https://www.coindesk.com/tech/2021/01/14/lido-protocol-does-eth-20-staking-but-with-a-defi-twist/](https://www.coindesk.com/tech/2021/01/14/lido-protocol-does-eth-20-staking-but-with-a-defi-twist/)
 5. Coinmarketcap, [https://coinmarketcap.com/currencies/lido-dao/](https://coinmarketcap.com/currencies/lido-dao/)
@@ -179,7 +180,7 @@ List of all addresses can be found [here](https://docs.lido.fi/deployed-contract
 11. Lido, [https://help.lido.fi/en/articles/5231849-why-does-the-amount-of-wsteth-in-my-wallet-differ-from-the-amount-of-steth-i-wrapped](https://help.lido.fi/en/articles/5231849-why-does-the-amount-of-wsteth-in-my-wallet-differ-from-the-amount-of-steth-i-wrapped)
 12. Etherscan, [https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32](https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32)
 13. Lido, [https://blog.lido.fi/introducing-ldo/](https://blog.lido.fi/introducing-ldo/)
-14. Lido.fi, [https://lido.fi/](https://lido.fi)
+14. Lido.fi, [https://lido.fi/](https://lido.fi/)
 15. Lido, [https://docs.lido.fi/deployed-contracts#dao-ops-contracts--addresses](https://docs.lido.fi/deployed-contracts%23dao-ops-contracts--addresses)
 16. Etherscan, [https://etherscan.io/address/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84](https://etherscan.io/address/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84)
 17. Github, [https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/lido/index.js](https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/lido/index.js)
