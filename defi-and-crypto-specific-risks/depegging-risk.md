@@ -28,6 +28,8 @@ In May 2022 we saw the drama of UST, an algorithmic stablecoin worth more than $
 
 {% embed url="https://research.thetie.io/trial-of-the-lunatics-the-story-of-anchor-ust-and-luna" %}
 
+{% embed url="https://entrepreneurshandbook.co/luna-brothers-inc-712ec5abe199" %}
+
 ### Other Forms of Depeg
 
 Aside from stablecoins, there might occur other forms of Depegging that present risk for investors. Most recently, the stETH token from [Lido](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/staking/lido-finance) lost its peg to ETH due to some heavy market turbulence (caused by the UST meltdown) and the need from investors to withdraw their ETH from the biggest stETH/ ETH trading pool on [Curve ](https://docs.credmark.com/the-credmark-s-guide-to-defi/protocol-layer/dexes/curve)to secure their other leveraged positions.&#x20;
