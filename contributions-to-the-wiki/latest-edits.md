@@ -8,9 +8,13 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 ### Financial Modeling
 
+{% embed url="https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/depegging-risk" %}
+
 {% embed url="https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/mev-risk" %}
 
 ### DeFi 101
+
+{% embed url="https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/starkware" %}
 
 {% embed url="https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg" %}
 
