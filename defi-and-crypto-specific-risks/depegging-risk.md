@@ -8,9 +8,13 @@ But what are reasons a stablecoin might loose its peg at all? This merely depend
 
 The easiest way to maintain a peg is to deposit an equivalent amount of US-Dollar into a bank account and only mint the corresponding amount of digital tokens. So for every US-Dollar in the bank exactly one digital token will exist. Thus, it is assured that you will always be able to redeem your token and request the amount in US-Dollar to be paid out.
 
-### **Peg is secured by crypto token & smart contracts**
+### **Peg is secured by other crypto assets**&#x20;
 
-As crypto and especially the DeFi-World strives to become independent from the TradFi world and its outdated banking system, several protocols created ways to mint a stablecoin that maintains its peg to the US-Dollar without the need to hold any fiat money in a banking account but instead hold a treasury of other crypto tokens. Based on the US-Dollar value of this underlying basket of tokens, new stablecoins will be either minted or burned in a way to that one stablecoin token always equals one US-Dollar. These stablecoins are often called algorithmic stablecoins, as in most cases a smart contract automatically rebalances the available amount of outstanding stablecoins to reflect the 1:1 peg to the US-Dollar.
+As crypto and especially the DeFi-World strives to become independent from the TradFi world and its outdated banking system, several protocols created ways to mint a stablecoin that maintains its peg to the US-Dollar without the need to hold any fiat money in a banking account but instead hold a treasury of other crypto tokens. Based on the US-Dollar value of this underlying basket of tokens, new stablecoins will be either minted or burned in a way to that one stablecoin token always equals one US-Dollar. As the underlying crypto assets are volatile, most protocols (like Maker DAO with its [DAI token](https://docs.credmark.com/the-credmark-s-guide-to-defi/asset-layer/stablecoins/dai)) require overcollateralization and the protocol will liquidate pledge collateral to maintain the peg.
+
+### **Peg is secured by smart contracts**
+
+As overcollateralization removes a lot of liquidity from the markets, the "newest" versions of stablecoins tried to get rid of any "outside collateral" to maintain their peg. These stablecoins are often called algorithmic stablecoins, as a smart contract automatically rebalances the available amount of outstanding stablecoins to reflect the 1:1 peg to the US-Dollar. The most famous example so far was [UST](https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg).
 
 ### **So how can a Depeg now happen?**
 
