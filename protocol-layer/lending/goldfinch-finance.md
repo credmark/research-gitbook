@@ -192,10 +192,10 @@ Goldfinch Finance is not sourcing data from anywhere.\
 5. Coinmarketcap, [https://coinmarketcap.com/currencies/goldfinch-protocol/markets/](https://coinmarketcap.com/currencies/goldfinch-protocol/markets/)
 6. Github, [https://github.com/goldfinch-eng/goldfinch-contracts/blob/main/v2.0/Certik-Goldfinch-Audit-Report-2021-8-26.pdf](https://github.com/goldfinch-eng/goldfinch-contracts/blob/main/v2.0/Certik-Goldfinch-Audit-Report-2021-8-26.pdf)
 7. Medium, [https://medium.com/goldfinch-fi/introducing-goldfinch-crypto-loans-without-collateral-fc0cad9d13e](https://medium.com/goldfinch-fi/introducing-goldfinch-crypto-loans-without-collateral-fc0cad9d13e)
-8. Gov.goldfinch, [https://gov.goldfinch.finance/](https://gov.goldfinch.finance).
+8. Gov.goldfinch, [https://gov.goldfinch.finance/](https://gov.goldfinch.finance/).
 9. Docs.goldfinch, [https://docs.goldfinch.finance/goldfinch/governance](https://docs.goldfinch.finance/goldfinch/governance)
 10. Investorsobserver, [https://www.investorsobserver.com/crypto/13967/gfi](https://www.investorsobserver.com/crypto/13967/gfi)
-11. Goldfinch.finance, [https://goldfinch.finance/](https://goldfinch.finance)
+11. Goldfinch.finance, [https://goldfinch.finance/](https://goldfinch.finance/)
 12. Etherscan, [https://etherscan.io/token/0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b](https://etherscan.io/token/0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b)
 
 

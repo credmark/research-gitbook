@@ -4,7 +4,7 @@ Immutable X is a Layer-2 scaling solution, that was launched in April 2021 while
 
 "Through Immutable X, its layer-two scaling solution, Immutable aims to promote mainstream NFT adoption by offering gas-free minting and trading, self custody alongside seamless UX for developers and consumers. Immutable X is also ensuring any NFT activity on the protocol is completely carbon neutral by purchasing carbon credits to offset gas consumed on Ethereum." \[1]
 
-Currently, Immutable is most famous for its trading card game [Gods Unchained](https://godsunchained.com), and has a TVL about roughly $50m. The current numbers can be found [here](https://l2beat.com/projects/immutablex/) \[2].
+Currently, Immutable is most famous for its trading card game [Gods Unchained](https://godsunchained.com/), and has a TVL about roughly $50m. The current numbers can be found [here](https://l2beat.com/projects/immutablex/) \[2].
 
 The Immutable X ecosystem is powered by the [$IMX token](https://www.coingecko.com/en/coins/immutable-x), which is used to pay for fees, take part in governance votes and can be staked to earn a share of the rewards pools.
 
@@ -16,7 +16,7 @@ Immutable is build on StarkEx from [Starkware](starkware.md). It is using a tech
 
 ### How to use Immutable X?
 
-Immutable X positions itself more like a platform for other decentralized applications instead of a sidechain, where the user needs to move funds to in order to use the applications that are build on top of it. Thus, there exists a [third-party marketplace ecosystem](https://market.immutable.com) that allows user to connect with their existing wallets. To use this marketplace, you are required to [register as a user](https://docs.x.immutable.com/docs/getting-started-guide#register-a-user-account).
+Immutable X positions itself more like a platform for other decentralized applications instead of a sidechain, where the user needs to move funds to in order to use the applications that are build on top of it. Thus, there exists a [third-party marketplace ecosystem](https://market.immutable.com/) that allows user to connect with their existing wallets. To use this marketplace, you are required to [register as a user](https://docs.x.immutable.com/docs/getting-started-guide#register-a-user-account).
 
 ### How to build on Immutable X?
 
@@ -30,7 +30,7 @@ Immutable X has its one token IMX, which serves as [Governance](../../asset-laye
 
 ### Risk Summary
 
-Our friends from [L2beat](https://l2beat.com) offer a great summary of the associated risks of Immutable X \[7]:
+Our friends from [L2beat](https://l2beat.com/) offer a great summary of the associated risks of Immutable X \[7]:
 
 
 

@@ -1,8 +1,8 @@
 # Arbitrum
 
-[Arbitrum](https://arbitrum.io) is a Layer 2 scaling solution created by Offchain Labs, and officially launched in August 2021. It makes use of so-called optimistic rollups and settles transaction in batches to the Ethereum main chain \[1].
+[Arbitrum](https://arbitrum.io/) is a Layer 2 scaling solution created by Offchain Labs, and officially launched in August 2021. It makes use of so-called optimistic rollups and settles transaction in batches to the Ethereum main chain \[1].
 
-Arbitrum claims to be capable of processing 40,000 transactions per second (Ethereum can handle 14) while fully supporting the Ethereum Virtual Machine (EVM) \[2]. Thus, any DeFi application can be simply bridged to Arbitrum, and [many have done so already](https://portal.arbitrum.one).&#x20;
+Arbitrum claims to be capable of processing 40,000 transactions per second (Ethereum can handle 14) while fully supporting the Ethereum Virtual Machine (EVM) \[2]. Thus, any DeFi application can be simply bridged to Arbitrum, and [many have done so already](https://portal.arbitrum.one/).&#x20;
 
 The current TVL of Arbitrum as of May 2022 is roughly USD 2B. The current numbers can be found [here](https://defillama.com/chain/Arbitrum) \[3].
 
@@ -24,7 +24,7 @@ There is a great article by Offchain Labs giving more insights into Optimistic R
 
 ### How to use Arbitrum?
 
-As Arbitrum is EVM-compatible, it is possible to use the chain directly through a decentralized application like [Aave](../../protocol-layer/lending/aave.md), or [Sushiswap](../../protocol-layer/dexes/sushiswap.md). Nevertheless, you need to move funds to the Arbitrum network first, either by using the [Arbitrum bridge](https://bridge.arbitrum.io) or a [third party solution](../bridges/).
+As Arbitrum is EVM-compatible, it is possible to use the chain directly through a decentralized application like [Aave](../../protocol-layer/lending/aave.md), or [Sushiswap](../../protocol-layer/dexes/sushiswap.md). Nevertheless, you need to move funds to the Arbitrum network first, either by using the [Arbitrum bridge](https://bridge.arbitrum.io/) or a [third party solution](../bridges/).
 
 ### Chain Info
 
@@ -42,12 +42,34 @@ Public RPC Endpoints:
 * Infura: [**https://arbitrum-mainnet.infura.io/v3/YOUR-PROJECT-ID**](https://infura.io/docs/ethereum#section/Choose-a-Network)
 * Alchemy: [**https://arb-mainnet.g.alchemy.com/v2/your-api-key**](https://docs.alchemy.com/alchemy/apis/arbitrum)
 
+### Risk Summary
+
+Our friends from [L2beat](https://l2beat.com/) offer a great summary of the associated risks of the [Arbitrum project](https://l2beat.com/projects/arbitrum/) \[5]:
+
+**Funds can be stolen if…**
+
+* none of the whitelisted verifiers checks the published state. Fraud proofs assume at least one honest and able validator **(CRITICAL)**,
+* a contract receives a malicious code upgrade. There is no delay on code upgrades **(CRITICAL)**.
+
+**Funds can be lost if…**
+
+* there are mistakes in the highly complex AVM implementation.
+
+**Funds can be frozen if…**
+
+* the centralized validator goes down. Users cannot produce blocks themselves and exiting the system requires new block production **(CRITICAL)**.
+
+**MEV can be extracted if…**
+
+* the operator exploits their centralized position and frontruns user transactions.
+
 ## References
 
 1. The Block, [https://www.theblockcrypto.com/post/116148/ethereum-scaling-solution-arbitrum-launches-mainnet-raises-120-million-funding](https://www.theblockcrypto.com/post/116148/ethereum-scaling-solution-arbitrum-launches-mainnet-raises-120-million-funding)
 2. Decrypt, [https://decrypt.co/resources/what-is-arbitrum-speeding-up-ethereum-using-optimistic-rollups](https://decrypt.co/resources/what-is-arbitrum-speeding-up-ethereum-using-optimistic-rollups)
 3. DeFi Llama, [https://defillama.com/chain/Arbitrum](https://defillama.com/chain/Arbitrum)
 4. Offchain Labs Dev Center, [https://developer.offchainlabs.com/docs/inside\_arbitrum](https://developer.offchainlabs.com/docs/inside\_arbitrum)
+5. L2beat, [https://l2beat.com/projects/arbitrum/](https://l2beat.com/projects/arbitrum/)
 
 ## Contributors
 
