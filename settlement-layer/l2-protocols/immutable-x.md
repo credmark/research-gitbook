@@ -30,9 +30,25 @@ Immutable X has its one token IMX, which serves as [Governance](../../asset-laye
 
 ### Risk Summary
 
-Our friends from [L2beat](https://l2beat.com/) offer a great summary of the associated risks of Immutable X \[7]:
+Our friends from [L2beat](https://l2beat.com/) offer a great summary of the associated risks of [Immutable X](https://l2beat.com/projects/immutablex/) \[7]:
 
+**Funds can be stolen if...**
 
+* a contract receives a malicious code upgrade. There is a 14 days delay on code upgrades.
+
+**Funds can be lost if...**
+
+* the external data becomes unavailable,
+* the proof system is implemented incorrectly.
+
+**Users can be censored if...**
+
+* the committee restricts their access to the external data,
+* the operator refuses to include their transactions. They can still exit the system.
+
+****[**MEV**](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/mev-risk) **can be extracted if...**
+
+* the operator exploits their centralized position and frontruns user transactions.
 
 ## References
 

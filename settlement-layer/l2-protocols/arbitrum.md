@@ -59,7 +59,7 @@ Our friends from [L2beat](https://l2beat.com/) offer a great summary of the asso
 
 * the centralized validator goes down. Users cannot produce blocks themselves and exiting the system requires new block production **(CRITICAL)**.
 
-**MEV can be extracted if…**
+****[**MEV**](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/mev-risk) **can be extracted if…**
 
 * the operator exploits their centralized position and frontruns user transactions.
 
