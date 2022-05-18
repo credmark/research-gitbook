@@ -4,7 +4,7 @@ Immutable X is a Layer-2 scaling solution, that was launched in April 2021 while
 
 "Through Immutable X, its layer-two scaling solution, Immutable aims to promote mainstream NFT adoption by offering gas-free minting and trading, self custody alongside seamless UX for developers and consumers. Immutable X is also ensuring any NFT activity on the protocol is completely carbon neutral by purchasing carbon credits to offset gas consumed on Ethereum." \[1]
 
-Currently, Immutable is most famous for its trading card game [Gods Unchained](https://godsunchained.com/), and has a TVL about roughly $50m. The current numbers can be found [here](https://l2beat.com/projects/immutablex/) \[2].
+Currently, Immutable is most famous for its trading card game [Gods Unchained](https://godsunchained.com/), and has a [TVL](https://docs.credmark.com/credmark-wiki/glossary#tvl) about roughly $50m. The current numbers can be found [here](https://l2beat.com/projects/immutablex/) \[2].
 
 The Immutable X ecosystem is powered by the [$IMX token](https://www.coingecko.com/en/coins/immutable-x), which is used to pay for fees, take part in governance votes and can be staked to earn a share of the rewards pools.
 

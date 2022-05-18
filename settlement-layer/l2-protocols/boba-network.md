@@ -4,7 +4,7 @@ The Boba Network is an Ethereum-scaling solution, launched by the OMG Foundation
 
 Moreover, "BOBA tokens staked on Boba Network will also receive a portion of the transaction fees earned by the network through an on-chain distribution governed by the community." \[1]
 
-After its peak in Dec 2021 with over $600m TVL, these numbers have been crushed with TVL currently sitting at roughly $60m. The actual numbers can be found [here](https://defillama.com/chain/Boba) \[2].
+After its peak in Dec 2021 with over $600m [TVL](https://docs.credmark.com/credmark-wiki/glossary#tvl), these numbers have been crushed with TVL currently sitting at roughly $60m. The actual numbers can be found [here](https://defillama.com/chain/Boba) \[2].
 
 ### How does Boba Network work?
 

@@ -4,7 +4,7 @@
 
 Arbitrum claims to be capable of processing 40,000 transactions per second (Ethereum can handle 14) while fully supporting the Ethereum Virtual Machine (EVM) \[2]. Thus, any DeFi application can be simply bridged to Arbitrum, and [many have done so already](https://portal.arbitrum.one/).&#x20;
 
-The current TVL of Arbitrum as of May 2022 is roughly USD 2B. The current numbers can be found [here](https://defillama.com/chain/Arbitrum) \[3].
+The current [TVL](https://docs.credmark.com/credmark-wiki/glossary#tvl) of Arbitrum as of May 2022 is roughly USD 2B. The current numbers can be found [here](https://defillama.com/chain/Arbitrum) \[3].
 
 ### How does Arbitrum work?
 
