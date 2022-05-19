@@ -14,6 +14,10 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 ### DeFi 101
 
+{% embed url="https://docs.credmark.com/risk-insights/research/terras-ust-post-mortem-risk-and-treasury-management" %}
+
+{% embed url="https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/optimism" %}
+
 {% embed url="https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/starkware" %}
 
 {% embed url="https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg" %}

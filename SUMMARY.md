@@ -1,21 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Research](research/README.md)
-  * [Terra’s UST post-mortem, risk and treasury management](research/terras-ust-post-mortem-risk-and-treasury-management.md)
-  * [What caused UST to de-peg?](research/what-caused-ust-to-de-peg.md)
-  * [Nexus Mutual - Covering Consumer Risk](research/nexus-mutual-covering-consumer-risk.md)
-  * [🚀 Time-Wonderland Fiasco and Behavioral Analysis of 0xSifu’s Wallet](research/time-wonderland-fiasco-and-behavioral-analysis-of-0xsifus-wallet.md)
-  * [Aave and Compound DeFi Risk Research](research/aave-and-compound-defi-risk-research/README.md)
-    * [Investment Metrics](research/aave-and-compound-defi-risk-research/investment-metrics.md)
-    * [Risk Metrics](research/aave-and-compound-defi-risk-research/risk-metrics/README.md)
-      * [Market Risk](research/aave-and-compound-defi-risk-research/risk-metrics/market-risk.md)
-      * [Liquidity Risk](research/aave-and-compound-defi-risk-research/risk-metrics/liquidity-risk.md)
-      * [Operational Risk](research/aave-and-compound-defi-risk-research/risk-metrics/operational-risk.md)
-    * [Contributors](research/aave-and-compound-defi-risk-research/contributors.md)
-    * [Disclaimer](research/aave-and-compound-defi-risk-research/disclaimer.md)
-    * [References](research/aave-and-compound-defi-risk-research/references.md)
-  * [Aave and Compound Historical VaR](research/aave-and-compound-historical-var.md)
-  * [Smart Contract Financial Risk](research/smart-contract-financial-risk.md)
-* [Credmark Terminal Reports](credmark-terminal-reports/README.md)
-  * [Risk Terminal Report 2021-12-31 to 2022-01-09](credmark-terminal-reports/risk-terminal-report-2021-12-31-to-2022-01-09.md)
+* [The Credmark Wiki](README.md)
+* [Glossary](glossary.md)
+
+## Contributions to the Wiki
+
+* [Latest Edits](contributions-to-the-wiki/latest-edits.md)
+* [Why should I contribute to the Credmark Wiki?](contributions-to-the-wiki/why-should-i-contribute-to-the-credmark-wiki.md)
+* [How can I contribute to the Credmark Wiki?](contributions-to-the-wiki/how-can-i-contribute-to-the-credmark-wiki.md)
+
+## DeFi 101
+
+* [Credmark´s Guide to DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/VkPeP3yOlpUfIWomzh0j/)
+* [Risk Insights](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/s6BiHG0F3kdXOluGl850/)
+
+## Financial Modeling
+
+* [Dealing with Risks](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/CvSzFXd9R0tD7I4nw1KM/)
+* [Smart Money in DeFi](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/pczHWX0UGGqzFp8kPqLN/)
+* [Data Fundamentals](https://app.gitbook.com/o/-MaWsKysgImxTlCSGQdb/s/PkIYLAd7asl8YagulCFT/)
