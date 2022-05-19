@@ -125,7 +125,7 @@ When the Minimum Capital Requirement ratio is below 100% this prevents anyone fr
 
 7 - [https://nexustracker.io/claims](https://nexustracker.io/claims)
 
-8 - [https://nexustracker.io/](https://nexustracker.io)
+8 - [https://nexustracker.io/](https://nexustracker.io/)
 
 9 - [https://nexusmutual.gitbook.io/docs/users/types-of-cover](https://nexusmutual.gitbook.io/docs/users/types-of-cover)
 
@@ -149,7 +149,7 @@ When the Minimum Capital Requirement ratio is below 100% this prevents anyone fr
 
 White paper: [https://nexusmutual.io/assets/docs/nmx\_white\_paperv2\_3.pdf](https://nexusmutual.io/assets/docs/nmx\_white\_paperv2\_3.pdf)
 
-Website: [https://nexusmutual.io/](https://nexusmutual.io)
+Website: [https://nexusmutual.io/](https://nexusmutual.io/)
 
 [https://api.nexusmutual.io/version-data/](https://api.nexusmutual.io/version-data/)
 
