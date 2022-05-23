@@ -117,6 +117,8 @@ Based on these inputs, the minimum risk rate equals to 2.02%. It is significantl
 
 This model has been implemented in Credmark Modelling Framework (Cmf) with slug "finance.min-risk-rate".
 
+Link to the source code: [https://github.com/credmark/credmark-models-py/blob/main/models/credmark/algorithms/minimum\_risk.py](https://github.com/credmark/credmark-models-py/blob/main/models/credmark/algorithms/minimum\_risk.py)
+
 The model result is shown below on block number 14207338, which was generated on 2022/2/14 23:59:27 UTC.
 
 | Token | Deposit rate and TVL in Aave | Deposit rate and TVL in Compound | TVL-weighted rate | Total Supply\* |
@@ -146,7 +148,7 @@ Based on the inputs, the minimal risk rate is 0.0189 or 1.89%.
 3. Fred Economic Data, Accessed on 14 February 2022\
    [https://fred.stlouisfed.org/series/FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS)&#x20;
 4. DeFi Pulse, Accessed on 14 February 2022\
-   [https://www.defipulse.com/](https://www.defipulse.com)&#x20;
+   [https://www.defipulse.com/](https://www.defipulse.com/)&#x20;
 5. How to DeFi: Advanced\
    [https://www.coingecko.com](https://www.coingecko.com)
 6. The Block, Accessed on 15 February 2022\
@@ -154,6 +156,7 @@ Based on the inputs, the minimal risk rate is 0.0189 or 1.89%.
 
 ## Contributors
 
-| Discord Handle | ETH Address                                | Reward           | Contribution     |
-| -------------- | ------------------------------------------ | ---------------- | ---------------- |
-| atulemis#0983  | 0x5fb7584838fB467e90bb8a1df3a278482e34E856 | 0 CMK (internal) | Original version |
+| Discord Handle | ETH Address                                | Reward            | Contribution     |
+| -------------- | ------------------------------------------ | ----------------- | ---------------- |
+| atulemis#0983  | 0x5fb7584838fB467e90bb8a1df3a278482e34E856 | 0 CMK (internal)  | Original version |
+| kunlun@8324    | 0x109B3C39d675A2FF16354E116d080B94d238a7c9 | 0  CMK (internal) | Implementation   |
