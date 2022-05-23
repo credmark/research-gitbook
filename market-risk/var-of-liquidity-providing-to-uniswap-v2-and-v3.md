@@ -10,11 +10,63 @@ Credmark’s assessment indicates that Uniswap V3 holds more market risk than V2
 
 ## **Methodology**
 
-Credmark’s Value at Risk (VaR) metric uses a historical simulation model based on the past year of market activity. We apply the 99th-percentile worst-case scenario for a 10-day holding period that is consistent with Traditional Finance (TradFi) market risk capital modeling.
+Credmark’s Value at Risk (VaR) metric uses a historical simulation model based on the past year of market activity. We apply the 99th-percentile worst-case scenario for a 10-day holding period that is consistent with Traditional Finance (TradFi) market risk capital modelling.
 
-Decentralized exchanges might generate more loss than simply holding assets in a market because they act as automated market-makers. Market makers hold paired assets in a pool; as the market moves, the higher value asset is sold to buy more of the lower-valued asset. This type of downside is called impermanent loss \[1] and is added to the standard HODLing strategy profit or loss.
+Decentralized exchanges might generate more loss than simply holding assets in a market because they act as automated market-makers. Market makers hold paired assets in a pool; as the market moves, the higher value asset is sold to buy more of the lower-valued asset. When price moves, the liquidity provider will not be able to extract the same amount of tokens as when he put in and what he received less is in the higher valued asset.
+
+This type of downside is called impermanent loss \[1] and is added to the standard buy and hold strategy's profit and loss.
 
 We’ve illustrated the application of the loss valuing techniques for Uniswap V2 and Uniswap V3 protocols as of 31 December 2021. Based on these run results, as expected, Uniswap V3 showed a significantly higher level of risk compared to Uniswap V2. The narrower the liquidity range, the higher VaR. While the narrower range also entails a higher opportunity to earn money via fees, this is not included in our assessment. The position is assumed to remain the same.
+
+### Calculation
+
+We could define the invariant at time 0 when the LP (liquidity providing) stored the tokens to a pool.
+
+$$
+c=x_0y_0
+$$
+
+$$
+r_0 = {x_0 \over y_0}
+$$
+
+$$
+x_0 = \sqrt {c r_0} , y_0 = \sqrt {c \over r_0}
+$$
+
+If we introduce the price, $$u_{x0}$$, they will complement with the quantity $$x_0$$ to $$r_0$$.
+
+$$
+r_0 = {u_{y0} \over u_{x0}}
+$$
+
+The initial portfolio's value is
+
+$$
+P_0 = x_0 u_{x0} + y_0 u_{y0} = (x_0 + y_0 r_0) u_{x0}
+$$
+
+The portfolio with the price change is (buy and hold)
+
+$$
+P_{01} = x_0 u_{x1} + y_0 u_{y1} = (x_0 + y_0 r_1) u_{x1}
+$$
+
+The portfolio with LP's IL is (Note quantity has change to $$x_1$$and $$y_1$$.
+
+$$
+P_1 = x_1 u_{x1} + y_1 u_{y1} = (x_1 + y_1 r_1) u_{x1}
+$$
+
+The IL and portfolio PnL for Uniswap V2 is
+
+$$
+IL = {P_{01} \over P_1 - 1} = {{2 \sqrt {r_1 \over r_0}} \over {1 + {r_1 \over r_0}}} - 1
+$$
+
+$$
+PortPnL = {P_{01} \over P_0 - 1} = {(1 + {r_1 \over r_0}) \over 2} {u_{x0} \over u_{x1}} - 1
+$$
 
 ### Uniswap V2 Protocol
 
@@ -39,7 +91,7 @@ Let’s assume we have a balance of $100,000 in BTC/ETH pool distributed evenly 
 | Impermanent Loss |      0      |                   $410                   |                              $1,552                              |
 | Unrealized Loss  |   $49,105   |                  $49,105                 |                             -$19,688                             |
 
-* In the case of LP strategy to Uniswap v2, the impact of IL for the worst-case scenario is minimal and the worst-case scenario is the same as in the case for HODL strategy.
+* In the case of LP strategy to Uniswap v2, the impact of IL for the worst-case scenario is minimal and the worst-case scenario is the same as in the case for bu y and hold strategy.
 * The 99th worst-case IL is equal to $1,552 and is associated with an unrealized gain during the same period. Note that negative loss is a profit.
 
 ### Uniswap V3 Protocol
@@ -67,6 +119,29 @@ The VaR estimates for different price ranges are:
 
 Note that the range with the lower bound equal to 0 and high upper bound (x10) price corresponds to the Uniswap V2 that doesn’t have any LP range setting option.
 
+### **Implementation**
+
+The model is implemented in Cmf with model `finance.var-dex-lp`
+
+Testing result is shown below for end of date 2021-12-31 with 270-day horizon, 10-day return and 99% confidence level. The result differs from earlier calculation slightly due to different prices used.
+
+Pools:&#x20;
+
+* Uniswap V2: 0xCEfF51756c56CeFFCA006cD410B03FFC46dd3a58 WETH/WBTC
+* Uniswap V3: 0xcbcdf9626bc03e24f779434178a73a0b4bad62ed WETH/WBTC
+
+| Pool Type  | Range for upper/lower | VaR   | VaR without IL | VaR for IL |
+| ---------- | --------------------- | ----- | -------------- | ---------- |
+| Uniswap V2 | 100%                  | -37%  | -37%           | -2%        |
+| Uniswap V3 | 1%                    | -100% | -37%           | -100%      |
+| Uniswap V3 | 5%                    | -64%  | -37%           | -70%       |
+| Uniswap V3 | 10%                   | -41%  | -37%           | -35%       |
+| Uniswap V3 | 20%                   | -38%  | -37%           | -18%       |
+| Uniswap V3 | 40%                   | -37%  | -37%           | -9%        |
+| Uniswap V3 | 60%                   | -37%  | -37%           | -6%        |
+| Uniswap V3 | 80%                   | -37%  | -37%           | -4%        |
+| Uniswap V3 | 100%                  | -37%  | -37%           | -2%        |
+
 ## **Conclusion**
 
 Uniswap V2 does not introduce significant additional market risk to HODLing while Uniswap V3 can introduce impermanent loss exceeding 40% of the notional. However, inthe  case of VaR the primary driver is Unrealized loss from HODLing position hence observation date remains the same for most of the wider ranges.
@@ -78,6 +153,7 @@ It is assumed that no fees are received from Liquidity Providing (LPing) in both
 | Discord Handle | ETH Address                                | Reward           | Contribution     |
 | -------------- | ------------------------------------------ | ---------------- | ---------------- |
 | atulemis#0983  | 0x5fb7584838fB467e90bb8a1df3a278482e34E856 | 0 CMK (internal) | Original version |
+| kunlun#8324    | x109B3C39d675A2FF16354E116d080B94d238a7c9  | 0 CMK (internal) | Update           |
 
 
 
