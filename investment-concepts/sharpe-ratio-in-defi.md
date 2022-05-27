@@ -14,7 +14,7 @@ Using the Sharpe ratio as part of your fundamental analysis strategy helps to pr
 
 Sharpe ratio is defined as:
 
-![](broken-reference)
+![](<../.gitbook/assets/Bildschirmfoto 2022-04-07 um 18.00.46.png>)
 
 Sharpe ratio can be also used to construct or analyse the performance of a portfolio.
 
