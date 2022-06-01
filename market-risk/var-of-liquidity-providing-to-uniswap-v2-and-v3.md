@@ -121,13 +121,15 @@ Note that the range with the lower bound equal to 0 and high upper bound (x10) p
 
 ### **Implementation**
 
-The model is implemented in Cmf with model `finance.var-dex-lp`
+The model is implemented within the Credmark Model Framework (CMF) with model slug `finance.var-dex-lp`, more details on the implementation can be found [here](https://gateway.credmark.com/model-docs#operation/model-finance.var-dex-lp).
+
+### Model Output
 
 Testing result is shown below for end of date 2021-12-31 with 270-day horizon, 10-day return and 99% confidence level. The result differs from earlier calculation slightly due to different prices used.
 
 Pools:&#x20;
 
-* Uniswap V2: 0xCEfF51756c56CeFFCA006cD410B03FFC46dd3a58 WETH/WBTC
+* Uniswap V2: 0xbb2b8038a1640196fbe3e38816f3e67cba72d940 WETH/WBTC
 * Uniswap V3: 0xcbcdf9626bc03e24f779434178a73a0b4bad62ed WETH/WBTC
 
 | Pool Type  | Range for upper/lower | VaR   | VaR without IL | VaR for IL |
