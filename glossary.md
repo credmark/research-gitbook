@@ -90,7 +90,7 @@ L2 refers to a third-party integration (like a side-chain) that processes transa
 
 Liquidity Coverage Ratio (LCR) is used to measure liquidity risk. LCR is defined as the proportion of highly liquid assets held by an organization to ensure that they maintain an ongoing ability to meet their short-term obligations (cash outflows for 30 days) in a stress situation. Learn more [here](https://app.gitbook.com/s/CvSzFXd9R0tD7I4nw1KM/liquidity-risk/liquidity-coverage-ratio-lcr).&#x20;
 
-## Liquidity Providing&#x20;
+## Liquidity Provider&#x20;
 
 A Liquidity Provider (LP) is an investor who provides liquidity in terms of token to a protocol, normally an Automated Market Maker ([AMM](glossary.md#amm)), to help with decentralized trading. The LP normally receives a fraction of the trading fees based on his share in the Liquidity pool. Learn more [here](https://app.gitbook.com/s/pczHWX0UGGqzFp8kPqLN/investment-concepts/lping-return-of-uniswap-pools).
 
