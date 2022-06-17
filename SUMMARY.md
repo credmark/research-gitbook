@@ -31,7 +31,6 @@
   * [FRAX](asset-layer/stablecoins/frax.md)
   * [TUSD](asset-layer/stablecoins/tusd.md)
   * [FEI](asset-layer/stablecoins/fei.md)
-  * [UST (ERC-20)](asset-layer/stablecoins/ust-erc-20.md)
 * [Utility Token](asset-layer/utility-token.md)
 * [Governance Token](asset-layer/governance-token.md)
 * [Security Token](asset-layer/security-token.md)
