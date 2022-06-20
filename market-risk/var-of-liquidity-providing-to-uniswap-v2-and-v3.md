@@ -46,7 +46,7 @@ $$
 P_0 = x_0 u_{x0} + y_0 u_{y0} = (x_0 + y_0 r_0) u_{x0}
 $$
 
-The portfolio with the price change is (buy and hold)
+The portfolio with the price change is (HODL)
 
 $$
 P_{01} = x_0 u_{x1} + y_0 u_{y1} = (x_0 + y_0 r_1) u_{x1}
@@ -96,13 +96,37 @@ Let’s assume we have a balance of $100,000 in BTC/ETH pool distributed evenly 
 
 ### Uniswap V3 Protocol
 
-In the case of Uniswap V3, in contrast to V2, IL is also driven by the LP price range and initial price of the deal, which for our calculations is assumed to be the price at the reporting date. The function defining IL is then defined as:
+In the case of Uniswap V3, in contrast to V2, IL is also driven by the LP price range and initial price of the deal, which for our calculations is assumed to be the price at the reporting date.
+
+The function defining IL is then defined as:
+
+* When $$P_a \le P \le P_b$$​
 
 $$
 \text{IL}_{a,b}(k) = { { 2 \sqrt k - 1 - k} \over { 1 + k - \sqrt {p_a \over P} - k \sqrt{P \over p_b} } } = \text{IL}(k) \times \left ( { 1 \over { 1 - { \sqrt {p_a \over P} + k \sqrt { P \over p_b } \over {1 + k} } } } \right )
 $$
 
-where $$p_a$$ and $$p_b$$ are the lower and the higher bound of the set liquidity providing (LP) price range \[2], and $$P$$ is the current price of the associated pair. Since IL formula doesn’t consider quantity equilibrium implied in the LP position \[3], this is out of scope for the current calculation.
+* When $$P \le P_a$$
+
+$$
+{{1 \over \sqrt{P_a}} + {1 \over \sqrt{P_b}}} \over
+{
+{{\sqrt{P_b} - \sqrt{P_0}} \over { \sqrt{P_0} - \sqrt{P_a} }} +
+( {\sqrt{P_0} - \sqrt{P_a}} ) P_1
+}
+$$
+
+* ​When $$P_b \le P$$
+
+$$
+{ {\sqrt{P_b} - \sqrt{P_a}} }
+\over
+{
+  { {\sqrt{P_b} - \sqrt{P_0}} \over {\sqrt{P_0} - \sqrt{P_a}} } { 1 \over P_1} + { \sqrt{P_0} - \sqrt{P_a}}
+}
+$$
+
+where $$p_a$$ and $$p_b$$ are the lower and the higher bound of the set liquidity providing (LP) price range \[2], and $$P$$ is the current price of the associated pair.&#x20;
 
 Based on the same parameters:
 
