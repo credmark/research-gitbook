@@ -4,11 +4,13 @@ FRAX is an algorithmic stable coin pegged to the US dollar, partially backed by 
 
 ## Collateral Ratio (CR)
 
-The FRAX stable coin is backed both by collateral (mostly USDC) and by the value of the Frax governance token FXS. contains a parameter $$C_r$$ (between 0 and 1) representing the percentage of collateral value required to mint new FRAX tokens, and the (complementary) percentage of FXS required to be burned to mind new FRAX tokens. As of June 14, 2022 $$C_r = 89.5$$​.
+The FRAX stable coin is backed both by collateral (USDC) and by the value of the Frax governance token FXS. The protocol contains a parameter $$C_r$$ (between 0 and 1) representing the percentage of collateral value required to mint new FRAX tokens, and the (complementary) percentage of FXS required to be burned to mint new FRAX tokens. As of June 14, 2022 $$C_r = 89.5$$​.
 
 ### Minting FRAX
 
 To mint a single FRAX token, one supplies $$C_r$$ worth of collateral and burns $$1-C_r$$ worth of FXS tokens. More generally, to mint $$F$$ FRAX tokens using USDC as collateral (assuming USDC/dollar = 1) when the price of FXS is $$P$$ dollars, one must supply $$F \cdot C_r$$ in collateral and burn $$(1-C_r) \cdot \frac{F}{P}$$ FXS tokens.
+
+Minting FRAX is only permitted when the price of FRAX is above $1 (US).
 
 ### Edge Cases for CR
 
@@ -18,7 +20,9 @@ When the parameter $$C_r = 0$$, one must burn exactly $1 worth of FXS tokens to 
 
 ### Redeeming FRAX
 
-The variable $$C_r$$ also determines how FRAX tokens are redeemed. No matter when the token in question was minted, when it is submitted for redemption the protocol returns $$C_r$$ collateral and $$1-C_r$$ dollars worth of minted FXS.
+The variable $$C_r$$ also determines how FRAX tokens are redeemed. No matter when the specific token in question was minted, when it is submitted for redemption the protocol returns $$C_r$$ collateral and $$1-C_r$$ dollars worth of minted FXS.
+
+Redeeming FRAX is only permitted when the price of FRAX is below $1 (US).
 
 ### Price Stability
 
@@ -26,9 +30,11 @@ When $$C_r = 1$$, the price of FRAX is as stable as its collateral.
 
 When $$C_r < 1$$, and the price of FXS is greater than 0, there is an arbitrage opportunity created whenever the price of FRAX moves above or below $1. When FRAX is priced above $1, one can mint FRAX for $1 worth of collateral and FXS, and then sell the newly minted FRAX for the higher price. This arbitrage opportunity exists until Frax is priced at $1 again. When the price of FRAX moves below $1, one can purchase FRAX for the lower price and redeem it for $1 worth of collateral and FXS.&#x20;
 
-**Modeling Question:** we know these stabilizing forces failed to prevent price depegging in the case of UST/LUNA. For a given value of $$C_r$$, how much FRAX price volatility can this mechanism handle?
+**Modeling Question:** we know these stabilizing forces failed to prevent price depegging in the case of UST/LUNA. For a given value of $$C_r$$, how is FRAX price volatility impacted by this arbitrage? How does this depend on liquidity of FXS and volume of minting/redeeming of FRAX?
 
 ## Algorithmic Market Operations (AMOs)
+
+Given enough time and volume, the arbitrage mechanism described in [#price-stability](frax.md#price-stability "mention") will stabilize the price of FRAX to $1 US. How much time and volume are available depends strongly on the liquidity of FXS, and the FRAX protocol has developed mechanisms to automatically control the available to liquidity of FXS.
 
 ### Dynamically adjusted $$C_r$$
 
@@ -40,9 +46,11 @@ If the PIDController is decreasing, there is less available FXS liquidity relati
 
 In both cases, the impact of $$C_r$$​ on $$\textrm{PIDController}$$ depends on volume of FRAX minting/redemption.
 
-**Modeling Question:** What is the impact of $$\Delta C_r$$​ on $$\Delta \textrm{PIDController}$$? How does this depend on: volume, $$C_r$$, $$\textrm{PIDController}$$?
+**Modeling Question:** What is the impact of $$\Delta C_r$$​ on $$\Delta \textrm{PIDController}$$? How does this depend on: volume of minting/redemption, $$C_r$$, $$\textrm{PIDController}$$?
 
 **Modeling Question**: Compare the approximation of FXS liquidity to the actual liquidity of the FXS token. What can we say about the difference, and how does it impact the PIDController strategy?
+
+**Modeling Question:** How does $$\Delta C_r$$​impact FXS liquidity? How does this depend on volume of minting/redemption?
 
 ### The basic AMO
 
@@ -53,6 +61,10 @@ The FRAX protocol's parameter $$C_r$$​ is automatically adjusted in response t
 3. When PIDController is decreasing, $$C_r$$​ is increased.
 4. As the FRAX protocol accrues collateral in excess of $$\textrm{Total Supply of Frax} * C_r$$, these additional funds are used to mint an equivalent amount of FRAX, which are then used to purchase FXS on AMMs, which are then burned. This mechanism is designed to move (per capita) value of FRAX above $1 to the FXS token.
 
+**Modeling Question:** How do FRAX's fees for minting/redeeming impact earlier models?&#x20;
+
+**Modeling Question:** Are protocol fees the main mechanism by which FRAX protocol accrues value in excess of $$\textrm{Total Supply of Frax} * C_r$$? ​
+
 ### More general AMOs
 
 FRAX protocol allows for the creation of independent smart contracts that act in a similar way to the basic AMO. They are required to have the [following specifications](https://docs.frax.finance/amo/overview):
@@ -62,7 +74,7 @@ FRAX protocol allows for the creation of independent smart contracts that act in
 3. Recollateralize - some market actions that users can activate that impacts $$C_r$$​ by raising it. There is mention of permissions depending on price of FRAX falling below $1, but we wonder whether this is permissioned by the PIDController.
 4. FXS Value Accrual Mechanism - a formal accounting of the additional value of the AMO, and a strategy for using that excess value to acquire and burn an equivalent amount of FXS (thereby transferring the excess value to the FXS token)
 
-The following examples of AMOs are described in the FRAX documentation.&#x20;
+The following examples of AMOs are referenced in the FRAX documentation.&#x20;
 
 #### [Collateral Investor](https://docs.frax.finance/amo/collateral-investor) AMO
 
