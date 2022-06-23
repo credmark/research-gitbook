@@ -17,13 +17,13 @@ When Markowitz broke the ground of portfolio analysis with Modern Portfolio Theo
 
 The theory was proposed on the stock market initially. We will reintroduce it in the context of the DeFi tokens.
 
-1. Every token can be characterized with an expected return (an outlook for its future return) and risk (volatility of return). This is recorded in the covariance matrix .
+1. Every token can be characterized with an expected return (an outlook for its future return) and risk (volatility of return). This is recorded in the covariance matrix $$\sum$$
 
 ![](../.gitbook/assets/spaces\_-MkJ0dzQo6YDZo4GXlAc\_uploads\_54vVNtRUusa1iHJG2DjQ\_0.png)
 
-1. With a portfolio of tokens, we can assign weights as capital allocated to each token. Nevertheless, the negative weights are permissive (shorting positions) and the same method can be used to solve the solution. This is denoted as vector .
-2. The portfolio’s risk can be estimated with the covariance matrix of all the tokens and weights. This is calculated as a product between the weights and the covariance matrix ![](broken-reference).
-3. The portfolio’s return can be calculated with the expected return and the weights. This is calculated as the product between the weights and expected return ![](broken-reference).
+1. With a portfolio of tokens, we can assign weights as capital allocated to each token. Nevertheless, the negative weights are permissive (shorting positions) and the same method can be used to solve the solution. This is denoted as vector $$w$$
+2. The portfolio’s risk can be estimated with the covariance matrix of all the tokens and weights. This is calculated as a product between the weights and the covariance matrix $$\omega ^{T} \sum \omega$$
+3. The portfolio’s return can be calculated with the expected return and the weights. This is calculated as the product between the weights and expected return $$\omega ^{T} \mu$$
 
 In order to solve the minimal risk for a given return target, we have the following constraints to be satisfied.
 
@@ -40,6 +40,8 @@ The process of solving this is a typical optimization problem in mathematics. Ma
 If we varied the target risk levels and solve the optimization problem, we will obtain the efficient frontier as the lower level of risk with a return target, or alternatively, the highest level of return with a risk target. This could be better illustrated in the figure below.
 
 Each dot in the figure represents a portfolio composed of certain weights. It’s characterized by the expected return and the volatility of the such return. The optimization for the minimal risk at all possible levels of return would yield a boundary line, which represents the most efficient usage of the capital with minimized risk at a level of return. Any dots inside the boundary line represent portfolios with either lower return at a risk target, or higher risk at a return target. For example, the red dot inside the EF has higher risk than the green dot sitting on the EF on the same level of return, and lower return than the blue dot sitting on EF with the same level of risk. Such a boundary is called the efficient frontier.
+
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 17.39.00.png>)
 
 ### Walk-through Examples <a href="#_8coz1nipgtqo" id="_8coz1nipgtqo"></a>
 
@@ -69,6 +71,8 @@ The tokens are: BTC, ETH, UNI, COMP, AAVE, CRV, USDT. They consist of stable coi
 
 As we break down the Sharpe Ratio back to average return and standard deviation, we plot them onto a figure as shown below. The slope passing through the point is the Sharpe ratio without the risk-free rate. This is how Markowitz’s finding was leading in 1952. Each dot represents a portfolio of 100% invested to that token.
 
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 17.40.18.png>)
+
 This figure looks ordinary but we can fill it up with portfolios with weights in multiple tokens, instead of one token per portfolio. In the figure below, the large gray dots are the same as the previous figure but we have more small colored dots (colored according to its Sharpe Ratio, the purple/blue represent high and the green/yellow represent low) representing the portfolios with multiple tokens. The blue line is the efficient frontier. It illustrates the boundary of the small dots that can not go beyond towards the higher Sharpe Ratio, which is the left-top corner. The efficient frontier links the USDT, ETH and CRV. The USDT is of 0 risk and 0 return. The ETH has about 250% annualized return and 120% annualized standard deviation. And the CRV goes beyond ETH with close to 300% annualized return and 140% annualized standard deviation. The efficient frontier is the 2-dimensional visualization of the Sharpe Ratio.
 
 ![](../.gitbook/assets/spaces\_-MkJ0dzQo6YDZo4GXlAc\_uploads\_TI4vnAaWtl5pzEGXwRdL\_8.png)
@@ -87,6 +91,8 @@ USDT is considered as a riskless asset, occupying the (0,0) point. If we exclude
 
 If we would have the maximized return, we shall have invested 100% in CRV. If we would have the minimal risk, we would have invested into the portfolio at the large red dot. Such a portfolio is with the weights of 32% CRV, 31% COMP, 22% UNI and 15% AAVE. It’s arguable that investment into the three non-CRV tokens would be losses. The return drops from 291% (all in CRV) to 118% (in four tokens). However, it does bring down the volatility from 140% (all in CRV) to 118% (in four tokens). The minimal risk portfolio is the most conservative portfolio. Practically, we will find an allocation along the efficient frontier, indicated by the box shown in the figure.
 
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 17.41.30.png>)
+
 In summary, the mean-variance analysis produces the efficient frontier is a comprehensive view of the outcome of all possible combinations of the tokens in a portfolio. It represents an analysis framework from data to portfolio allocation decisions. This is such an important contribution from Markowitz to modern finance.
 
 As we have noted earlier, there is a major limitation in applying this framework, which is how to estimate for the return and covariance and make the framework for practical use. We will continue the discussion in the section below.
@@ -102,7 +108,7 @@ To make efficient frontier working in practice, we have highlighted a few points
 
 We will discuss each point in detail.
 
-1. Divide into sectors and apply the EF model within the sector.
+1. **Divide into sectors and apply the EF model within the sector.**
 
 Schematically, we could have below sectors.
 
@@ -157,7 +163,7 @@ The EF plot has shown that the MKR and AAVE has become a much more stable asset,
 
 ![](../.gitbook/assets/spaces\_-MkJ0dzQo6YDZo4GXlAc\_uploads\_jHZBesYoosyA6LlgegUZ\_18.png)
 
-1. Use a shrinked matrix and properly estimated expected return.
+**2. Use a shrinked matrix and properly estimated expected return**
 
 The EF is very sensitive to the input data. We have shown one example just above for different inputs of expected returns and covariance matrix.
 
@@ -189,7 +195,7 @@ Such sensitivity makes the model a double-sided sword. If we can get the expecte
 
 Hence, we will bring out the next section.
 
-1. The Black-Litterman model
+**3. The Black-Litterman model**
 
 The Black-Litterman model combines the subjective views of an investor regarding the expected returns. We may specify our view towards the future growth. For example, we may specify projected absolute views on return, MATIC +40%, SOL +120%, SAND +30% and DOGE -20%.
 
@@ -209,9 +215,15 @@ For minimal risk: MATIC 8%, SOL: 27%, SAND: 62%, DOGE 3%
 
 Below figure shows the EF for such MATIC-SOL-SAND-DOGE portfolio.
 
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.09.19.png>)
+
 The covariance (above) and correlation (below) matrices are shown below. The standard deviation of the tokens are MATIC 1.8, SOL 1.5, SAND 1.2 and DOGE 3.8. Except DOGE, the other three tokens are about 0.4-0.5 correlation to each other. The minimal risk portfolio allocation will make the tokens of small standard deviation to be high in weights. The max Sharpe ratio portfolio allocation will leverage between standard deviation (risk) and expected returns.
 
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.10.05.png>)
+
 The BL model also takes input of relative views, such as MATIC +20% and SOL outperforms MATIC by 50%, SAND +30%, and SAND outperforms DOGE by 10%. The EF plot is shown below.
+
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.10.38.png>)
 
 The portfolio allocations are below. The minimal risk portfolio allocations are almost the same as the previous absolute views. The minimal risk portfolio allocation is mostly impacted by the covariance matrix input. As the BL model mainly optimizes for the expected return so it is little impacted.
 
@@ -227,7 +239,7 @@ For minimal risk: MATIC 8%, SOL: 27%, SAND: 62%, DOGE 3%
 * Annual volatility: 110.1%
 * Sharpe Ratio: 4.59
 
-1. Use non-mean-variance metric.
+**4. Use non-mean-variance metric.**
 
 **Semivariance**
 
@@ -245,7 +257,11 @@ Hierarchical Risk Parity is a novel portfolio optimization method developed by M
 
 The initial allocation with HRP will result in allocations all into stable coins, as shown in figure below.
 
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.11.45.png>)
+
 We excluded the stable coins and re-run the model and below figure shows a rather diversified allocation to the tokens.
+
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.13.55.png>)
 
 Such portfolio will have a performance of
 
@@ -264,6 +280,8 @@ CVaR (Conditional VaR) is a measure for the tail risk. In Markowitz's framework,
 * Allocation: SAND 0.82%, MATIC 9%, SOL 6%, DOGE 2.5%.
 
 Below figure shows the solution space to optimize for CVaR.
+
+![](<../.gitbook/assets/Bildschirmfoto 2022-06-23 um 21.14.35.png>)
 
 ### Conclusion <a href="#_y4wz2f8ddryi" id="_y4wz2f8ddryi"></a>
 

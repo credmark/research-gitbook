@@ -9,7 +9,7 @@ This document lists down some of the existing protocols that are being used by L
 
 ### dHedge
 
-[https://app.dhedge.org/](https://app.dhedge.org)
+[https://app.dhedge.org/](https://app.dhedge.org/)
 
 ​dHEDGE is a one-stop location for managing investment activities on-chain where you can put your capital to work in different strategies based on a transparent track record
 
@@ -82,7 +82,7 @@ Investments are also covered by InsurAce for certain types of hacks.
 
 ### Charm Finance (Alpha Vaults)
 
-[https://charm.fi/](https://charm.fi)
+[https://charm.fi/](https://charm.fi/)
 
 Alpha Vaults is an automated LP vault for Uniswap V3. It was the first Uniswap V3 LP vault to launch; and the simplest, most stable, and highest returning LP vault of its kind.
 
@@ -132,7 +132,7 @@ This vault has currently two active positions in Uniswap V3 with base order betw
 
 ### Lixir Finance
 
-[https://lixir.finance/](https://lixir.finance)
+[https://lixir.finance/](https://lixir.finance/)
 
 Lixir Finance, like Alpha Vaults, is an automated LP vault for Uniswap V3. When a user deposits assets into one of these vaults, the protocol adds the assets to its liquidity position in an external AMM (e.g. Uniswap V3) in order to start gaining yield for the user.&#x20;
 
@@ -152,7 +152,7 @@ Currently, 6 pools and strategies are deployed on Lixir finance with APY reachin
 
 ### Visor Finance
 
-[https://www.visor.finance/](https://www.visor.finance)
+[https://www.visor.finance/](https://www.visor.finance/)
 
 Visor describes itself as tooling for active liquidity management on concentrated liquidity AMM's such as Uniswap v3. Visor developed a series of smart contracts and management infrastructure used by managers and market makers. Visor has merged with Gamma Strategies
 
@@ -179,7 +179,7 @@ Visor finance have provided with an average fee-based APR of 25% for its GAMMA t
 
 ### Aloe Capital(Blend Vaults)
 
-[https://aloe.capital/](https://aloe.capital)
+[https://aloe.capital/](https://aloe.capital/)
 
 The Aloe Protocol is a liquidity allocator for AMMs, targeting Uniswap V3 at launch. Aloe Blend uses a hybrid liquidity management system that's designed to earn more trading fees for liquidity providers (LPs) without requiring them to select specific ranges or manually move their funds around.
 
@@ -201,7 +201,7 @@ There are five strategies deployed on Aloe capital for five different pools with
 
 ### Universe Finance
 
-[https://www.universe.finance/](https://www.universe.finance)
+[https://www.universe.finance/](https://www.universe.finance/)
 
 Universe Finance is an active liquidity management platform of Uniswap V3 based on risk ranking and quantitative strategies.&#x20;
 
