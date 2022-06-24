@@ -277,7 +277,7 @@ CVaR (Conditional VaR) is a measure for the tail risk. In Markowitz's framework,
 
 * Expected annual return: 328.4%
 * Conditional Value at Risk: 11.63%
-* Allocation: SAND 0.82%, MATIC 9%, SOL 6%, DOGE 2.5%.
+* Allocation: SAND 82.5%, MATIC 9%, SOL 6%, DOGE 2.5%.
 
 Below figure shows the solution space to optimize for CVaR.
 
