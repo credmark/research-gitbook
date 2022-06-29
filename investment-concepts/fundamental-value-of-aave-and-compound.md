@@ -80,7 +80,7 @@ Historical net interest margin data. Figures are annualized.&#x20;
 
 ## **Version Control**
 
-| **Version / Submission Date** | **Change Summary** | **Author(s) (Discord Handle, ETH Address, Reward)**                                                                                                                              | **Reviewer(s) (Discord Handle, ETH Address, Reward)**                                                                                            |
-| ----------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p>1.0 / <br>29 June 2022</p> | Created            | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)<br><br>crypticPun#1697, 0x05Fe7045E0A28949C2ee33a331Ad4605DE455F95, 0 CMK (internal)</p> | <p>harri tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>matt | CMK#9019, mattropolis.eth, 0 CMK (internal)</p> |
+| **Version / Submission Date** | **Change Summary** | **Author(s) (Discord Handle, ETH Address, Reward)**                                         | **Reviewer(s) (Discord Handle, ETH Address, Reward)**                                                                                            |
+| ----------------------------- | ------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>1.0 / <br>29 June 2022</p> | Created            | <p>atulemis#0983,<br>0x5fb7584838fB467e90bb8a1df3a278482e34E856,</p><p>0 CMK (internal)</p> | <p>harri tarni,<br>0x295B61866dAA53a76CE4b3a927EFAF0059b4a90A,<br>0 CMK (internal)<br><br>matt | CMK#9019, mattropolis.eth, 0 CMK (internal)</p> |
 
