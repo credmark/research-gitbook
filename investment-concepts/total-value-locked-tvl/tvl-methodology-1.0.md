@@ -22,7 +22,7 @@ Lending/borrowing protocols TVL is defined by major DeFi players \[2,3] as
 
 For decentralized exchanges (DEXs), TVL is defined differently. The first variation is the sum of assets in automatic market marking (AMM) pools and order book \[4]:
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ### Liquidity Providing (Variation 2)
 

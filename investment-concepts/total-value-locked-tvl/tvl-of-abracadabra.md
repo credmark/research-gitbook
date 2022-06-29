@@ -46,7 +46,7 @@ Dashboard = **$ 3.89 Bln**&#x20;
 
 Defillama    = **$ 3.35 Bln**
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 ### Ethereum Chain - TVL:
 

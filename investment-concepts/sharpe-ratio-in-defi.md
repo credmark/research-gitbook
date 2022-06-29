@@ -36,7 +36,7 @@ Let’s try to apply the same concept to cryptocurrencies. We’ve used differen
 
 Figure 1 provides an analysis of monthly returns for 23 DeFi tokens sampled over trailing 3 months, 6 months and 1 year from 19 January 2022.
 
-![Figure 1](../.gitbook/assets/image.png)
+![Figure 1](<../.gitbook/assets/image (5).png>)
 
 Figure 2 - for fortnightly returns
 
