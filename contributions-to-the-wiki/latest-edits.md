@@ -6,6 +6,10 @@ description: Find below the latest updates to articles in the Credmark Wiki.
 
 ## June 2022
 
+### Financial Modeling
+
+{% embed url="https://docs.credmark.com/smart-money-in-defi/investment-concepts/fundamental-value-of-aave-and-compound" %}
+
 ### DeFi 101
 
 {% embed url="https://docs.credmark.com/the-credmark-s-guide-to-defi/protocol-layer/dexes/bancor" %}
