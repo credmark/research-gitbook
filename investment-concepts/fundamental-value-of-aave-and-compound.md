@@ -32,7 +32,7 @@ As its name indicates, the model is based on two stages. The first is the short-
 
 In mathematical terms, the fundamental value of the company based on its cash flows (or dividends) could be expressed as:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ### Perpetual Growth DCF Model
 

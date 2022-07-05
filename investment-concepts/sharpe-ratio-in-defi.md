@@ -40,7 +40,7 @@ Figure 1 provides an analysis of monthly returns for 23 DeFi tokens sampled over
 
 Figure 2 - for fortnightly returns
 
-![Figure 2](<../.gitbook/assets/image (1).png>)
+![Figure 2](<../.gitbook/assets/image (1) (1).png>)
 
 Figure 3 - for weekly returns
 
