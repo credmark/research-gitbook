@@ -35,17 +35,17 @@ The balance ratio is 0 exactly when one of the pool tokens represents all the va
 
 The following table displays balance ratio values based on a few different value ratios.
 
-| Value Ratio of Token 1 | Value Ratio of Token 2 | Balance Ratio of Pool |
-| ---------------------- | ---------------------- | --------------------- |
-| $$r_1$$​               | $$r_2$$                | $$\textrm{br}$$       |
-| 0.5                    | 0.5                    | 1                     |
-| 0.6                    | 0.4                    | 0.96                  |
-| 0.7                    | 0.3                    | 0.84                  |
-| 0.8                    | 0.2                    | 0.64                  |
-| 0.9                    | 0.1                    | 0.36                  |
-| 0.99                   | 0.01                   | 0.0396                |
-| 0.999                  | 0.001                  | 0.003996              |
-| 1                      | 0                      | 0                     |
+| Value Ratio of Token 1 | Value Ratio of Token 2 | Balance Ratio   |
+| ---------------------- | ---------------------- | --------------- |
+| $$r_1$$​               | $$r_2$$                | $$\textrm{br}$$ |
+| 0.5                    | 0.5                    | 1               |
+| 0.6                    | 0.4                    | 0.96            |
+| 0.7                    | 0.3                    | 0.84            |
+| 0.8                    | 0.2                    | 0.64            |
+| 0.9                    | 0.1                    | 0.36            |
+| 0.99                   | 0.01                   | 0.0396          |
+| 0.999                  | 0.001                  | 0.003996        |
+| 1                      | 0                      | 0               |
 
 #### FRAX-3CRV
 
@@ -79,18 +79,18 @@ For example, every constant-product AMM _defines the price of its tokens_ so tha
 
 For a pool P with three tokens, $$\textrm{tkn}_1, \textrm{tkn}_2, \textrm{ and } \textrm{tkn}_3$$​, with corresponding prices $$p_1,p_2, \textrm{ and } p_3$$ and corresponding amounts in the pool $$n_1, n_2, \textrm{ and } n_3$$​ the corresponding value ratios are $$r_1 = \frac{p_1n_1}{p_1n_1+p_2n_2+p_3n_3}$$​, $$r_2 =  \frac{p_2n_2}{p_1n_1+p_2n_2+p_3n_3}$$​, $$r_3 = \frac{p_3n_3}{p_1n_1+p_2n_2+p_3n_3}$$. The balance ratio of the pool is defined to ​be $$\textrm{br}(P) = 27r_1r_2r_3 .$$​ Unwinding the definition gives $$\textrm{br}(P) = 27 \frac{p_1n_1p_2n_2p_3n_3}{(p_1n_1+p_2n_2+p_3n_3)^3}$$.​
 
-| Value Ratio of Token 1         | Value Ratio of Token 2         | Value Ratio of Token 3        | Balance Ratio of Pool |
-| ------------------------------ | ------------------------------ | ----------------------------- | --------------------- |
-| $$r_1$$​                       | $$r_2$$​                       | $$r_3$$​                      | $$\textrm{br}$$​      |
-| $$\frac{1}{3} \approx 0.333$$​ | $$\frac{1}{3} \approx 0.333$$​ | $$\frac{1}{3} \approx 0.333$$ | 1                     |
-| 0.3                            | 0.3                            | 0.4                           | 0.972                 |
-| 0.2                            | 0.4                            | 0.4                           | 0.864                 |
-| 0.2                            | 0.3                            | 0.5                           | 0.81                  |
-| 0.2                            | 0.2                            | 0.6                           | 0.648                 |
-| 0.1                            | 0.3                            | 0.6                           | 0.486                 |
-| 0.1                            | 0.2                            | 0.7                           | 0.378                 |
-| 0.1                            | 0.1                            | 0.8                           | 0.216                 |
-| 0                              | 0.5                            | 0.5                           | 0                     |
+| Value Ratio of Token 1         | Value Ratio of Token 2         | Value Ratio of Token 3        | Balance Ratio    |
+| ------------------------------ | ------------------------------ | ----------------------------- | ---------------- |
+| $$r_1$$​                       | $$r_2$$​                       | $$r_3$$​                      | $$\textrm{br}$$​ |
+| $$\frac{1}{3} \approx 0.333$$​ | $$\frac{1}{3} \approx 0.333$$​ | $$\frac{1}{3} \approx 0.333$$ | 1                |
+| 0.3                            | 0.3                            | 0.4                           | 0.972            |
+| 0.2                            | 0.4                            | 0.4                           | 0.864            |
+| 0.2                            | 0.3                            | 0.5                           | 0.81             |
+| 0.2                            | 0.2                            | 0.6                           | 0.648            |
+| 0.1                            | 0.3                            | 0.6                           | 0.486            |
+| 0.1                            | 0.2                            | 0.7                           | 0.378            |
+| 0.1                            | 0.1                            | 0.8                           | 0.216            |
+| 0                              | 0.5                            | 0.5                           | 0                |
 
 **Modeling Question:** What is the average balance ratio for three-token pools on Curve?
 
