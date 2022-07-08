@@ -86,6 +86,60 @@ The following examples of AMOs are referenced in the FRAX documentation.&#x20;
 
 #### [FRAX Lending](https://docs.frax.finance/amo/frax-lending) AMO
 
+## PIDController and FRAX Protocol Solvency
+
+In order for FRAX to maintain its peg, the FRAX protocol must be able to redeem each FRAX token for $$C_r$$​ USDC and $$(1-C_r)$$​ dollars worth of FXS. This means that in order for the FRAX protocol to be solvent, there are two distinct requirements:
+
+1. For each FRAX  token that could possibly be redeemed, FRAX protocol must have $$C_r$$​ liquid USDC. Overall, this means FRAX protocol must have access to $$\textrm{totalRedeemableFRAX} * C_r$$​ liquid USDC.
+2. For each FRAX token that could possibly be redeemed, there must be $$(1-C_r)$$ USD of extractable value in FXS token markets. This means that the FXS market must have $$\textrm{totalRedeemableFRAX} * (1-C_r)$$​ of reliably extractable USD. Moreover, this value must be reliably extracted by $$\frac{\textrm{totalRedeemableFRAX} * (1-C_r)}{\textrm{priceFXS}}$$ FXS tokens, as this is the amount of FXS the FRAX protocol will return if all redeemable FRAX is redeemed.
+
+The first requirement is a familiar problem from traditional finance and treasury risk management: "If X is the total amount of liquid USDC we need in the worst case, how much do we need to actually keep in hand?"&#x20;
+
+In the next sections, we'll analyze the second requirement against the FRAX protocol structure.
+
+### Definitions
+
+In [Dynamically Adjusted](frax.md#dynamically-adjusted) $$C_r$$, we described the PIDController as the ratio of an approximation of FXS liquidity to the total supply of FRAX tokens. This measure is intended to approximate how solvent FRAX protocol is with respect to Requirement 2.&#x20;
+
+A more precise definition is $${ \textrm{PIDController}(t) = \frac{\displaystyle   \sum_{\textrm{pair markets } FXS:TKN} \textrm{Price}(FXS, TKN, t) \cdot \textrm{Supply}(FXS,TKN, t)}{\displaystyle   \textrm{totalFRAXSsupply}(t)}}$$The approximation used here for FXS liquidity is market-cap​, which is known to overestimate liquidity as it assumes every token can be sold for the current price, rather than taking slippage into account (as more tokens sell, the price drops).
+
+We define another invariant, which we call the solvencyController, as follows
+
+$${\textrm{solvencyController}(t) = \frac{\displaystyle \sum_{\textrm{pair markets } FXS:TKN} \textrm{totalUSDExtractable}(FXS, TKN,t)}{\displaystyle \textrm{totalFRAXSsupply}(t)}}$$​This measure by definition includes slippage in the calculation of liquidity, and so is a precise measure of the ratio of extractable dollars in FXS market to total FRAX supply.
+
+Both of these measures change with time, and we include that parameter in the definitions.
+
+### Analysis
+
+#### Solvency is measured by the solvencyController
+
+We give the solvencyController it's name because for a given value of $$C_r$$​, the FRAX protocol is solvent in the sense of Requirement 2 (able to fund the FXS portion of arbitrage redemption of all redeemable FRAX tokens) if and only if the following equation holds:&#x20;
+
+$$\displaystyle \textrm{solvencyController}(t) \geq (1-C_r)$$.
+
+#### Relationship between PIDController and solvencyController
+
+Because market cap is always an overestimate of extractable dollar value (because it ignores slippage), we have the following relationship between the PIDController and solvencyController:
+
+$$\displaystyle \textrm{PIDController}(t) \geq \textrm{solvencyController}(t)$$.
+
+#### Possible exposure to FXS insolvency​
+
+Because the PIDController is the primary invariant controller the movement of $$C_r$$​, and because it is always greater than the solvencyController, the door is open for the following situation:
+
+$$\textrm{PIDController}(t) \geq 1 - C_r > \textrm{solvencyController}(t)$$.
+
+What this means is that the PIDController can indicate "everything is good, we are totally solvent" while in fact the protocol is insolvent when accounting for slippage. In this situation, the PIDController may even move $$C_r$$ so that the FRAX protocol leans more heavily on an already insufficient FXS liquidity.
+
+**Modeling Questions:**&#x20;
+
+1. How do PIDController and solvencyController relate to each other historically?&#x20;
+2. How do PIDController and solvencyController compare to $$(1-C_r)$$​ historically? In particular, have either of these measures ever disagreed about whether FRAX protocol was solvent with respect to Requirement 2?
+3. How do the calculations in our analysis change when $$C_r$$​ is not fixed (as we assumed at the start), but adjusting dynamically in response to the PIDController?
+4. How do the calculations in our analysis change if instead $$C_r$$ were adjusting dynamically in response to solvencyController rather than PIDController?
+5. Can we describe market conditions that would lead to the risk regime $$\textrm{PIDController}(t) \geq 1 - C_r > \textrm{solvencyController}(t)$$?
+6. If the protocol dynamically adjusted $$C_r$$ by solvencyController rather than PIDController, how would the protocol respond to the market conditions discovered in Modeling Question 5?&#x20;
+
 #### Token:
 
 {% embed url="https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e" %}
