@@ -106,3 +106,9 @@ Among all such $$n$$​-dimensional rectangles where the sum of the lengths is c
 
 By definition, the cube has all of its lengths the same size; since they add to 1, and there are $$n$$​ of them, each of the cube's lengths is equal to $$\frac{1}{n}$$​, so the volume of this cube is $$\prod_{k=1}^n \frac{1}{n} = (\frac{1}{n})^n.$$ This gives $$\textrm{br}(P) = \frac{r_1 r_2 \cdots r_n}{(\frac{1}{n})^n} = n^n r_1 r_2 \cdots r_n$$​ as above. When $$n = 2$$​ we recover the first formula for two-token pools $$\textrm{br}(P)=4 r_1 r_2$$​ and when $$n=3$$​ we recover the formula for three-token pools $$\textrm{br}(P)=27 r_1 r_2 r_3$$​.
 
+## Contributors
+
+| Discord Handle  | ETH Address | Reward            | Contribution     |
+| --------------- | ----------- | ----------------- | ---------------- |
+| corepresentable |             | 0 $CMK (internal) | Original version |
+
