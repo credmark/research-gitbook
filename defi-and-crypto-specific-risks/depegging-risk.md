@@ -10,11 +10,11 @@ The easiest way to maintain a peg is to deposit an equivalent amount of US-Dolla
 
 ### **Peg is secured by other crypto assets**&#x20;
 
-As crypto and especially the DeFi-World strives to become independent from the TradFi world and its outdated banking system, several protocols created ways to mint a stablecoin that maintains its peg to the US-Dollar without the need to hold any fiat money in a banking account but instead hold a treasury of other crypto tokens. Based on the US-Dollar value of this underlying basket of tokens, new stablecoins will be either minted or burned in a way to that one stablecoin token always equals one US-Dollar. As the underlying crypto assets are volatile, most protocols (like Maker DAO with its [DAI token](https://docs.credmark.com/the-credmark-s-guide-to-defi/asset-layer/stablecoins/dai)) require overcollateralization and the protocol will liquidate pledge collateral to maintain the peg.
+As crypto and especially the DeFi-World strives to become independent from the TradFi world and its outdated banking system, several protocols created ways to mint a stablecoin that maintains its peg to the US-Dollar without the need to hold any fiat money in a banking account but instead hold a treasury of other crypto tokens. Based on the US-Dollar value of this underlying basket of tokens, new stablecoins will be either minted or burned in a way to that one stablecoin token always equals one US-Dollar. As the underlying crypto assets are volatile, most protocols (like Maker DAO with its DAI token) require overcollateralization and the protocol will liquidate pledge collateral to maintain the peg.
 
 ### **Peg is secured by smart contracts**
 
-As overcollateralization removes a lot of liquidity from the markets, the "newest" versions of stablecoins tried to get rid of any "outside collateral" to maintain their peg. These stablecoins are often called algorithmic stablecoins, as a smart contract automatically rebalances the available amount of outstanding stablecoins to reflect the 1:1 peg to the US-Dollar. The most famous example so far was [UST](https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg).
+As overcollateralization removes a lot of liquidity from the markets, the "newest" versions of stablecoins tried to get rid of any "outside collateral" to maintain their peg. These stablecoins are often called algorithmic stablecoins, as a smart contract automatically rebalances the available amount of outstanding stablecoins to reflect the 1:1 peg to the US-Dollar. The most famous example so far was UST.
 
 ### **So how can a Depeg now happen?**
 
@@ -24,7 +24,7 @@ In terms of algorithmic stablecoins, any manipulation on the value of the underl
 
 In May 2022 we saw the drama of UST, an algorithmic stablecoin worth more than $18b in market capitalization to loose its peg and causing some severe turmoil on the markets.
 
-{% embed url="https://docs.credmark.com/risk-insights/research/what-caused-ust-to-depeg" %}
+{% embed url="https://credmark.com/blog/what-caused-ust-to-de-peg" %}
 
 {% embed url="https://research.thetie.io/trial-of-the-lunatics-the-story-of-anchor-ust-and-luna" %}
 
@@ -32,7 +32,7 @@ In May 2022 we saw the drama of UST, an algorithmic stablecoin worth more than $
 
 ### Other Forms of Depeg
 
-Aside from stablecoins, there might occur other forms of Depegging that present risk for investors. Most recently, the stETH token from [Lido](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/staking/lido-finance) lost its peg to ETH due to some heavy market turbulence (caused by the UST meltdown) and the need from investors to withdraw their ETH from the biggest stETH/ ETH trading pool on [Curve ](https://docs.credmark.com/the-credmark-s-guide-to-defi/protocol-layer/dexes/curve)to secure their other leveraged positions.&#x20;
+Aside from stablecoins, there might occur other forms of Depegging that present risk for investors. Most recently, the stETH token from Lido lost its peg to ETH due to some heavy market turbulence (caused by the UST meltdown) and the need from investors to withdraw their ETH from the biggest stETH/ ETH trading pool on Curve to secure their other leveraged positions.&#x20;
 
 {% embed url="https://blockworks.co/signs-of-next-crypto-depegging/" %}
 

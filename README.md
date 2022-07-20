@@ -1,23 +1,16 @@
-# The Credmark Wiki
+# Introduction
 
-Credmark is a financial modeling platform powered by reliable on-chain data. Validated models are readily composable making rapid app development simple.
+Traditional finance has a strong existing risk infrastructure and knowledge base. As investors and institutions yeet assets over to Crypto and make use of the financial instruments in DeFi, we need to consider a new subset of risks.
 
-The Credmark ecosystem is built upon three pillars, the Data API, the Credmark Wiki, and the Credmark Platform.
+Thus, we will do a deep dive into [DeFi & Crypto-specific risks](broken-reference) and explore what makes DeFi special in terms of the risk you will encounter.
 
-![Credmark Ecosystem](.gitbook/assets/Graph.png)
+Afterwards, we will look at some established risk measures for [Market Risk](broken-reference) and [Liquidity Risk](broken-reference) and how this can be applied to DeFi.
 
-The Credmark Wiki provides context as well as best practices for **FINANCIAL MODELING** in DeFi, without the expectation to ever be fully complete.
+Finally, we take a look at [Operational Risk](broken-reference) with focus on Legal Risk as this a very special circumstance many DAOs and Protocol need to pay attention to.
 
-The FINANCIAL MODELING section is made up of three sub-chapters, so
+## Contributors
 
-* Dealing with Risks,
-* Smart Money in DeFi,
-* Data Fundamentals
-
-[**Dealing with Risks**](https://docs.credmark.com/dealing-with-risks/) **** provides an overview of DeFi & Crypto-specific risks as well as established risk metrics like VaR and LCR and how to measure and apply them within a DeFi context.
-
-[**Smart Money in DeFi**](https://docs.credmark.com/smart-money-in-defi/) **** explains relevant approaches to analyze, optimize and measure performance and risks for a DeFi-portfolio.
-
-Finally, [**Data Fundamentals**](https://docs.credmark.com/data-fundamentals/) describes the necessary underlying data that is required for modeling.
-
-Please visit our [**Blog**](https://credmark.com/blog) for the latest technical analysis, partnerships, and community updates.
+| Discord Handle   | ETH Address     | Reward            | Comments |
+| ---------------- | --------------- | ----------------- | -------- |
+| Matt \| CMK#9019 | mattropolis.eth | 0 $CMK (internal) | Update   |
+| neil#9614        | neilz.eth       | 0 $CMK (internal) | Create   |
