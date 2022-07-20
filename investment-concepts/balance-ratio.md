@@ -9,7 +9,7 @@ The balance ratio is an abstract measurement of how balanced value is among the 
 These features of the balance ratio offer the follow uses for measuring risk:
 
 1. &#x20;A low balance ratio for a pool indicates that there is a heavy overweight of value in one token, which means more market participants are providing this token as liquidity to the pool. In the event that there is a run to sell the overweighted token, _the imbalance in the pool describes how many tokens will be unable to be swapped._
-2. For [stablecoins](https://docs.credmark.com/the-credmark-s-guide-to-defi/asset-layer/stablecoins), this sell-pressure could be an indicator for potential [depegging](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/depegging-risk). In cases where a stable coin has depegged, it can be telling to monitor the balance ratio as the token price moves (toward or away from its peg). For example, if the token regains its peg but the balance ratio continues to drop, this may indicate some underlying market dynamics have not yet recovered even though the price of the token has.
+2. For stablecoins, this sell-pressure could be an indicator for potential [depegging](https://docs.credmark.com/dealing-with-risks/defi-and-crypto-specific-risks/depegging-risk). In cases where a stable coin has depegged, it can be telling to monitor the balance ratio as the token price moves (toward or away from its peg). For example, if the token regains its peg but the balance ratio continues to drop, this may indicate some underlying market dynamics have not yet recovered even though the price of the token has.
 
 ## For Two-Token Pools
 
