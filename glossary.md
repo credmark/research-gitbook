@@ -2,7 +2,7 @@
 
 ## Alpha
 
-In the [TradFi](glossary.md#undefined) world, Alpha stands for excess return against the market while assuming that markets are efficient and there is no systematic opportunity that returns beat the market.
+In the [TradFi](glossary.md#tradfi) world, Alpha stands for excess return against the market while assuming that markets are efficient and there is no systematic opportunity that returns beat the market.
 
 In Crypto and [DeFi](glossary.md#defi), Alpha is a term often used for a first look into a new product, that is released in an early version.
 
@@ -24,7 +24,7 @@ A [TradFi](glossary.md#tradfi)-metric to measure the volatility (or system risk)
 
 ## Bridging
 
-If a user wants to move funds from one blockchain to another, so say from Ethereum to Solana, or just want to make use of [L2](glossary.md#l1-l2) scaling solutions on a sidechain of Ethereum, a bridge helps to transfer these funds. Learn more on bridges [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/bridges).
+If a user wants to move funds from one blockchain to another, so say from Ethereum to Solana, or just want to make use of [L2](glossary.md#l1-l2) scaling solutions on a sidechain of Ethereum, a bridge helps to transfer these funds.&#x20;
 
 ## Call Option&#x20;
 
@@ -84,7 +84,7 @@ A Investment platform can be described as an online service (or in terms of [DeF
 
 In distributed ledger systems like blockchains, L1 refers to Layer 1, the so-called base layer of the blockchain where all transactions are finally settled.
 
-L2 refers to a third-party integration (like a side-chain) that processes transactions and bundles them for final settlement on the underlying L1 blockchain. L2 solutions abstract the majority of the processing in order to improve scalability and efficiency. Read more on them [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols).
+L2 refers to a third-party integration (like a side-chain) that processes transactions and bundles them for final settlement on the underlying L1 blockchain. L2 solutions abstract the majority of the processing in order to improve scalability and efficiency.&#x20;
 
 ## Liquidity Coverage Ratio (LCR)&#x20;
 
@@ -104,7 +104,7 @@ Short for Maximum Extractable Value, in the past Miner Extractable Value. The te
 
 ## Optimistic Rollup
 
-An Optimistic Rollup is a [Layer-2](glossary.md#layer-1-layer-2) scaling technique developed by the Optimism Foundation, that is used by major L2 like [Optimism](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/optimism) and [Arbitrum](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/arbitrum). Optimistic Rollups assumes every transaction is valid (until proven that it is false) and bundle several transactions into one single transaction, that is then published to the Ethereum execution layer.
+An Optimistic Rollup is a [Layer-2](glossary.md#layer-1-layer-2) scaling technique developed by the Optimism Foundation, that is used by major L2 like Optimism and Arbitrum. Optimistic Rollups assumes every transaction is valid (until proven that it is false) and bundle several transactions into one single transaction, that is then published to the Ethereum execution layer.
 
 ## Perpetual Swaps&#x20;
 
@@ -124,11 +124,11 @@ Sharpe ratio is used to measure an investment portfolio´s performance. It repre
 
 ## Stablecoin
 
-A token that tries to maintain a stable exchange rate to an established fiat currency is called stablecoin. Thus, most stablecoins try to maintain a 1:1 peg to the US-Dollar. Learn more about stablecoins [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/asset-layer/stablecoins).
+A token that tries to maintain a stable exchange rate to an established fiat currency is called stablecoin. Thus, most stablecoins try to maintain a 1:1 peg to the US-Dollar.&#x20;
 
 ## Staking&#x20;
 
-For Proof-of-Stake blockchains, Staking refers to locking your funds in the native crypto asset of the blockchain to secure the network and be rewarded when a new block is mined and attached to the blockchain. More about Staking services can be found [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/staking).
+For Proof-of-Stake blockchains, Staking refers to locking your funds in the native crypto asset of the blockchain to secure the network and be rewarded when a new block is mined and attached to the blockchain.&#x20;
 
 ## TradFi
 
@@ -148,8 +148,8 @@ Value-at-risk (VaR) is a statistical measure used to calculate the maximum poten
 
 ## Yield Farming&#x20;
 
-Yield farming is a popular strategy in DeFi to boost your yield by lending and re-investing token in various protocols to earn high returns in form of additional token. If you want to learn more about Yield aggregators, look [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/aggregation-layer/yield-aggregators).
+Yield farming is a popular strategy in DeFi to boost your yield by lending and re-investing token in various protocols to earn high returns in form of additional token.
 
 ## Zero-Knowledge Rollups (ZK-Rollups)
 
-ZK-Rollups are another [L2](glossary.md#layer-1-layer-2)-scaling technique. In contrast to [Optimistic Rollups](glossary.md#optimistic-rollup), a ZK-Rollup do not assume that a transaction valid but instead proves it instantly by using so-called validity proofs. Learn more on this [here](https://docs.credmark.com/the-credmark-s-guide-to-defi/settlement-layer/l2-protocols/immutable-x).
+ZK-Rollups are another [L2](glossary.md#layer-1-layer-2)-scaling technique. In contrast to [Optimistic Rollups](glossary.md#optimistic-rollup), a ZK-Rollup do not assume that a transaction valid but instead proves it instantly by using so-called validity proofs.&#x20;
